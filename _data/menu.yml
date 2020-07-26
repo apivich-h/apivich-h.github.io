@@ -1,0 +1,24 @@
+- title: "About Me"
+  href: "/about/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Projects"
+  href: "/projects/"
+
+- title: "YouTube"
+  href: "/youtube/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "Others"
+  href: "/others/"
+  subcategories:
+    - subtitle: "Travelling"
+      subhref: "/others/travel/"
+    - subtitle: "Interesting Stuff"
+      subhref: "/others/interesting/"
+    - subtitle: "About This Site"
+      subhref: "/others/about-site/"
