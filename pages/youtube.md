@@ -15,7 +15,7 @@ RandomMathsInc is a channel where I post educational (and entertaining) videos a
 I try to post videos on there when I have an idea and I have the time to execute those ideas. Unfortunately, I often have the ideas but usually not enough time for the videos. My upload schedule is therefore very inconsistent (_sad emoji_).
 
 If you just want to check out the highlights, I recommend the following.
-- <a href="https://www.youtube.com/watch?v=5aQV1iJiZwA&t=2s">The video where I made a solver for the game Flows</a>. This is probably my favourite video, since I showcased a great maths project I did while also going on a 40-minute tangent talking about linear programming and its applications.
+- <a href="https://www.youtube.com/watch?v=5aQV1iJiZwA">The video where I made a solver for the game Flows</a>. This is probably my favourite video, since I showcased a great maths project I did while also going on a 40-minute tangent talking about linear programming and its applications.
 - <a href="https://www.youtube.com/watch?v=hNkrqdN1tJs">The video on The Second Law of Thermodynamics</a>. It is a different kind of video in that it is more lecture-like, but I still decided to make a video about it since it is one of the most interesting way I have seen the law being explained.
 - <a href="https://www.youtube.com/watch?v=l27xKSNad2Y">The video on the Gaussian Integral</a>, which is my currently most-viewed video. Somehow enough people thought a low-quality video animated on MS Paint is worth a watch.
 - <a href="https://www.youtube.com/watch?v=q6gJ2T0NSwM">The video on the Monte Carlo method</a>.
