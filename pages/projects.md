@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
+last_updated: 2020-07-26
 ---
 On this page, I have listed different projects that I have done either for my classes, as a research project or for fun. I will try to keep this page updated as I have more projects to present.
 

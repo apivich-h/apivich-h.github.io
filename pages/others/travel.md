@@ -2,6 +2,7 @@
 layout: page
 title: Travelling
 permalink: /others/travel/
+last_updated: 2020-07-26
 ---
 
 Yeah, I don't go travelling too often. My last big trips were both in 2018, when I went to England for a week (where I visited Cheltenham and London), and when I spent four months in the United States (mainly stayed in Madison but also spent a few days in Chicago).

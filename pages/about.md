@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+last_updated: 2020-07-26
 ---
 
 {% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width=300 align="right" %}

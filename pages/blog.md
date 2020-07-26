@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: A Blog of Random Things
 permalink: /blog/
 ---
 
