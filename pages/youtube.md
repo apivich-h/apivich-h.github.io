@@ -8,7 +8,7 @@ I have two YouTube channels. You can click on the channel names to go to their Y
 
 # <a href="https://www.youtube.com/c/RandomMathsInc">RandomMathsInc</a>
 
-<img src="/images/rmi.png" width=150 align="right" style="padding-left: 20px">
+{% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width=150 align="right" %}
 
 RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of July 2020, the channel has around 6.6k subscribers.
 

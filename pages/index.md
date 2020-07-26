@@ -5,7 +5,7 @@ permalink: /
 ---
 # Welcome!
 
-{% include image.html url="/images/homepic.jpg" caption="A view of Chiang Mai from a rooftop (10 points if you know which one)" width=pagewidth align="top" %}
+{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop (10 points if you know which one)" width=pagewidth align="top" %}
 
 Hi. I'm Apivich Hemachandra, although I also go by the name Kaotoo.
 
