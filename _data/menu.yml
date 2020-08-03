@@ -20,5 +20,7 @@
       subhref: "/others/travel/"
     - subtitle: "Interesting Stuff"
       subhref: "/others/interesting/"
+    - subtitle: "Random Facts"
+      subhref: "/others/facts/"
     - subtitle: "About This Site"
       subhref: "/others/about-site/"

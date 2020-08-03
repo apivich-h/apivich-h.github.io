@@ -54,3 +54,4 @@ Here I compile a list of interesting and useful websites for you guys.
 - <a href="http://murderousmaths.co.uk/">The Murderous Maths Website</a>, which is the website for one of the best ever series of books ever written, and also has some fun maths-y things to do
 - <a href="https://www.wolframalpha.com">Wolfram Alpha</a>, which is a great tool to do any types of computation (it even does dimension analysis for you!)
 - <a href="http://ditonus.com/coldcode/">X&Y Album Art Generator</a>
+- And finally, <a href="/others/interesting/">a page consisting of interesting things I have found</a>
