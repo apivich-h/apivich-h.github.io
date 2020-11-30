@@ -153,8 +153,8 @@ h1 /* .post-title */ {
 }
 
 .footnotes ol li {list-style-type:decimal;}
-.footnotes ol {font-size:.85em; color:#666666;}	
-	
+.footnotes ol {font-size:.85em; color:#666666;}
+
 html {
   overflow-y: scroll;
 }
@@ -185,3 +185,18 @@ ul.listing li.listing-item a {
 	font-family: 'Titillium Web', sans-serif;
 }
 
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #000000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:2px solid #000000;
+		text-align: center;
+		vertical-align: middle;
+}

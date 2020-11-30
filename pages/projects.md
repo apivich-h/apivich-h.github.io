@@ -2,9 +2,13 @@
 layout: page
 permalink: /projects/
 title: Projects
-last_updated: 2020-07-26
+last_updated: 2020-11-30
 ---
 On this page, I have listed different projects that I have done either for my classes, as a research project or for fun. I will try to keep this page updated as I have more projects to present.
+
+# Senior Thesis
+
+The title of my undergraduate thesis is **"Data Diversification in Different Domains"**. You can click <a href="/projects/thesis">here</a> for further details.
 
 # Research Projects
 

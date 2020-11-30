@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My YouTube Channels
-permalink: /youtube/
+permalink: /others/youtube/
 last_updated: 2020-07-26
 ---
 I have two YouTube channels. You can click on the channel names to go to their YouTube pages.

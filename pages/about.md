@@ -17,6 +17,6 @@ By the time I decided I wanted to do computer science instead, I was in my third
 
 At the moment I work on different computer science-related projects with several different people. Some are research projects on various different topics, while some are projects which are industry-oriented. Having done work with many different people for different purposes has allowed me to appreciate the beauty of computer science, and how applicable it is in the modern society.
 
-I am currently on a year break from studying, although I hope to attend a graduate school in the near future (hopefully within the next year if someone accepts me).
+I am currently on a year break from studying, doing part-time work alongside some research work, although I hope to attend a graduate school in the near future.
 
 When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist. I also enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who will hopefully be in the Premier League soon).

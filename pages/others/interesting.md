@@ -4,7 +4,7 @@ title: Interesting Stuff
 permalink: /others/interesting/
 last_updated: 2020-07-26
 ---
-I browse the internet a lot, and I often find many amusing things on there. On this page, I keep a collection of them all, so you guys can also have a look. I will put the things here into a couple of categories. Within each categories, I categorise the things in alphabetical order.
+I browse the internet a lot, and I often find many amusing things on there. On this page, I keep a collection of them all, so you guys can also have a look. I will put the things here into a couple of categories. 
 
 ## YouTube Channels
 
@@ -20,6 +20,7 @@ Here are a mix of YouTubers that I enjoy watching. Some are educational, some ar
 - <a href="https://www.youtube.com/user/standupmaths">Stand-up Maths (aka Matt Parker)</a>, a maths educator
 - <a href="https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ">Tifo Football</a>, a football-related channel who has a very unique way of presenting their data
 - <a href="https://www.youtube.com/user/enyay">Tom Scott</a>, a YouTuber who does a bit of everything (from videos on Things You Might Not Know to him and his friends doing funny panel shows based on Wikipedia articles)
+- <a href="https://www.youtube.com/channel/UCcf4LQogGFtYzPhq05uHE4g">udiprod</a>, a Youtube who does nice animations on physics and computer science
 - <a href="https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw">William Osman</a>, an engineer who also makes cool things online
 
 ## Subreddits
@@ -28,7 +29,6 @@ I enjoy browsing Reddit a lot, and I have subscribed to many subreddits. Many of
 
 Below, I compile just a couple of subreddits that I like. You might find them interesting too.
 
-- `r/anime_titties` is, interestingly, a subreddit about world news (funny story why this subreddit is called that)
 - `r/AVoid5`, a location in which posts must avoid words containing fifthglyphs
 - `r/badUIbattles` where people try their best to create things with bad user interfaces
 - `r/cheeseburgers` which is a collection of photos of the best food mankind has ever invented
@@ -55,3 +55,13 @@ Here I compile a list of interesting and useful websites for you guys.
 - <a href="https://www.wolframalpha.com">Wolfram Alpha</a>, which is a great tool to do any types of computation (it even does dimension analysis for you!)
 - <a href="http://ditonus.com/coldcode/">X&Y Album Art Generator</a>
 - And finally, <a href="/others/interesting/">a page consisting of interesting things I have found</a>
+
+## Random Facts
+
+They mostly are just minor yet interesting trivia, or some mistake I learnt about. I will also sort them all by the date I found out about it. Maybe you'll learn something too (or maybe not if you know everything I listed out here).
+
+- `2020-11-28` - Only humans and armadillos can catch leprosy. I found this while randomly watching Taskmaster (10 points if you know which episode).
+
+- `2020-08-05` - That one of the algorithms that can be used for the <a href="https://en.wikipedia.org/wiki/Fast_Fourier_transform">fast Fourier Transform</a> is just a divide-and-conquer algorithm. I always thought it was something more complicated (since the actual Fourier Transform is just a whole bunch of integration).
+
+- `2020-07-29` - The transition from one scene in a video to another scene in a video or some music piece is actually called a <a href="https://www.merriam-webster.com/dictionary/segue">segue</a>, not a <a href="https://en.wikipedia.org/wiki/Segway">Segway</a> (I learnt this from <a href="https://www.youtube.com/watch?v=WVDQEoe6ZWY">this unrelated video</a>).
