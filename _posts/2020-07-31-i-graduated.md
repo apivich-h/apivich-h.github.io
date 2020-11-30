@@ -23,13 +23,13 @@ Outside the more technical classes, I also took some General Education classes, 
 
 ## What were your _least_ favourite classes?
 
-Amongst my physics classes, definitely Nuclear Physics. I didn't really like the content of the class (as in it wasn't really that interesting to me). It all seemed like a whole bunch of maths and theories about the subatomic particles and their behaviours, and it just never clicked in my head. It wasn't a class which I wanted to go home and read more about, I just did the bare minimum to get through the class.
+Amongst my physics classes, definitely Nuclear Physics. I didn't really like the content of the class (as in it wasn't really that interesting to me). It all seemed like a whole bunch of maths and theories about the subatomic particles and their behaviours, and it just never clicked in my head.
 
 Outside the physics classes, I also took a couple of classes where the contents were somewhat interesting, but studying for their exams was a painful experience. Two that came to mind for me were Science of Food (which just boiled down to remembering a lot of chemistry and biology facts), and Introduction to Geology (partially because I took this class in my last term when I already had a lot of other things I had to do already).
 
 ## Any regrets with your choices of classes?
 
-One regret I had about my electives was picking Astrophysics over the other physics electives. Don't get me wrong, Astrophysics is a perfectly good class (it teaches you space stuff which of course is interesting), but it isn't as interesting as pop science would make it out to be. I very soon realise that there were much more interesting electives on offer which came later on, including Computational Physics (which I sort of did quite a bit along the way anyway), Differential Geometry (which I would have loved), and even Plasma Physics.
+One regret I had about my electives was picking Astrophysics over the other physics electives. Don't get me wrong, Astrophysics is a perfectly good class (it teaches you space stuff which of course is interesting), but it isn't as interesting as pop science would make it out to be. I very soon realise that there were much more interesting electives on offer which came later on, including Differential Geometry (which I would have loved), and even Plasma Physics.
 
 Outside that, I really wanted to take Introduction to Philosophy. Every semester since I had the idea to take this class, I either had too many other classes I had to take already, or the class was not open. Most terms I just went, "eh, I'll try again next term". And then my last term came and I never took the class. Had to take Logic instead to fulfil the required credits which was okay but still wasn't really my preferred choice.
 
@@ -37,7 +37,7 @@ Also not really a regret, but I wished I majored in Maths instead. For reasons t
 
 ## What was your thesis about?
 
-After I clear a couple of related things I'll have an entire post dedicated to it. For now though, let's say I did things about submodular functions, and another thing about machine translation, and I just merged the two projects there into one giant document which I submitted as my thesis. And I passed so it's all good.
+I would like to direct you <a href="/projects/thesis">here</a>.
 
 ## What things outside class did you enjoy?
 

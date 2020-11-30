@@ -6,17 +6,25 @@ last_updated: 2020-11-30
 ---
 On this page, I have listed different projects that I have done either for my classes, as a research project or for fun. I will try to keep this page updated as I have more projects to present.
 
+<br>
+
 # Senior Thesis
 
-The title of my undergraduate thesis is **"Data Diversification in Different Domains"**. You can click <a href="/projects/thesis">here</a> for further details.
+The title of my undergraduate thesis is **"Data Diversification in Different Domains"**. You can visit <a href="/projects/thesis">this page</a> for further details.
+
+<br>
 
 # Research Projects
 
-At the moment, I have no published works. However, I am currently working on a project in submodular maximisation algorithms, and another related to neural machine translation tasks.
+At the moment, I have no published works. However, I will update this section when one is available.
+
+<br>
 
 # Industry-Related Projects
 
 I, with a few others, are working on projects with PTTEP, a Thai company who deals with extraction of petroleum. The projects I work on involves automation of tasks currently done by human, and will often require skills and knowledge from machine learning, statistics, mathematics and even physics. To make sure I do not break any non-disclosure agreements, I will not be describing the details of the projects here.
+
+<br>
 
 # Other Projects
 
@@ -43,7 +51,7 @@ I, with a few others, are working on projects with PTTEP, a Thai company who dea
   <li>
     <b> BJ 21 </b><br>
 
-    A project I did for my OOC class. This was a variant of Black Jack, where two players face off online and try to make their cards get as close to some score without going over. We added some bonus cards to make the game more interesting, and made it an online multiplayer game. <br>
+    A project I did for my Interacton Designs class. This was a variant of Black Jack, where two players face off online and try to make their cards get as close to some score without going over. We added some bonus cards to make the game more interesting, and made it an online multiplayer game. <br>
 
     The project involved a team of five. Myself and another friend handled the backend side of the game, where we made sure the game mechanics work as intended.
 

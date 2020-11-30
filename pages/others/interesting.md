@@ -2,7 +2,7 @@
 layout: page
 title: Interesting Stuff
 permalink: /others/interesting/
-last_updated: 2020-07-26
+last_updated: 2020-11-28
 ---
 I browse the internet a lot, and I often find many amusing things on there. On this page, I keep a collection of them all, so you guys can also have a look. I will put the things here into a couple of categories. 
 

@@ -5,9 +5,11 @@ title: Senior Thesis
 last_updated: 2020-11-30
 ---
 
-## Data Diversification in Different Domains
+# Data Diversification in Different Domains
 
-<a class="color-button" href="/projects/thesis/Thesis.pdf">pdf</a>
+### Related Links
+
+<a class="color-button" href="/projects/thesis/Thesis.pdf">full text (pdf)</a>
 
 ### Abstract 
 
