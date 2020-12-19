@@ -1,19 +1,20 @@
 - title: "About Me"
   href: "/about/"
 
+- title: "CV"
+  href: "/cv/"
+  
 - title: "Projects"
   href: "/projects/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "YouTube"
+  href: "/youtube/"
 
 - title: "Others"
   href: "/others/"
   subcategories:
     - subtitle: "Blog"
       subhref: "/blog/"
-    - subtitle: "YouTube"
-      subhref: "/others/youtube/"
     - subtitle: "Travelling"
       subhref: "/others/travel/"
     - subtitle: "Interesting Stuff"

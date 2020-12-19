@@ -1,16 +1,20 @@
 ---
 layout: page
 title: My YouTube Channels
-permalink: /others/youtube/
-last_updated: 2020-07-26
+permalink: /youtube/
+last_updated: 2020-12-19
 ---
 I have two YouTube channels. You can click on the channel names to go to their YouTube pages.
+
+<br>
 
 # <a href="https://www.youtube.com/c/RandomMathsInc">RandomMathsInc</a>
 
 {% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width=150 align="right" %}
 
-RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of July 2020, the channel has around 6.6k subscribers.
+RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of December 2020, the channel has around 7.2k subscribers.
+
+I often describe my videos as anti-3Blue1Brown, since 3B1B does their illustrations on Manim (which is all nice and professional), whereas I tend to do my drawings on Paint (which is not all nice and professional).
 
 I try to post videos on there when I have an idea and I have the time to execute those ideas. Unfortunately, I often have the ideas but usually not enough time for the videos. My upload schedule is therefore very inconsistent (_sad emoji_).
 
@@ -23,6 +27,8 @@ If you just want to check out the highlights, I recommend the following.
 - <a href="https://www.youtube.com/watch?v=vl0KpMljxsU">Half-Life</a>, a physics parody of Blur's Parklife (which is blocked in some countries).
 
 I can't list out all of my videos on here, so if you think this channel has something that might be up your alley, I recommend you go check it out.
+
+<br>
 
 # <a href="https://www.youtube.com/channel/UCTwdd4u7a301TWVMOVGXk-g">RMI The Second</a>
 
