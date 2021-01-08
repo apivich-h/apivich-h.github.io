@@ -2,7 +2,7 @@
 layout: page
 title: Interesting Stuff
 permalink: /others/interesting/
-last_updated: 2020-11-28
+last_updated: 2020-12-22
 ---
 I browse the internet a lot, and I often find many amusing things on there. On this page, I keep a collection of them all, so you guys can also have a look. I will put the things here into a couple of categories. 
 
@@ -59,6 +59,8 @@ Here I compile a list of interesting and useful websites for you guys.
 ## Random Facts
 
 They mostly are just minor yet interesting trivia, or some mistake I learnt about. I will also sort them all by the date I found out about it. Maybe you'll learn something too (or maybe not if you know everything I listed out here).
+
+- `2020-12-22` - You can place 32 knights on a chessboard without any of them attacking each other. It's quite an obvious fact after a bit of thought, but also a very neat argument to show the fact (proof can be written in a line). It has been taken from <a href="https://www.youtube.com/watch?v=mV2e2aokU-0">this clip from QI</a>.
 
 - `2020-11-28` - Only humans and armadillos can catch leprosy. I found this while randomly watching Taskmaster (10 points if you know which episode).
 

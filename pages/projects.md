@@ -16,7 +16,7 @@ The title of my undergraduate thesis is **"Data Diversification in Different Dom
 
 # Research Projects
 
-At the moment, I have no published works. However, I will update this section when one is available.
+At the moment, I have no published works. However, I will update this section when one is available (current goal is to have something here by the end of January).
 
 <br>
 

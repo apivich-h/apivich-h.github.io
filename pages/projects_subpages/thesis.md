@@ -23,4 +23,4 @@ Diversification, Natural Language Processing, Submodular Maximisation
 
 ### Extensions From This Work
 
-I intend to continue building on the content from this thesis and eventually publish the resulting work. I will update this section once such work is available.
+I intend to continue building on the content from this thesis and eventually publish the resulting work. I will update this section once such work is available (aiming for the end of January).
