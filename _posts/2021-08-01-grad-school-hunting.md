@@ -86,7 +86,7 @@ There were a lot of things I had to do before I can travel in July. I always had
 
 ## What now?
 
-{% include image.html url="/images/blog/grads/IMG_8884.jpg" caption="Surprisingly good quarantine food" width=300 align="right" %}
+{% include image.html url="/images/blog/grads/IMG_8884.JPG" caption="Surprisingly good quarantine food" width=300 align="right" %}
 
 As mentioned earlier, I have now made my way to Singapore, and will be starting school in around a week. Yes, the classes will be online but the school did advise on us coming here if possible since classes may switch to on-site later on, and also that there are some formalities that must be completed in-person here. Now it is just getting ready for classes and looking at which professors I may want to work with in the next few years. 
 
