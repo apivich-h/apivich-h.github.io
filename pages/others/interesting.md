@@ -8,12 +8,13 @@ I browse the internet a lot, and I often find many amusing things on there. On t
 
 ## YouTube Channels
 
-Here are a mix of YouTubers that I enjoy watching. Some are educational, some are more entertainment, and some are a mix of both. I tried to only list out the ones that I feel doesn't have enough subscribers, otherwise this list would go on for a bit too long.
+Here are a mix of YouTubers that I enjoy watching. Some are educational, some are more entertainment, and some are a mix of both. I tried to only list out the ones that I feel doesn't have enough subscribers, otherwise this list would go on for a bit too long. The list is in alphabetical order.
 
 - <a href="https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA">Andrew Dotson</a>, a physics graduate student who posts all things physics (even memes)
 - <a href="https://www.youtube.com/user/muffinman3000">Daniel Thrasher</a>, a musician who mostly makes music skits
 - <a href="https://www.youtube.com/user/DoctorBenjyFM">DoctorBenjy FM</a>, a stream most known for playing Football Manager and creating very interesting storylines for his saves
 - <a href="https://www.youtube.com/user/spencerbets">Hashtag United</a>, a non-league football team who posts all their progress on YouTube
+- <a href="https://www.youtube.com/channel/UCi9SqUCnW_flgsrl6_PRJFQ">HITC Sevens</a>, a football channel with unique football stories from a more historical/political/??? aspect
 - <a href="https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw">I Did A Thing</a>, an Australian YouTuber who makes cool things whilst narrating the process with a very monotone voice
 - <a href="https://www.youtube.com/user/jacksfilms">Jacksfilms</a>, an unemployed YouTuber who makes skits on the internet
 - <a href="https://www.youtube.com/user/jonbois">Jon Bois</a>, who creates very nice visual illustrations involving statistics from different sports (some of his other contents are on the SB Nation channel though)
@@ -25,7 +26,7 @@ Here are a mix of YouTubers that I enjoy watching. Some are educational, some ar
 
 ## Subreddits
 
-I enjoy browsing Reddit a lot, and I have subscribed to many subreddits. Many of them are hobby-based (e.g. subreddits for a particular sports team or a particular band), but many of them just have random contents on them. If you look up something you enjoy, you will probably find a subreddit for it.
+I enjoy browsing Reddit a lot, and I have subscribed to many subreddits. Many of them are hobby-based (e.g. subreddits for a particular sports team, TV show or musical band), but many of them just have random contents on them. If you look up something you enjoy, you will probably find a subreddit for it.
 
 Below, I compile just a couple of subreddits that I like. You might find them interesting too.
 
@@ -37,6 +38,7 @@ Below, I compile just a couple of subreddits that I like. You might find them in
 - `r/DiWHY` which shows that not every DIY projects are good
 - `r/HaveWeMet` where people all pretend to live in the same town
 - `r/MapPorn` for interesting visualisations about the world
+- `r/StopDoingScience` which encourages people to stop doing certain branches of science (my favourite meme format)
 - `r/thaithai` for a community of Thai-speaking people
 - `r/theocho` for weird sports from all around the world
 - `r/UnsentLetters` to hear about things people wanted to say to someone but couldn't
@@ -45,7 +47,7 @@ To visit these subreddits, you can go to `www.reddit.com/r/{SUBREDDIT_NAME}`.
 
 ## Other Websites
 
-Here I compile a list of interesting and useful websites for you guys.
+Here I compile a list of interesting and useful websites.
 
 - <a href="https://www.sbnation.com/a/17776-football/chapter-1">17776</a>, a look into the future of (American) football
 - <a href="http://www.chemguide.co.uk/">Chemguide</a>, which is the only reason I passed A-Level Chemistry

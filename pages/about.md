@@ -2,21 +2,38 @@
 layout: page
 title: About Me
 permalink: /about/
-last_updated: 2021-01-08
+last_updated: 2021-08-01
 ---
 
 {% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width=300 align="right" %}
 
-Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo.
+Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
-I was born in Bangkok, but was raised in Chiang Mai for the first 18 years of my life. In Chiang Mai, I completed my A-Levels in Mathematics, Physics, Chemistry and Biology.
+I have recently been accepted to the School of Computing at National University of Singapore (NUS) as a graduate student. Since this is my first semester, I do not have a research advisor just yet. 
 
-I then continued my studies at Mahidol University International College, where I completed my undergraduate degree in Physics, with minors in Computer Science and Mathematics. During these four years, I made a lot of discoveries about myself, including the fact that I didn't want to pursue physics at higher levels, and that I was more interested in computer science. High school never really exposed me to computer science, but as I took more classes in CS at university, it felt closer to what I was interested in working on.
+Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification</a>[^2].
 
-By the time I decided I wanted to do computer science instead however, I was in my third year of university, and have completed a majority of my physics credits needed. To compensate, I started taking extra computer science classes, and found internships related to computer science.
+I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand. 
 
-I have worked on different computer science-related projects with different groups of people. Some are research projects related to ML or algorithms, while some are projects which are industry-oriented (often requiring knowledge from operations research). Having done work with many different people for different purposes has allowed me to appreciate the beauty of computer science, and how applicable it is in the modern society.
+For more details you may check out <a href="/cv">my CV</a>.
 
-I am currently on a year break from studying, working part-time as a data analyst (to feed myself) while also doing other research work in my spare time (since it is very enjoyable). I plan to attend graduate school in the near future, hopefully when COVID-19 isn't as much of a disruption to daily lives anymore.
+### Personal Life
 
-When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist. I also enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who will hopefully be in the Premier League soon).
+I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree. 
+
+When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist, and helped running music club back in high school. 
+
+I enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who will hopefully be in the Premier League soon). 
+
+<a href="/youtube">I also make maths videos whenever I have enough free time</a>.
+
+<br/>
+
+___
+
+<br/>
+
+
+[^1]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="(https://en.wikipedia.org/wiki/Thai_name)">here</a>, but in brief, _Apivich Hemachandra_ is more for formal documents and events, whereas _Kaotoo_ is what people would usually refer to me as.
+
+[^2]: I asked my physics program director nicely enough and he allowed me to do a thesis on a topic related to computer science.

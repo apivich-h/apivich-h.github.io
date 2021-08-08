@@ -4,7 +4,7 @@ title: A Blog of Random Things
 permalink: /blog/
 ---
 
-Here I keep a record of things that have been on my mind enough that I have decided to write a post about. Some of these are academic, while some are just a post that serves for my own self-reflection.
+Here I keep a record of things that have been on my mind enough that I have decided to write a post about. It acts more like a scrap book of random things I sometimes write to, rather than a diary which I regularly update. Some of the posts are academic, while some are more of my self-reflection.
 
 My posts have also been categorised <a href="{{ site.baseurl }}/categories/">here</a> for easier searching.
 
