@@ -58,7 +58,7 @@ I got accepted to two places - the school in Singapore and another in Thailand (
 
 ## So, where did you end up accepting?
 
-{% include image.html url="/images/blog/grads/IMG_8570.jpg" caption="Merlion replica in my bedroom" width=200 align="right" %}
+{% include image.html url="/images/blog/grads/IMG_8570.JPG" caption="Merlion replica in my bedroom" width=200 align="right" %}
 
 I accepted the Singapore offer, mainly because I wanted to try going the adventurous path. 
 
