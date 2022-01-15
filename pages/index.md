@@ -1,16 +1,49 @@
 ---
-layout: default
-title: Home Page
+layout: page
+title: About
 permalink: /
+last_updated: 2022-01-02
 ---
-# Welcome!
 
-{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop (10 points if you know which one)" width=pagewidth align="top" %}
+{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
 
-This site is my corner of the internet, where I post things about myself and my random thoughts. To keep everything in a nice, orderly fashion, I have categorised this site into different sections, navigable from the tab above.
+# About Myself
 
-To know more about me, you can check the <a href="/about">About section</a>. If you are my potential employer, you can also check <a href="/cv">my CV</a> for more details about my professional accomplishments. I have also compiled past works that I have done on <a href="/projects">the projects page</a>, and I will be updating the page as I complete more projects.
+{% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width=300 align="right" %}
 
-I also keep <a href="/blog">a blog</a> where I will post random things I want to share to the world. They might be academic, and sometimes just be things that is up in my mind. The blog mostly serves as an excuse for me to write more. If you are not a fan of reading, you can also check out YouTube channels I have <a href="/youtube">here</a>.
+Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
-If you want to contact me, you can do so by e-mail. _Please do not send me spams_.
+I am currently a first year graduate student at the School of Computing at National University of Singapore (NUS).
+
+Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification</a>[^2].
+
+I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
+
+For more details you may check out <a href="/cv">my CV</a>.
+
+<br/>
+
+___
+
+<br/>
+
+### Personal Life
+
+I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree.
+
+When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist, and helped running music club back in high school.
+
+I enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who will hopefully be in the Premier League soon). 
+
+<a href="/youtube">I also make maths videos whenever I have enough free time</a>.
+
+<br/>
+
+___
+
+<br/>
+
+
+[^1]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="(https://en.wikipedia.org/wiki/Thai_name)">here</a>, but in brief, _Apivich Hemachandra_ is more for formal documents and events, whereas _Kaotoo_ is what people would usually refer to me as.
+
+[^2]: I asked my physics program director nicely enough and he allowed me to do a thesis on a topic related to computer science.

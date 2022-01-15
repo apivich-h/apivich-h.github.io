@@ -1,6 +1,6 @@
 # Site settings
 title: Apivich Hemachandra
-title_short: Apivich H.
+title_short: Apivich H
 nickname: Kaotoo
 general_email: apivich dot hem at gmail dott com
 
@@ -13,7 +13,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://thecheesynachos.github.io" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
 github_username: thecheesynachos
 # linkedin_username: linkedin_username
 # facebook_username: facebook_username
