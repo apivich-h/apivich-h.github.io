@@ -20,13 +20,13 @@ For more details you may check out <a href="/cv">my CV</a>.
 
 <br/>
 
-<br/>
-
-{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
+___
 
 <br/>
 
 ## Personal Life
+
+{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
 
 I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree.
 
