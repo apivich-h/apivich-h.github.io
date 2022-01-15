@@ -1,11 +1,8 @@
 ---
-layout: page
-title: About
+title: Home
 permalink: /
 last_updated: 2022-01-02
 ---
-
-{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
 
 # About Myself
 
@@ -15,7 +12,7 @@ Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
 I am currently a first year graduate student at the School of Computing at National University of Singapore (NUS).
 
-Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification</a>[^2].
+Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification and submodular maximisation</a>[^2].
 
 I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
 
@@ -23,11 +20,13 @@ For more details you may check out <a href="/cv">my CV</a>.
 
 <br/>
 
-___
+<br/>
+
+{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
 
 <br/>
 
-### Personal Life
+## Personal Life
 
 I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree.
 
