@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travelling
-permalink: /others/travel/
+permalink: /random/travel/
 last_updated: 2020-07-26
 ---
 

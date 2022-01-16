@@ -12,8 +12,6 @@
   subcategories:
     - subtitle: "Blog"
       subhref: "/blog/"
-    - subtitle: "Travelling"
-      subhref: "/others/travel/"
     - subtitle: "Interesting Stuff"
       subhref: "/others/interesting/"
     - subtitle: "About This Site"

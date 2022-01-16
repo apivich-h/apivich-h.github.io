@@ -9,4 +9,4 @@ You can find my curriculum vitae/resume <a href="cv.pdf">here</a>. For privacy r
 
 For a list of some classes I have taken in my undergraduate (with rough descriptions of the classes), see <a href="courses_taken.pdf">this document</a>.
 
-For a copy of my transcript, I will only send them when requested or if some application form requires one to be submitted.
+For a copy of my undergraduate transcript, I will only send them when requested or if some application form requires one to be submitted.
