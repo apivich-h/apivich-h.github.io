@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Home
 permalink: /
 last_updated: 2022-01-02
@@ -43,6 +44,6 @@ ___
 <br/>
 
 
-[^1]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="https://en.wikipedia.org/wiki/Thai_name">here</a>, but in brief, _Apivich Hemachandra_ is more for formal documents and events, whereas _Kaotoo_ is what people would usually refer to me as.
+[^1]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="https://en.wikipedia.org/wiki/Thai_name">here</a>, but in brief, _Apivich Hemachandra_ is for formal documents and more formal events, whereas _Kaotoo_ is what people would usually refer to me as in more casual settings. Both names were given to me by my parents at birth.
 
 [^2]: I asked my physics program director nicely enough and he allowed me to do a thesis on a topic related to computer science.
