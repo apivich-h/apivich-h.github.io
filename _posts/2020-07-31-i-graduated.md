@@ -45,7 +45,7 @@ I would like to direct you <a href="/projects/thesis">here</a>.
 
 I did quite a few things during my time at university. Most of my first year was spent as a member of the university Debate team, which was where I made my first group of friends at university. After a year or so I left the team since it wasn't something I wanted to dedicate my time towards (with me having more interests focusing on classes and stuff), but I would still be hanging out with a lot of those people anyway outside club meetings.
 
-I also made quite a lot of friends from the classes I took. The physics major was quite small (there were no more than 15 of us in the program), and we all knew each other quite well. A lot of us also took classes in computer science, and I made a lot of friends there as well (funnily enough my girlfriend is also a computer science student \*_winks_\*).
+I also made quite a lot of friends from the classes I took. The physics major was quite small (there were no more than 15 of us in the program), and we all knew each other quite well. A lot of us also took classes in computer science, and I made a lot of friends there as well.
 
 Computer science students here have a common room referred to as Room 1409 (since it was the actual room number), and I would hang out there quite a lot. I spend a lot of time in there doing work, but I also play quite a bit of games in there. Someone will usually have a Nintendo Switch in the room, and I spend many hours playing Puyo Puyo Tetris with my friends (I was probably the second best Tetris player in that room), and also occasionally beat the juniors at FIFA. We also have a Meme Board in there, where we put very dank memes on display.
 

@@ -44,7 +44,7 @@ Outside of work and family, a few of my high school friends are also back in Chi
 
 ## Where did you end up applying to in the end?
 
-I applied to a total of 9 PhD programs and 1 MSc program. Without mentioning the name of the universities I applied to, 6 of the schools I applied to were in the US, and the remaining were schools in Canada, Switzerland, Singapore, and my home country Thailand. 
+I applied to too many graduate programs. Without mentioning the name of the universities I applied to, a handful of the schools I applied to were in the US, and the remaining were schools in Canada, Switzerland, Singapore, and my home country Thailand. 
 
 I tried to vary the schools I applied to, applying to a few top-tier schools which I did not expect to get accepted to, and a few were more of the middle range where the rankings may not be as high but were in nice cities or had other factors which stood out. I did not apply to any safety schools, and I only applied to schools that I would be happy studying and living in.
 
