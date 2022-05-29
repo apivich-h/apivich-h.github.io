@@ -27,17 +27,22 @@ ___
 
 ## Personal Life
 
-{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
-
+<details> 
+<summary><small>(Click to expand)</small></summary>
+<br/>
 I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree.
-
+<br/><br/>
 When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist, and helped running music club back in high school.
-
-I enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who will hopefully be in the Premier League soon). 
-
+<br/><br/>
+I enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who <s>will hopefully be</s> <i>are now</i> in the Premier League <s>soon</s>). 
+<br/><br/>
 <a href="/youtube">I also make maths videos whenever I have enough free time</a>.
 
+</details>
+
 <br/>
+
+{% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width=pagewidth align="top" %}
 
 ___
 

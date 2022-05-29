@@ -2,6 +2,7 @@
 layout: page
 title: Only Connect - What's The Connection?
 permalink: /random/only_connect_conn
+last_updated: 2022-05-10
 ---
 
 Do you know _Only Connect_? It's a TV show hosted by Victoria Coren Mitchell that I watch even though I can answer less than 10% of the questions asked. I enjoy the show so much I made two pages on this site dedicated to the quiz format. 
