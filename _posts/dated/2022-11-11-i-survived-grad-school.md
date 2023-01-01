@@ -6,7 +6,7 @@ is_dated: true
 description: I have now been in grad school for 1.5 year. This is how it went.
 category: blog
 ---
-{% include image.html url="/images/blog/phd1/mbs.jpg" caption="Me in front of Singapore's most impressive building (btw that hat is not mine)" width=300 align="right" %}
+{% include image.html url="/images/blog/phd1/mbspic.jpg" caption="Me in front of Singapore's most impressive building (btw that hat is not mine)" width=300 align="right" %}
 
 So for those of you who missed it, I am currently a grad student in Singapore, trying really hard to make my way through the complicated concepts of computer science. My major in undergraduate was not computer science which did make things harder, but I felt I have managed to make the shift decently well, having also passed my qualifying exam and ensuring that I won't be immediately kicked out of the school. Here's a record of how I find it so far.
 
