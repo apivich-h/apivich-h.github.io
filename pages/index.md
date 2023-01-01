@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-last_updated: 2022-01-02
+last_updated: 2022-01-01
 ---
 
 # About Myself

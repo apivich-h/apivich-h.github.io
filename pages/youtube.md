@@ -2,9 +2,9 @@
 layout: page
 title: My YouTube Channels
 permalink: /youtube/
-last_updated: 2022-01-02
+last_updated: 2022-01-01
 ---
-I have two YouTube channels. 
+I have two YouTube channels.
 
 <br>
 
@@ -14,7 +14,7 @@ I have two YouTube channels.
 
 _<a href="https://www.youtube.com/c/RandomMathsInc">Click here to go to RandomMathsInc on YouTube.</a>_
 
-RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of January 2022, the channel has around 8.4k subscribers.
+RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of January 2022, the channel has around 9.5k subscribers.
 
 I often describe my videos as anti-3Blue1Brown, since 3B1B does their illustrations on Manim (which is all nice and professional), whereas I tend to do my drawings on Paint or on paper (which is not all nice and professional).
 
