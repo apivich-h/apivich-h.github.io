@@ -2,8 +2,9 @@
 layout: post
 title: I Finally Graduated!
 date: 2020-07-31
+is_dated: true
 description: Here's my thoughts on it
-categories: [milestone, reflection]
+category: blog
 ---
 {% include image.html url="/images/blog/uni/pres.png" caption="Me presenting my thesis in my bedroom" width=300 align="right" %}
 

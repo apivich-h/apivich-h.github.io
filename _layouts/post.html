@@ -5,17 +5,25 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %} by {{ page.author }}{% endif %}
+    {% if page.description %}
+    <h4 class="post-content"><i>{{ page.description }}</i></h4>
+    {% endif %}
+
+    {% if page.last_updated %}
+      <p class="post-meta">Last updated on {{ page.last_updated | date: "%-d %B %Y" }}
+    {% else %}
+      <p class="post-meta">Posted on {{ page.date | date: "%-d %B %Y" }}
+    {% endif %}
 {% if page.categories %}
-  in {
+  in
   {% for cat in page.categories %}
-  <a href="{{ site.baseurl }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
+  <a href="{{ site.baseurl }}/posts/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>
   {% if cat != page.categories[-1] %}
   ,
   {% endif %}
   {% endfor %}
-  }
 {% endif %}
+
 </p>
   </header>
 

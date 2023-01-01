@@ -11,7 +11,7 @@ last_updated: 2022-01-02
 
 Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
-I am currently a first year graduate student at the School of Computing at National University of Singapore (NUS).
+I am a second-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to active learning and collaborative machine learning.
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification and submodular maximisation</a>[^2].
 

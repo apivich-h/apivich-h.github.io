@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Derivation of Bearing Rotation Frequencies
-date: 2020-08-03
-description: We do some maths today
-categories: [physics]
+last_updated: 2020-08-03
+category: physics
 ---
 I recently had to work with bearings and their defects, and one of the concepts I had to get around was about the different frequencies involved with it. They are useful as knowing these frequencies often allow us to determine whether motors are broken just by looking at how they vibrate. That is a whole different issue altogether which I can also write about.
 

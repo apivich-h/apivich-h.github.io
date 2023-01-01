@@ -2,19 +2,17 @@
 title: Apivich Hemachandra
 title_short: Apivich H
 nickname: Kaotoo
-general_email: apivich dot hem at gmail dott com
+general_email: apivich dot hem at gmail dot com
 
 description: > # this means to ignore newlines until "baseurl:"
-  A website where I post things about me and my thoughts.
-
-  Feel free to hang out here for a while.
+  My personal website.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://thecheesynachos.github.io" # the base hostname & protocol for your site
 
-github_username: thecheesynachos
-# linkedin_username: linkedin_username
+github_username: apivich-h
+linkedin_username: apivich-h
 # facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
@@ -25,11 +23,15 @@ kramdown:
   math_engine: mathjax
 
 # Other options
-permalink: blog/:year/:month/:title
+permalink: posts/:categories/:title
 
-# plugins:
+plugins:
+  - jekyll-redirect-from
 #   - jekyll-last-modified-at
 #
 # # Optional. The default date format, used if none is specified in the tag.
 # last-modified-at:
 #     date-format: '%d %B %Y'
+
+whitelist:
+  - jekyll-redirect-from

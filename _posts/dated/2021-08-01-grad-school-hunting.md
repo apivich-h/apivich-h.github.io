@@ -2,8 +2,9 @@
 layout: post
 title: Grad School Hunting And More
 date: 2021-08-01
+is_dated: true
 description: The things I have done in the past 16 months of life
-categories: [milestone, reflection]
+category: blog
 ---
 
 {% include image.html url="/images/blog/grads/IMG_8740.jpg" caption="A view from a hotel foom (with Merlion in the distance)" width=500 align="center" %}

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  My Top 10 Albums
-date: 2020-07-26
-description: The top 10 albums that have shaped my life so far
-categories: [miscellaneous]
+title: My Top 10 Albums
+last_updated: 2020-07-26
+category: music
 ---
 {% include image.html url="/images/blog/albums/cds.JPG" caption="My CD collection (a post about it in the future maybe?)" width=350 align="right" %}
 

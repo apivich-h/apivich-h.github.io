@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About This Site
-permalink: /others/about-site/
+permalink: /about-site/
 ---
 This website is hosted on GitHub Pages. For more details on how to do this, you can check out <a href="https://pages.github.com/">the details on the GitHub website</a> and <a href="https://jekyllrb.com/docs/">this tutorial on Jekyll</a>.
 

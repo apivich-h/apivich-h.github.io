@@ -10,9 +10,7 @@
 - title: "Others"
   href: "/others/"
   subcategories:
-    - subtitle: "Blog"
-      subhref: "/blog/"
-    - subtitle: "Interesting Stuff"
-      subhref: "/others/interesting/"
+    - subtitle: "All Posts"
+      subhref: "/posts/categories/"
     - subtitle: "About This Site"
-      subhref: "/others/about-site/"
+      subhref: "/about-site/"

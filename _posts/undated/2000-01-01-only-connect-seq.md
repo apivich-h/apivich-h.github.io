@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Only Connect - Fourth In The Sequence
-permalink: /random/only_connect_seq
 last_updated: 2022-05-10
+category: trivia
 ---
 
 Do you know _Only Connect_? It's a TV show hosted by Victoria Coren Mitchell that I watch even though I can answer less than 10% of the questions asked. I enjoy the show so much I made two pages on this site dedicated to the quiz format. 
