@@ -5,13 +5,23 @@ permalink: /
 last_updated: 2022-01-01
 ---
 
+<!-- # Updates
+
+<a class="twitter-timeline" data-lang="en" data-width="50%" data-dnt="true" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
+
+--- -->
+
+<br/>
+
 # About Myself
 
 {% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width=300 align="right" %}
 
 Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
-I am a second-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to active learning and collaborative machine learning.
+I am a second-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to neural active learning and collaborative machine learning.
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis">data diversification and submodular maximisation</a>[^2].
 
