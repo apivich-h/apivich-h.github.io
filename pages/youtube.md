@@ -10,7 +10,7 @@ I have two YouTube channels.
 
 # RandomMathsInc
 
-{% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width=150 align="right" %}
+{% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width="150px" align="right" %}
 
 _<a href="https://www.youtube.com/c/RandomMathsInc">Click here to go to RandomMathsInc on YouTube.</a>_
 
@@ -30,6 +30,9 @@ If you just want to check out the highlights, I recommend the following.
 - <a href="https://www.youtube.com/watch?v=vl0KpMljxsU">Half-Life</a>, a physics parody of Blur's Parklife (which is blocked in some countries).
 
 I can't list out all of my videos on here, so if you think this channel has something that might be up your alley, I recommend you go check out the channel, or at least <a href="https://www.youtube.com/playlist?list=PLBzCYlA4J3e5KD8Xb_9AoOHFDs5vVkdWI">a playlist of my favourite videos on there</a>.
+
+(You might also be wondering how the name came about. I don't have the answer since the only person who knows why this name was chosen is my 15-year-old self. My older self 
+essentially just has to live with that choice.)
 
 <br>
 

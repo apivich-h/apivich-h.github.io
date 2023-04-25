@@ -1,22 +1,16 @@
 ---
 layout: page
-title: List of All Posts
-permalink: /posts/categories/
-redirect_from:
-  - /posts/
+title: Posts
+permalink: /posts/
 ---
 
-This page lists all of the other random posts on this site.
-
-<br>
-
----
+On this page I collate some of the posts I have published to the website.
 
 <br>
 
 ## Posts with Dates
 
-The following posts have got a date attached to them.
+The following posts have got a date[^1] attached to them.
 
 <ul class="listing">
 <!-- <li class="listing-seperator">Posts with Dates</li> -->
@@ -42,19 +36,15 @@ The following posts have got a date attached to them.
 
 <br>
 
----
+## Selected Posts By Category
 
-<br>
+The following are posts from some selected categories.
 
-## Posts Sorted by Categories
-
-The following are posts that have been tagged with a certain category.
-
-{% assign sorted_cats = site.categories | sort %}
+{% assign sorted_cats = site.highlight_categories | sort %}
 <ul class="listing">
-{% for category in sorted_cats %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    
+{% for category_name in sorted_cats %}
+    <!-- {% capture category_name %}{{ category | first }}{% endcapture %} -->
+
     <li class="listing-seperator">{{ category_name | capitalize }}</li>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] reversed %}
@@ -64,3 +54,15 @@ The following are posts that have been tagged with a certain category.
     {% endfor %}
 {% endfor %}
 </ul>
+
+<br>
+
+For the list of all posts (including other non-academic ones not listed here), see <a href="/posts/categories">here</a>.
+
+<br>
+
+---
+
+<br>
+
+[^1]: As in _day, month and year_ date and not _I have an appointment with someone_ kind of date.

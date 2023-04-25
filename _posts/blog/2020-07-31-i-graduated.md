@@ -6,7 +6,7 @@ is_dated: true
 description: Here's my thoughts on it
 category: blog
 ---
-{% include image.html url="/images/blog/uni/pres.png" caption="Me presenting my thesis in my bedroom" width=300 align="right" %}
+{% include image.html url="/images/blog/uni/pres.png" caption="Me presenting my thesis in my bedroom" width="300px" align="right" %}
 
 I finally finished my four years of undergraduate, and now I'm out in the real world at least for a while (until I find some place that will accept me for grad school).
 
@@ -42,7 +42,7 @@ I would like to direct you <a href="/projects/thesis">here</a>.
 
 ## What things outside class did you enjoy?
 
-{% include image.html url="/images/blog/uni/memeboard.JPG" caption="Early days of the Meme Board (when the memes weren't that dank yet)" width=300 align="right" %}
+{% include image.html url="/images/blog/uni/memeboard.JPG" caption="Early days of the Meme Board (when the memes weren't that dank yet)" width="300px" align="right" %}
 
 I did quite a few things during my time at university. Most of my first year was spent as a member of the university Debate team, which was where I made my first group of friends at university. After a year or so I left the team since it wasn't something I wanted to dedicate my time towards (with me having more interests focusing on classes and stuff), but I would still be hanging out with a lot of those people anyway outside club meetings.
 

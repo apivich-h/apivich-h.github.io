@@ -1,9 +1,16 @@
 ---
 layout: page
-permalink: /projects/old/
+permalink: /projects-old/
 title: Older Projects
 last_updated: 2020-11-30
 ---
+
+<!-- The following are some of the other projects I have done before to 2020 (most being from my undergraduate).
+
+<br>
+
+# Random Projects -->
+
 Below I list out some other random CS-based projects I have done. Some are software-engineering type work, others are small class projects I did.
 
 <ul>

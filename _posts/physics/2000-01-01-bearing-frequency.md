@@ -12,7 +12,7 @@ But before we get to the derivations - a quick preliminary.
 
 ## Preliminary - Rolling Without Slipping
 
-{% include image.html url="https://slideplayer.com/slide/4773726/15/images/47/ROLLING+WITHOUT+SLIPPING+Velocity+at+any+point+on+a+rolling+object.jpg" caption="Rolling without slipping. Taken from a slide <a href='https://slideplayer.com/slide/4773726/'>here</a>." width=400 align="right" %}
+{% include image.html url="https://slideplayer.com/slide/4773726/15/images/47/ROLLING+WITHOUT+SLIPPING+Velocity+at+any+point+on+a+rolling+object.jpg" caption="Rolling without slipping. Taken from a slide <a href='https://slideplayer.com/slide/4773726/'>here</a>." width="400px" align="right" %}
 
 Imagine just rolling the ball smoothly along the floor. In this case, the ball you have will be both rotating around its centre of mass with some angular velocity $\omega$, and is also moving forward at some speed $v_{CM}$. We can see that we can break these motions down separately.
 
@@ -22,7 +22,7 @@ At the same time, the translation motion will result in each part of the ball to
 
 The result of this is each part of the ball has its own speed. In many cases, we deal with instances where the ball is _rolling without slipping_, which means the bottom part of the ball is stationary with respect to the floor. For this to be the case, it must mean that $v_{CM} = \omega R$ where $R$ is the radius of the ball. Under this condition, the part of the ball touching the ground will have a speed of zero relative to the ground.
 
-{% include image.html url="/images/blog/bearing/plane.jpeg" caption="Ball rolling between two planes" width=400 align="right" %}
+{% include image.html url="/images/blog/bearing/plane.jpeg" caption="Ball rolling between two planes" width="400px" align="right" %}
 
 Now, consider a slightly different scenario, where we now have a ball which is between two planes. Suppose the bottom plane is moving at some speed $V$ and the top plane is stationary (speed of zero). Assume the ball is rolling smoothly (i.e. no slipping) between the planes. Then, the speed of the part of the ball touching the bottom plane must have the speed $V$, and the speed of the part of the ball touching the top plane must have the speed of zero. From the diagram, we can write this as $v_{CM} + \omega R = V$, and $v_{CM} - \omega R = 0$. This solves to $v_{CM} = \frac{V}{2}$ and $\omega = \frac{V}{2R}$. We will use this fact later on.
 
@@ -32,7 +32,7 @@ Consider the following setup of bearing. Here, we have the rollers (in red) whic
 
 In this case, we will be rotating the inner race (for example, having a shaft in the hole and rotating the shaft).
 
-{% include image.html url="/images/blog/bearing/bearing1.jpeg" caption="Cross-section of a simplified bearing" width=500 align="center" %}
+{% include image.html url="/images/blog/bearing/bearing1.jpeg" caption="Cross-section of a simplified bearing" width="500px" align="center" %}
 
 - $S$ is the revolution speed of the inner race (in revolutions per second)
 - $N$ is the number of rollers (balls) the bearing has (for the image above, $N = 6$)
@@ -73,7 +73,7 @@ $$BPFO = N \times FTF = \frac{S N P_i}{2 P}.$$
 
 ### Ball Pass Frequency Inner (BPFI)
 
-{% include image.html url="/images/blog/bearing/bearing2.jpeg" caption="Bearing motion in frame with stationary outer race (left) and stationary inner race (left)" width=400 align="right" %}
+{% include image.html url="/images/blog/bearing/bearing2.jpeg" caption="Bearing motion in frame with stationary outer race (left) and stationary inner race (left)" width="400px" align="right" %}
 
 Similar to the $BPFO$, this is the frequency that a roller passes a certain point on the _inner_ race. By similar logic one might think that this value is also equal to $N \times FTF$. However, you would be wrong.
 
@@ -106,7 +106,7 @@ $$ BSF = BPFO \times \frac{P_o}{R} = \frac{S N P_i P_o}{2 P R} . $$
 
 Some of the expressions above look a bit messy, so let's clean it up.
 
-{% include image.html url="/images/blog/bearing/bearing3.jpeg" caption="Cross-section of a bearing (right image taken from <a href='https://www.skf.com/group/products/rolling-bearings/principles-of-rolling-bearing-selection/general-bearing-knowledge/bearing-basics/terminology'>here</a>)" width=500 align="center" %}
+{% include image.html url="/images/blog/bearing/bearing3.jpeg" caption="Cross-section of a bearing (right image taken from <a href='https://www.skf.com/group/products/rolling-bearings/principles-of-rolling-bearing-selection/general-bearing-knowledge/bearing-basics/terminology'>here</a>)" width="500px" align="center" %}
 
 In most cases we only know the diameters of the roller and the diameter of the cage. Suppose we let $D$ be the diameter of the cage and $d$ be the diameter of the rollers. Then, $D = 2P$ and $d = 2R$.
 

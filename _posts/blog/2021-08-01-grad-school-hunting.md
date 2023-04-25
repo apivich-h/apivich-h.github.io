@@ -7,7 +7,7 @@ description: The things I have done in the past 16 months of life
 category: blog
 ---
 
-{% include image.html url="/images/blog/grads/IMG_8740.jpg" caption="A view from a hotel foom (with Merlion in the distance)" width=500 align="center" %}
+{% include image.html url="/images/blog/grads/IMG_8740.jpg" caption="A view from a hotel foom (with Merlion in the distance)" width="500px" align="center" %}
 
 I am currently writing this post from a hotel room in Singapore. In about a week, I will be taking my first classes as a graduate student. This all sounds like it is happening very fast, but it has been a while coming. Here's a wrap up of what I have been doing in the past 16 months, since April of last year.
 
@@ -37,7 +37,7 @@ Then, it was preparing the documents and scores that I would need for the applic
 
 Since COVID striked, I have moved back to Chiang Mai to stay with my family. After graduation, I remained there in Chiang Mai and managed to get a job which allowed me to work from home and make money to fund my grad school applications and studies. The office was actually in Bangkok, however I stayed home in Chiang Mai to work. I started out there as a part-time employee (since I had to get my grad school applications sorted at first), and only swithced to a full-time employee afterwards. The majority of the employees there were my friends from undergrad though (and the founders were actually alumni at my university), so there was no need for getting to know your coworkers better.
 
-{% include image.html url="/images/blog/grads/IMG_7560.jpg" caption="100% a cat" width=200 align="right" %}
+{% include image.html url="/images/blog/grads/IMG_7560.jpg" caption="100% a cat" width="200px" align="right" %}
 
 During that time I continued to work on the research project that I started in my senior thesis, however since the start of 2021 I have gotten more busy and the project has not really been prioritised. I really did think I would have had a paper published by now, but oh well. I still do intend to work on it later on though.
 
@@ -59,7 +59,7 @@ I got accepted to two places - the school in Singapore and another in Thailand (
 
 ## So, where did you end up accepting?
 
-{% include image.html url="/images/blog/grads/IMG_8570.JPG" caption="Merlion replica in my bedroom" width=200 align="right" %}
+{% include image.html url="/images/blog/grads/IMG_8570.JPG" caption="Merlion replica in my bedroom" width="200px" align="right" %}
 
 I accepted the Singapore offer, mainly because I wanted to try going the adventurous path. 
 
@@ -87,7 +87,7 @@ There were a lot of things I had to do before I can travel in July. I always had
 
 ## What now?
 
-{% include image.html url="/images/blog/grads/IMG_8884.JPG" caption="Surprisingly good quarantine food" width=300 align="right" %}
+{% include image.html url="/images/blog/grads/IMG_8884.JPG" caption="Surprisingly good quarantine food" width="300px" align="right" %}
 
 As mentioned earlier, I have now made my way to Singapore, and will be starting school in around a week. Yes, the classes will be online but the school did advise on us coming here if possible since classes may switch to on-site later on, and also that there are some formalities that must be completed in-person here. Now it is just getting ready for classes and looking at which professors I may want to work with in the next few years. 
 

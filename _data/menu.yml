@@ -1,16 +1,16 @@
-- title: "CV"
-  href: "/cv/"
-  
-- title: "Projects"
-  href: "/projects/"
+- title: "Academic Works"
+  href: "/works/"
 
 - title: "YouTube"
   href: "/youtube/"
 
-- title: "Others"
-  href: "/others/"
-  subcategories:
-    - subtitle: "All Posts"
-      subhref: "/posts/categories/"
-    - subtitle: "About This Site"
-      subhref: "/about-site/"
+- title: "Posts"
+  href: "/posts/"
+
+# - title: "Others"
+#   href: "/others/"
+#   subcategories:
+#     - subtitle: "All Posts"
+#       subhref: "/posts/"
+#     - subtitle: "About This Site"
+#       subhref: "/about-site/"

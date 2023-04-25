@@ -6,7 +6,7 @@ is_dated: true
 description: I have now been in grad school for 1.5 year. This is how it went.
 category: blog
 ---
-{% include image.html url="/images/blog/phd1/mbspic.jpg" caption="Me in front of Singapore's most impressive building (btw that hat is not mine)" width=300 align="right" %}
+{% include image.html url="/images/blog/phd1/mbspic.jpg" caption="Me in front of Singapore's most impressive building (btw that hat is not mine)" width="300px" align="right" %}
 
 So for those of you who missed it, I am currently a grad student in Singapore, trying really hard to make my way through the complicated concepts of computer science. My major in undergraduate was not computer science which did make things harder, but I felt I have managed to make the shift decently well, having also passed my qualifying exam and ensuring that I won't be immediately kicked out of the school. Here's a record of how I find it so far.
 
@@ -26,7 +26,7 @@ This is done while also taking some classes for course requirements as well. I h
 
 ## Anything fun you got to do so far?
 
-{% include image.html url="/images/blog/phd1/com.jpg" caption="Nighttime around the School of Computing" width=300 align="right" %}
+{% include image.html url="/images/blog/phd1/com.jpg" caption="Nighttime around the School of Computing" width="300px" align="right" %}
 
 I mean, being able to work on interesting problems with (relatively) little pressure if it fails is a nice thing. I haven't been exploring other areas as much as I would like to yet (since I have mostly been focusing on this one project for now - quite bad at handling many things at once) but it's still a fun learning experience to get to do all this work. The classes and readings have also opened me up to more topics that I haven't had much of a chance to look at much during my undergraduate. I feel that even if I had to quit my PhD now, the journey I have taken so far would have left me with a good impression and would not have felt like a waste of time considering some of the things that I have gotten to learn over the past 1.5 years.
 
@@ -56,7 +56,7 @@ I came to Singapore in the middle of lockdown, having to even do quarantine befo
 
 Being in the country in late-2021/early-2022 was also great since in the middle of lockdown, a lot of the touristy places had little crowds, and I can go around taking photos and act like tourists but minus the annoyances that comes from having to wait in lines (although that was replaced with having to scan TraceTogether to get into places, which is honestly still preferrable to having to be in a palce with a lot of people).
 
-{% include image.html url="/images/blog/phd1/ball.jpg" caption="Me in front of the Thailand national football team" width=300 align="right" %}
+{% include image.html url="/images/blog/phd1/ball.jpg" caption="Me in front of the Thailand national football team" width="300px" align="right" %}
 
 The other cool thing I got to do due to the quarantine was watching the AFF Suzuki Cup (as it was called then), which is usually held in different stadiums across southeast Asia. However, in 2021, they decided to host all of the matches in Singapore, and as a result, I got to watch Thailand thump Vietnam in one of the semi-finals, and see them eventually receive the trophy to crown them the best team in SE Asia in the final match on New Year 2022. Surprisingly those were the first live football matches I had the chance of going to, and it was watching my national team playing away.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/thesis
-title: Senior Thesis
+permalink: /projects/thesis-u
+title: Undergraduate Senior Thesis
 last_updated: 2020-11-30
 ---
 
@@ -9,7 +9,7 @@ last_updated: 2020-11-30
 
 ### Related Links
 
-<a class="color-button" href="/projects/thesis/Thesis.pdf">full text (pdf)</a>
+<a class="color-button" href="/projects/thesis-u/thesis-u.pdf">full text (pdf)</a>
 
 ### Abstract 
 
@@ -21,6 +21,6 @@ We then focus on data diversification on a wider scope and consider the problem 
 
 Diversification, Natural Language Processing, Submodular Maximisation
 
-### Extensions From This Work
+<!-- ### Extensions From This Work
 
-I intend to continue building on the content from this thesis and eventually publish the resulting work. I will update this section once such work is available.
+I intend to continue building on the content from this thesis and eventually publish the resulting work. I will update this section once such work is available. -->
