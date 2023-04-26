@@ -6,7 +6,6 @@ last_updated: 2023-04-25
 ---
 
 ## Updates
-<!-- <a class="twitter-timeline" data-lang="en" data-width="40%" data-dnt="true" text-align="right" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <ul class="listing">
     <li class="listing-item">
@@ -14,6 +13,12 @@ last_updated: 2023-04-25
       My first-author paper titled <b>"Training-Free Neural Active Learning With Initialization-Robustness Guarantees"</b> has been accepted to ICML 2023.
     </li>
 </ul>
+
+<br/>
+
+For more details about my current progress see <a href="works">my academic works</a> and <a href="/cv/cv.pdf">my CV</a>.
+
+Also see [here](#social) for other updates from Twitter.
 
 <br/>
 
@@ -28,8 +33,6 @@ last_updated: 2023-04-25
 Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
 
 I am a second-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to neural active learning. 
-
-For more details you may check out <a href="works">my academic works</a> and <a href="/cv/cv.pdf">my CV</a>.
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^2]. I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
 
@@ -66,10 +69,25 @@ ___
 
 <br/>
 
-## Social Media
+## <a name="social"></a> Social Media
 
-<a class="twitter-timeline" data-lang="en" data-width="50%" data-dnt="true" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- <iframe width="50%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLBzCYlA4J3e5MbwqA8L8AfMF2C-k6mfnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<!-- <a class="twitter-timeline" data-lang="en" data-width="50%" data-dnt="true" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+<dl id="" class="alignleft" style="width: 100%">
+
+<dl id="" class="alignleft" style="width: 47%">
+
+<dt><a class="twitter-timeline" data-lang="en" data-width="100%" data-height="500px" data-dnt="true" text-align="left" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></dt>
+</dl>
+
+<!-- <dl id="" class="alignleft" style="width: 47%">
+
+<b>Latest videos from RandomMathsInc</b>
+
+<dt><iframe width="100%" height="450px" src="https://www.youtube.com/embed/videoseries?list=PLBzCYlA4J3e5MbwqA8L8AfMF2C-k6mfnf" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></dt>
+</dl> -->
+
+</dl>
 
 <br/>
 
