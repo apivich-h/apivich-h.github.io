@@ -14,13 +14,34 @@ This page contains a list of my publications and other projects I have done. **_
 # Publications
 
 <ol class="listing">
-    <li class="listing-item">
-    Training-Free Neural Active Learning With Initialization-Robustness Guarantees.
-    <br>
-    <b>Apivich Hemachandra</b>, Zhongxiang Dai, Jasraj Singh, Kian Hsiang Low and See-Kiong Ng. 
-    <br>
-    <i>ICML 2023.</i> Acceptance rate: 27.9%. 
-    </li>
+
+<li class="listing-item">
+
+Training-Free Neural Active Learning With Initialization-Robustness Guarantees.
+<br>
+<b>Apivich Hemachandra</b>, Zhongxiang Dai, Jasraj Singh, See-Kiong Ng and Bryan Kian Hsiang Low.
+<br>
+<i>ICML 2023.</i> Acceptance rate: 27.9%.
+<br>
+
+<details> 
+<summary>
+<a class="color-button">abstract (click to show)</a>
+<a class="color-button" href="">paper</a>
+<a class="color-button" href="">code</a>
+<!-- <a class="color-button" href="https://github.com/apivich-h/al-ntk">code</a> -->
+</summary>
+<small>
+Existing neural active learning algorithms have aimed to optimize the predictive performance of neural networks (NNs) by selecting data for labelling.
+However, other than a good predictive performance, being robust against random parameter initializations is also a crucial requirement in safety-critical applications.
+To this end, we introduce our <i>expected variance with Gaussian processes</i> (EV-GP) criterion for neural active learning, which is theoretically guaranteed to select data points which lead to trained NNs with both (a) good predictive performances and (b) initialization robustness.
+Importantly, our EV-GP criterion is training-free, i.e., it does not require any training of the NN during data selection, which makes it computationally efficient.
+We empirically demonstrate that our EV-GP criterion is highly correlated with both initialization robustness and generalization performance, and show that it consistently outperforms baseline methods in terms of both desiderata, especially in situations with limited initial data or large batch sizes.
+</small>
+</details>
+
+</li>
+
 </ol>
 
 <br>

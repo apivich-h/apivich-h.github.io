@@ -18,7 +18,7 @@ last_updated: 2023-04-25
 
 For more details about my current progress see <a href="works">my academic works</a> and <a href="/cv/cv.pdf">my CV</a>.
 
-Also see [here](#social) for other updates from Twitter.
+<!-- Also see [here](#social) for other updates from Twitter. -->
 
 <br/>
 
