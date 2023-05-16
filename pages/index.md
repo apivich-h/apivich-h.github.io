@@ -69,7 +69,7 @@ ___
 
 <br/>
 
-## <a name="social"></a> Social Media
+## <a name="social"></a> Twitter
 
 <!-- <a class="twitter-timeline" data-lang="en" data-width="50%" data-dnt="true" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 

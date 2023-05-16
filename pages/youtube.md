@@ -1,20 +1,25 @@
 ---
 layout: page
-title: My YouTube Channels
+title: My YouTube Channel
 permalink: /youtube/
 last_updated: 2022-01-01
 ---
-I have two YouTube channels.
 
-<br>
+<!-- {% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width="150px" align="right" %} -->
 
-# RandomMathsInc
+<dl id="" class="wp-caption alignright" style="padding: 20px; border: 2px solid gray; text-align: center">
+<dd><u><b>Subscribe to the channel!</b></u></dd>
+<div style="line-height:80%;"><br></div>
+<dt>
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCbxCgvUNo_dCuihbPxTLqiA" data-layout="full" data-count="default" align="right"></div>
+</dt>
+</dl>
 
-{% include image.html url="/images/rmi.png" caption="RandomMathsInc Logo" width="150px" align="right" %}
 
-_<a href="https://www.youtube.com/c/RandomMathsInc">Click here to go to RandomMathsInc on YouTube.</a>_
+I have a YouTube channel. It's called **<a href="https://www.youtube.com/c/RandomMathsInc">RandomMathsInc</a>**.
 
-RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. As of January 2022, the channel has around 9.5k subscribers.
+RandomMathsInc is a channel where I post educational (and entertaining) videos about topics related to maths. Here, the word "maths" is used very loosely, and often my videos end up being about things in physics or computer science. 
 
 I often describe my videos as anti-3Blue1Brown, since 3B1B does their illustrations on Manim (which is all nice and professional), whereas I tend to do my drawings on Paint or on paper (which is not all nice and professional).
 
@@ -31,15 +36,8 @@ If you just want to check out the highlights, I recommend the following.
 
 I can't list out all of my videos on here, so if you think this channel has something that might be up your alley, I recommend you go check out the channel, or at least <a href="https://www.youtube.com/playlist?list=PLBzCYlA4J3e5KD8Xb_9AoOHFDs5vVkdWI">a playlist of my favourite videos on there</a>.
 
-(You might also be wondering how the name came about. I don't have the answer since the only person who knows why this name was chosen is my 15-year-old self. My older self 
-essentially just has to live with that choice.)
+(You might also be wondering how the name came about. I don't have the answer since the only person who knows why this name was chosen is my 15-year-old self. My older self essentially just has to live with that choice.)
 
 <br>
 
-# RMI The Second
-
-_<a href="https://www.youtube.com/channel/UCTwdd4u7a301TWVMOVGXk-g">Click here to go to RMI The Second on Youtube.</a>_
-
-Initially, this channel was simply going to be the second channel to RandomMathsInc (hence the name), where I just post extra information that I cannot fit into a video I post on RandomMathsInc.
-
-However, over time, I just start posting other random stuff on there (including random vlogs of when I go places or just me rambling on about different topics). It therefore has ended up as a channel where I post videos that I feel doesn't belong on RandomMathsInc.
+I also have another channel titled **<a href="https://www.youtube.com/channel/UCTwdd4u7a301TWVMOVGXk-g">RMI The Second</a>**. Initially, this channel was simply going to be the second channel to RandomMathsInc (hence the name), where I just post extra information that I cannot fit into a video I post on RandomMathsInc. However, over time, I just start posting other random stuff on there (including random vlogs of when I go places or just me rambling on about different topics or other random moments in life). It therefore has ended up as a channel where I post videos that I feel doesn't belong on RandomMathsInc.
