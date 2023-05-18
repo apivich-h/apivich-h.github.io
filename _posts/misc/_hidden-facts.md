@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Random Interesting Facts
 last_updated: 2020-12-22
@@ -12,4 +12,4 @@ They mostly are just minor yet interesting trivia, or some mistake I learnt abou
 
 - `2020-08-05` - That one of the algorithms that can be used for the <a href="https://en.wikipedia.org/wiki/Fast_Fourier_transform">fast Fourier Transform</a> is just a divide-and-conquer algorithm. I always thought it was something more complicated (since the actual Fourier Transform is just a whole bunch of integration).
 
-- `2020-07-29` - The transition from one scene in a video to another scene in a video or some music piece is actually called a <a href="https://www.merriam-webster.com/dictionary/segue">segue</a>, not a <a href="https://en.wikipedia.org/wiki/Segway">Segway</a> (I learnt this from <a href="https://www.youtube.com/watch?v=WVDQEoe6ZWY">this unrelated video</a>).
+- `2020-07-29` - The transition from one scene in a video to another scene in a video or some music piece is actually called a <a href="https://www.merriam-webster.com/dictionary/segue">segue</a>, not a <a href="https://en.wikipedia.org/wiki/Segway">Segway</a> (I learnt this from <a href="https://www.youtube.com/watch?v=WVDQEoe6ZWY">this unrelated video</a>). -->

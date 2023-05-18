@@ -2,7 +2,7 @@
 layout: post
 title: Interesting External Links
 last_updated: 2021-08-12
-category: random
+category: lists
 ---
 
 <!-- This page contains random links to random places. -->
@@ -25,7 +25,7 @@ There are a collection of pages on this very website which contain interesting t
 
 I browse the internet a lot, and I often find many amusing things on there. On this page, I keep a collection of them all, so you guys can also have a look. I will put the things here into a couple of categories.
 
-# YouTube Channels
+## YouTube Channels
 
 Here are a mix of YouTubers that I enjoy watching. Some are educational, some are more entertainment, and some are a mix of both. I tried to only list out the ones that I feel doesn't have enough subscribers, otherwise this list would go on for a bit too long. The list is in alphabetical order.
 
@@ -43,7 +43,9 @@ Here are a mix of YouTubers that I enjoy watching. Some are educational, some ar
 - <a href="https://www.youtube.com/channel/UCcf4LQogGFtYzPhq05uHE4g">udiprod</a>, a Youtube who does nice animations on physics and computer science
 - <a href="https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw">William Osman</a>, an engineer who also makes cool things online
 
-# Subreddits
+I also keep another list specifically for YouTube videos.
+
+## Subreddits
 
 I enjoy browsing Reddit a lot, and I have subscribed to many subreddits. Many of them are hobby-based (e.g. subreddits for a particular sports team, TV show or musical band), but many of them just have random contents on them. If you look up something you enjoy, you will probably find a subreddit for it.
 
@@ -64,7 +66,7 @@ Below, I compile just a couple of subreddits that I like. You might find them in
 
 To visit these subreddits, you can go to `www.reddit.com/r/{SUBREDDIT_NAME}`.
 
-# Other Websites
+## Other Websites
 
 Here I compile a list of interesting and useful websites.
 
