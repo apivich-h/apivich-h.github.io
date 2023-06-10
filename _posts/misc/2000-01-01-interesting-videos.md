@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Videos on YouTube
-last_updated: 2023-05-18
+last_updated: 2023-05-20
 category: lists
 ---
 
@@ -29,6 +29,8 @@ STEM videos.
 
 Videos that still teach you something but not necessarily related to STEM.
 
+- **[Pad Krapao: The Story Behind Thailand's Real National Dish](https://www.youtube.com/watch?v=1OupK3x8ujw)** by _OTR Food & History_. Real Thai food appreciators (and Thais like myself) will know that the _real_ national dish of Thailand is the Pad Krapao (stir-fried basil and rice) and not Pad Thai or whatever other dish they claim it to be. This video is a good one about this particular dish.
+
 - **[Thai Election: Will the Military Launch a Coup?](https://www.youtube.com/watch?v=fljhL-IxBJo)** by _TLDR News Global_. I am quite a fan of TLDR news, and this is one of the more relevant news to me. This is a video that summarises the results of the 2023 Thai election, which as of the video provides the reason why I am again optimistic about Thailand's future.
 
 - **[Why Thailand's Geography Breeds Instability](https://www.youtube.com/watch?v=S9SMRuvnl2g)** by _PolyMatter_. Another video about Thailand, this time taking a look at how its geography relates to their politics.
@@ -39,7 +41,7 @@ Videos that still teach you something but not necessarily related to STEM.
 
 - **[Why are British place names so hard to pronounce?](https://www.youtube.com/watch?v=uYNzqgU7na4)** by _Jay Foreman_.
 
-- **[history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)** by _Bill Wurtz_. He doesn;t usually do these educational videos but I guess this qualifies as one.
+- **[history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)** by _Bill Wurtz_. He doesn't usually do these educational videos but I guess this qualifies as one.
 
 - **[Music That Sounds Like The Lyrics](https://www.youtube.com/watch?v=NMOMPMzR6oY)** by _David Bennett_.
 
@@ -108,6 +110,8 @@ These are funny videos.
 ## Shorts
 
 These are (mostly comedy) clips that are less than a minute long. I won't provide much description for these because for a lot of these it's better to go in with little context.
+
+- **[When you walk into a pub and the cover band starts playing your song](https://www.youtube.com/watch?v=BCluHJ2uvnk)**.
 
 - **[Maslow Pyramid Any% Speedrun - 8.1 Seconds](https://www.youtube.com/watch?v=gBCKZtpMSNE)**.
 

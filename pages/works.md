@@ -27,9 +27,8 @@ Training-Free Neural Active Learning With Initialization-Robustness Guarantees.
 <details> 
 <summary>
 <a class="color-button">abstract (click to show)</a>
-<a class="color-button" href="">paper</a>
-<a class="color-button" href="">code</a>
-<!-- <a class="color-button" href="https://github.com/apivich-h/al-ntk">code</a> -->
+<a class="color-button" href="http://arxiv.org/pdf/2306.04454">paper (arXiv)</a>
+<a class="color-button" href="https://github.com/apivich-h/init-robust-al">code (GitHub)</a>
 </summary>
 <small>
 Existing neural active learning algorithms have aimed to optimize the predictive performance of neural networks (NNs) by selecting data for labelling.
