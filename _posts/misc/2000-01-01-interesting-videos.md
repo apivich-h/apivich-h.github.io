@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Interesting Videos on YouTube
-last_updated: 2023-05-20
+last_updated: 2023-06-21
 category: lists
 ---
 
-The following are a long list of YouTube videos I have found interesting throughout the years.
+I spend way too much time on YouTube. Here are some of my favourites from throughout the years.
 
 ## Science/Tech Videos
 
@@ -13,11 +13,11 @@ STEM videos.
 
 - **[Computer Scientist Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fOGdb1CTu5c)** by _WIRED_. A video on zero-knowledge proofs. I also quite enjoy this series, since it slowly builds up the explanation of a single concept to different levels of diffculties.
 
-- **[Hassium](https://www.youtube.com/watch?v=VQ8cZoA0tiU)** by _Periodic Videos_. It's a good series of video, but only one other person in the world will know a certain reference regarding this specific video on Hassium.
+- **[Hassium](https://www.youtube.com/watch?v=VQ8cZoA0tiU)** by _Periodic Videos_. It's a good series of video on the elements of the periodic table, but only one other person in the world will know a certain reference regarding this specific video on Hassium.
 
 - **[i raced an AI to learn parkour](https://www.youtube.com/watch?v=0Jt-erB_-3A)** by _Answer In Progress_. It kind of touches on reinforcement learning, and also discusses AI in more general terms as well.
 
-- **[Which Planet is the Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU)** by _CGPGrey_. An interesting question that we didn't really even consider.
+- **[Which Planet is the Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU)** by _CGPGrey_. An interesting question that we rarely even consider.
 
 - **[30 Weird Chess Algorithms: Elo World](https://www.youtube.com/watch?v=DpXy041BIlA)** by _suckerpinch_. Chess algorithms that I didn't know I even wanted to see implemented.
 
@@ -25,15 +25,21 @@ STEM videos.
 
 - **[General Relativity Explained in 7 Levels of Difficulty](https://www.youtube.com/watch?v=eNhJY-R3Gwg)** by _minutephysics_.
 
-## Other Informative Videos
+## Videos about Thailand
 
-Videos that still teach you something but not necessarily related to STEM.
+Some videos that are about my home country that I approve of. I pick ones that are in English for the list.
 
 - **[Pad Krapao: The Story Behind Thailand's Real National Dish](https://www.youtube.com/watch?v=1OupK3x8ujw)** by _OTR Food & History_. Real Thai food appreciators (and Thais like myself) will know that the _real_ national dish of Thailand is the Pad Krapao (stir-fried basil and rice) and not Pad Thai or whatever other dish they claim it to be. This video is a good one about this particular dish.
 
-- **[Thai Election: Will the Military Launch a Coup?](https://www.youtube.com/watch?v=fljhL-IxBJo)** by _TLDR News Global_. I am quite a fan of TLDR news, and this is one of the more relevant news to me. This is a video that summarises the results of the 2023 Thai election, which as of the video provides the reason why I am again optimistic about Thailand's future.
+- **[Thai Election: Will the Military Launch a Coup?](https://www.youtube.com/watch?v=fljhL-IxBJo)** by _TLDR News Global_. I am quite a fan of TLDR news, and this is one of the more relevant news to me. This is a video that summarises the results of the 2023 Thai election, which as of the video provides the reason why I am (cautiously) optimistic about Thailand's future.
 
-- **[Why Thailand's Geography Breeds Instability](https://www.youtube.com/watch?v=S9SMRuvnl2g)** by _PolyMatter_. Another video about Thailand, this time taking a look at how its geography relates to their politics.
+- **[Why Thailand's Geography Breeds Instability](https://www.youtube.com/watch?v=S9SMRuvnl2g)** by _PolyMatter_. This time taking a look at how its geography relates to their politics.
+
+- **[Nirvana for Sale](https://www.youtube.com/watch?v=MYm1EbNs4sU)** by _Unreported World_. I have been watching a number of documentaries from them, covering many interesting little-told stories around the world. In this piece, it focuses on arguably the most infamous temple in Thailand.
+
+## Other Informative Videos
+
+Videos that still teach you something.
 
 - **Why Do I Choose To Do This For A Living** by _Jon Bois_. It is a video about poker by one of my favourite sports-related video creator. The original video is unfortunately taken down, but it might be possible to find a re-upload of it somewhere.
 
@@ -43,7 +49,7 @@ Videos that still teach you something but not necessarily related to STEM.
 
 - **[history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)** by _Bill Wurtz_. He doesn't usually do these educational videos but I guess this qualifies as one.
 
-- **[Music That Sounds Like The Lyrics](https://www.youtube.com/watch?v=NMOMPMzR6oY)** by _David Bennett_.
+- **[Music That Sounds Like The Lyrics](https://www.youtube.com/watch?v=NMOMPMzR6oY)** by _David Bennett_. Good channel on music theory and music trivia.
 
 ## Music
 
@@ -63,17 +69,25 @@ Videos that are based on music.
 
 - **[Through the Fire and the Flames on stepper motors V2](https://www.youtube.com/watch?v=rOaRFH_w53k)**.
 
-## Entire Series That Can be Legally Watched on YouTube
+- **[A piano performance of _Surrender_ by Birdy](https://www.youtube.com/watch?v=xzn97B5wMIQ)**. One of the best songs I've ever heard, performed beautifully on a piano.
 
-These are series that probably could have been (or actually are) on traditional TV, but is available to watch in its entirety on YouTube.
+- **[Never Gonna Give You Up, live at Glastonbury 2023](https://www.youtube.com/watch?v=nsCIeklgp1M)**. I'm just impressed Rick Astley is still going, and his voice being as good as ever.
 
-- **[Taskmaster](https://www.youtube.com/watch?v=v4YhsooE5xY&list=PLRWvNQVqAeWLpNL3IpUsGUdbaOiCG026u)** (the link starts ate Series 1 Episode 1). The first 10 or so series are on YouTube, which is incredible. The premise is simple, but the execution is great.
+## TV Shows and TV-Styles videos
+
+These are series that probably could have been (or actually are) on traditional TV but is available to watch in its entirety on YouTube, or other videos that just has the TV feel.
+
+- **[Taskmaster](https://www.youtube.com/watch?v=v4YhsooE5xY&list=PLRWvNQVqAeWLpNL3IpUsGUdbaOiCG026u)** (the link starts at Series 1 Episode 1). The first 10 or so series are on YouTube, which is incredible. The premise is simple, but the execution is great.
 
 - **[Starstruck](https://www.youtube.com/watch?v=9rA2CXNXD0g)**. A great comedy/romance series featuring the wonderful Rose Matafeo.
 
 - **[Two Of These People Are Lying](https://www.youtube.com/watch?v=AlNNkeB9pjU&list=PLfx61sxf1Yz2I-c7eMRk9wBUUDCJkU7H0)** by _The Technical Difficulties_. A panel show-style series based around Wikipedia articles. For the record, Episode 2x03 is my favourite episode of the whole show.
 
 - **[Video Game High School](https://www.youtube.com/watch?v=1JqR3GVqib4&list=PLsMtUWKCmBPRFzqglpk4YQlNFy8wzSXBN)** by _Rocket Jump_. I don't think I would rewatch this show now (in a different stage of life now), but I did really enjoy it a bit when it came out.
+
+- **[Madeline Gets Her Appendix Removed](https://www.youtube.com/watch?v=lo472Cpxhw8)**. You forgot this cartoon exist, didn't you? It's a very sweet cartoon - they don't make cartoons like these anymore.
+
+- **[Breaking the News: Tom Scott and Matt Gray bonehead the budget](https://www.youtube.com/watch?v=t2tYvANA8to)** by _Tom Scott_. Another Tom Scott classic.
 
 ## Vlog-like Videos
 
@@ -106,6 +120,8 @@ These are funny videos.
 - **[Nish Kumar Wants to be the Drummer From Coldplay](https://www.youtube.com/watch?v=gsmuV7wLCl8)**.
 
 - **[Can ANYONE name a single character from the movie Avatar?](https://www.youtube.com/watch?v=kxp1IBK1OPI)** by _Jacksfilms_.
+
+- **[My Heart Will Go On - Recorder By Candlelight by Matt Mulholland](https://www.youtube.com/watch?v=X2WH8mHJnhM)**. The classic.
 
 ## Shorts
 
@@ -151,4 +167,4 @@ Other videos that doesn't fit the categories above.
 
 - **[The Greatest Shot In Television](https://www.youtube.com/watch?v=2WoDQBhJCVQ)**.
 
-- **[Breaking the News: Tom Scott and Matt Gray bonehead the budget](https://www.youtube.com/watch?v=t2tYvANA8to)** by _Tom Scott_.
+- **[I spent a day with Ian Hecox](https://www.youtube.com/watch?v=Jmws_bNRG6Q)** by _Anthony Padilla_. If you are aware of Smosh and their whole story of them between early/mid-2010s to around 2023(ish), then this video may be one you'd be anticipating for a good while. The interview talked a lot about their friendship, and I do think I got some interesting lessons and life outlooks out of it.
