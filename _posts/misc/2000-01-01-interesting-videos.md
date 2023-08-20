@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Videos on YouTube
-last_updated: 2023-06-21
+last_updated: 2023-08-20
 category: lists
 ---
 
@@ -15,7 +15,7 @@ STEM videos.
 
 - **[Hassium](https://www.youtube.com/watch?v=VQ8cZoA0tiU)** by _Periodic Videos_. It's a good series of video on the elements of the periodic table, but only one other person in the world will know a certain reference regarding this specific video on Hassium.
 
-- **[i raced an AI to learn parkour](https://www.youtube.com/watch?v=0Jt-erB_-3A)** by _Answer In Progress_. It kind of touches on reinforcement learning, and also discusses AI in more general terms as well.
+- **[i raced an AI to learn parkour](https://www.youtube.com/watch?v=0Jt-erB_-3A)** by _Answer In Progress_. It kind of touches on reinforcement learning, and also discusses AI in more general terms as well. I liked it so much I once shared the video in my tutorial group I was tutoring for.
 
 - **[Which Planet is the Closest?](https://www.youtube.com/watch?v=SumDHcnCRuU)** by _CGPGrey_. An interesting question that we rarely even consider.
 
@@ -24,6 +24,8 @@ STEM videos.
 - **[Every PROOF you've seen that .999... = 1 is WRONG](https://www.youtube.com/watch?v=jMTD1Y3LHcE)** by _mCoding_.
 
 - **[General Relativity Explained in 7 Levels of Difficulty](https://www.youtube.com/watch?v=eNhJY-R3Gwg)** by _minutephysics_.
+
+- **[The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)** by _Veritasium_. It's not about any real scientific topic, but it does teach a good lesson for anyone wanting to do science. Probably my favourite Veritasium video despite of how simple the premise is.
 
 ## Videos about Thailand
 
@@ -51,6 +53,8 @@ Videos that still teach you something.
 
 - **[Music That Sounds Like The Lyrics](https://www.youtube.com/watch?v=NMOMPMzR6oY)** by _David Bennett_. Good channel on music theory and music trivia.
 
+- **[The Challenge that Changed this Japanese Man's Life Forever](https://www.youtube.com/watch?v=qMex9K2HCuY)**. About a guy eating Sukiya for many years.
+
 ## Music
 
 Videos that are based on music.
@@ -72,6 +76,8 @@ Videos that are based on music.
 - **[A piano performance of _Surrender_ by Birdy](https://www.youtube.com/watch?v=xzn97B5wMIQ)**. One of the best songs I've ever heard, performed beautifully on a piano.
 
 - **[Never Gonna Give You Up, live at Glastonbury 2023](https://www.youtube.com/watch?v=nsCIeklgp1M)**. I'm just impressed Rick Astley is still going, and his voice being as good as ever.
+
+- **[A heavier rendition of _Georgia_ by Phoebe Bridgers](https://www.youtube.com/watch?v=So3M1zFnUasc)**. There are two officially (?) released versions of _Georgia_, but I may just prefer this one over the other two.
 
 ## TV Shows and TV-Styles videos
 
@@ -101,6 +107,10 @@ These are videos that are in a vlog style, featuring people living in or travell
 
 - **[Teaching in Whittier, Alaska...the state's one-building town](https://www.youtube.com/watch?v=naPguX84Amg)**. Can you tell I do want to go to Alaska?
 
+- **[I took my duck to Petsmart](https://www.youtube.com/watch?v=owZiOi3KD58)**.
+
+- **[Trying a Nobi Nobi Seat on the Sunrise Express](https://www.youtube.com/watch?v=A1JH9URsPT8)**. A pretty clean vlog from a traveller on a Japanese sleeper train.
+
 ## Funny Videos
 
 These are funny videos.
@@ -122,6 +132,8 @@ These are funny videos.
 - **[Can ANYONE name a single character from the movie Avatar?](https://www.youtube.com/watch?v=kxp1IBK1OPI)** by _Jacksfilms_.
 
 - **[My Heart Will Go On - Recorder By Candlelight by Matt Mulholland](https://www.youtube.com/watch?v=X2WH8mHJnhM)**. The classic.
+
+- **[How to Pick Up a Duck](https://www.youtube.com/watch?v=RhtiDYLbfF4)**.
 
 ## Shorts
 
@@ -168,3 +180,5 @@ Other videos that doesn't fit the categories above.
 - **[The Greatest Shot In Television](https://www.youtube.com/watch?v=2WoDQBhJCVQ)**.
 
 - **[I spent a day with Ian Hecox](https://www.youtube.com/watch?v=Jmws_bNRG6Q)** by _Anthony Padilla_. If you are aware of Smosh and their whole story of them between early/mid-2010s to around 2023(ish), then this video may be one you'd be anticipating for a good while. The interview talked a lot about their friendship, and I do think I got some interesting lessons and life outlooks out of it.
+
+- **["12 points go to the united kingdom"](https://www.youtube.com/watch?v=-8rr3Ehel0c)**. The most unexpected thing during Eurovision 2022.
