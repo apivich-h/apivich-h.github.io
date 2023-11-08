@@ -2,12 +2,17 @@
 layout: page
 title: Hello!
 permalink: /
-last_updated: 2023-04-25
+last_updated: 2023-07-05
 ---
 
 ## Updates
 
 <ul class="listing">
+    <li class="listing-item">
+      <time>[2023-06-21]</time>
+      I was one of the 5 CS PhD students who have been selected for School of Computing's Teaching Fellowship Scheme for the upcoming school year, based on past tutoring performances.
+    </li>
+    <br/>
     <li class="listing-item">
       <time>[2023-04-25]</time>
       My first-author paper titled <b>"Training-Free Neural Active Learning With Initialization-Robustness Guarantees"</b> has been accepted to ICML 2023.
@@ -30,11 +35,11 @@ For more details about my current progress see <a href="works">my academic works
 
 {% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width="300px" align="right" %}
 
-Hello. I am Apivich Hemachandra, although I also go by the name of Kaotoo[^1].
+Hello. I am Apivich Hemachandra[^1], although I also go by the name of Kaotoo[^2] [^3].
 
-I am a second-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to neural active learning. 
+I am a third-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to neural active learning for various machine learning applications.
 
-Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^2]. I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
+Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^4]. I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
 
 <br/>
 
@@ -95,7 +100,10 @@ ___
 
 <br/>
 
+[^1]: Thai script: อภิวิชญ์ ​เหมะจันทร
 
-[^1]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="https://en.wikipedia.org/wiki/Thai_name">here</a>, but in brief, _Apivich Hemachandra_ is for formal documents and more formal events, whereas _Kaotoo_ is what people would usually refer to me as in more casual settings. Both names were given to me by my parents at birth.
+[^2]: _Apivich Hemachandra_ is my legal name, whereas _Kaotoo_ is my nickname. You can check out the Thai naming convention <a href="https://en.wikipedia.org/wiki/Thai_name">here</a>, but in brief, _Apivich Hemachandra_ is for formal documents and more formal events, whereas _Kaotoo_ is what people would usually refer to me as in more casual settings. Both names were given to me by my parents at birth.
 
-[^2]: I asked my physics program director nicely enough and he allowed me to do a thesis on a topic related to computer science.
+[^3]: Thai script: ข้าวตู
+
+[^4]: I asked my physics program director nicely enough and he allowed me to do a thesis on a topic related to computer science.

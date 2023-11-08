@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Videos on YouTube
-last_updated: 2023-08-20
+last_updated: 2023-09-17
 category: lists
 ---
 
@@ -25,7 +25,7 @@ STEM videos.
 
 - **[General Relativity Explained in 7 Levels of Difficulty](https://www.youtube.com/watch?v=eNhJY-R3Gwg)** by _minutephysics_.
 
-- **[The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)** by _Veritasium_. It's not about any real scientific topic, but it does teach a good lesson for anyone wanting to do science. Probably my favourite Veritasium video despite of how simple the premise is.
+- **[The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)** by _Veritasium_. It's not about any specific scientific topic, but it does teach a good lesson for anyone wanting to do science. Probably my favourite Veritasium video despite of how simple the premise is.
 
 ## Videos about Thailand
 
@@ -38,6 +38,14 @@ Some videos that are about my home country that I approve of. I pick ones that a
 - **[Why Thailand's Geography Breeds Instability](https://www.youtube.com/watch?v=S9SMRuvnl2g)** by _PolyMatter_. This time taking a look at how its geography relates to their politics.
 
 - **[Nirvana for Sale](https://www.youtube.com/watch?v=MYm1EbNs4sU)** by _Unreported World_. I have been watching a number of documentaries from them, covering many interesting little-told stories around the world. In this piece, it focuses on arguably the most infamous temple in Thailand.
+
+## Pairs of Videos About The Same Thing
+
+Two videos that are talking about the same topic, but in different styles.
+
+- Two videos about **Thomas Midgley Jr.** by **[_Veritasium_](https://youtu.be/IV3dnLzthDA)** and **[_Tom Scott_ (specifically the Technical Difficulties)](https://youtu.be/4og8wG8VQWM)**. The former in the form of a mini-documentary, the latter in the form of a panel show.
+
+- Two videos about **Compliant Mechanisms** by **[_Veritasium_](https://www.youtube.com/watch?v=97t7Xj_iBv0)** and **[Mark Rober](https://youtu.be/9c2NqlUWZfo)**. They even managed to get the same person in their interviews. However, they did go about introducing compliant mechanisms in a different way.
 
 ## Other Informative Videos
 
@@ -55,29 +63,39 @@ Videos that still teach you something.
 
 - **[The Challenge that Changed this Japanese Man's Life Forever](https://www.youtube.com/watch?v=qMex9K2HCuY)**. About a guy eating Sukiya for many years.
 
+- **[The TikTokification of Music](https://youtu.be/mS4r5tDxASE?si=ScGEJkW9rsdOeFp_)**.
+
 ## Music
 
 Videos that are based on music.
 
-- **[The Killers - Somebody Told Me](https://www.youtube.com/watch?v=sdNYBvNXBLs)**. A legit link to the song with no memes whatsoever.
+- **[The Killers - _Somebody Told Me_](https://www.youtube.com/watch?v=sdNYBvNXBLs)**. A legit link to the song with no memes whatsoever.
 
-- **[Foo Fighters - Keep The Car Running](https://www.youtube.com/watch?v=MDxcjukqISs)**. Just a solid cover of an Arcade Fire song.
+- **[Foo Fighters - _Keep The Car Running_](https://www.youtube.com/watch?v=MDxcjukqISs)**. Just a solid cover of an Arcade Fire song.
 
 - **[OK Computer but everything is my voice](https://www.youtube.com/watch?v=q13NRoG6mvs)**. It's just a solid cover of an album.
 
-- **[Paramore - Let The Flames Begin / Part II (Reading Festival 2014)](https://www.youtube.com/watch?v=EaM0BUWAm_4)**. Paramore playing a song followed by its sequel.
+- **[Paramore - _Let The Flames Begin_ / _Part II_ (Reading Festival 2014)](https://www.youtube.com/watch?v=EaM0BUWAm_4)**. Paramore playing a song followed by its sequel.
 
 - **[Epic crowd singalong to Mr Brightside at Glastonbury 2017](https://www.youtube.com/watch?v=PzEs17iI2W4)**. The song that has been played live thousands of times, but still gets the crowd hyped every single time.
 
 - **[Weezer - Pork and Beans](https://www.youtube.com/watch?v=PQHPYelqr0E)**. The song is okay, but the music video is essentially a great summary of 2010s internet culture.
 
-- **[Through the Fire and the Flames on stepper motors V2](https://www.youtube.com/watch?v=rOaRFH_w53k)**.
+- **[_Through the Fire and the Flames_ on stepper motors V2](https://www.youtube.com/watch?v=rOaRFH_w53k)**.
 
-- **[A piano performance of _Surrender_ by Birdy](https://www.youtube.com/watch?v=xzn97B5wMIQ)**. One of the best songs I've ever heard, performed beautifully on a piano.
+- **[A piano performance of _Surrender_ by Birdy](https://www.youtube.com/watch?v=xzn97B5wMIQ)**. One of the most beautiful songs I've ever heard, performed beautifully on a piano.
 
-- **[Never Gonna Give You Up, live at Glastonbury 2023](https://www.youtube.com/watch?v=nsCIeklgp1M)**. I'm just impressed Rick Astley is still going, and his voice being as good as ever.
+- **[_Never Gonna Give You Up_, live at Glastonbury 2023](https://www.youtube.com/watch?v=nsCIeklgp1M)**. I'm just impressed Rick Astley is still going, and his voice being as good as ever.
 
 - **[A heavier rendition of _Georgia_ by Phoebe Bridgers](https://www.youtube.com/watch?v=So3M1zFnUasc)**. There are two officially (?) released versions of _Georgia_, but I may just prefer this one over the other two.
+
+- **[Lucy Dacus' _Night Shift_, performed by boygenius](https://youtu.be/QuRuSP7hhU0)**. Lucy Dacus is one of the members of boygenius, and seeing one of her songs being performed (hesitant to say cover here) is indeed very interesting.
+
+- **[_Gangnam Style_ but with Newton's Pendulum](https://youtu.be/YB7KUGdP7wI)**.
+
+- **[_All I Wanted_ by Paramore, live](https://www.youtube.com/watch?v=m2YAbi0nHnQ)**. Hayley finally did it, and it was caught on video.
+
+- **[_Postdoc Me Now_, a parody of Queen's _Don't Stop Me Now_](https://www.youtube.com/watch?v=whreNeJGCWk)**. One of the most impressive part of this is getting quite a number of grad studnets who are also very good vocalists.
 
 ## TV Shows and TV-Styles videos
 
@@ -169,16 +187,22 @@ These are (mostly comedy) clips that are less than a minute long. I won't provid
 
 - **[So No One Told You Life Was Gonna Be This Way](https://www.youtube.com/watch?v=64V_KO3ikN0)**.
 
+- **[Fire Alarm Duet](https://youtu.be/HucUZaBN1l4)**.
+
 ## Miscellaneous
 
 Other videos that doesn't fit the categories above.
 
 - **[Doraemon Final Ending](https://www.youtube.com/watch?v=hB-wGxOFGkw)**. Fan-made ending, but still a good one nonetheless.
 
-- **[Forest return to the Premier League](https://www.youtube.com/watch?v=Z7cfrnTro94)**. Probably the biggest moment for Nottingham Forest since the turn of the century.
+- **[Nottingham Forest return to the Premier League](https://www.youtube.com/watch?v=Z7cfrnTro94)**. Probably the biggest moment for Nottingham Forest since the turn of the century.
 
 - **[The Greatest Shot In Television](https://www.youtube.com/watch?v=2WoDQBhJCVQ)**.
 
 - **[I spent a day with Ian Hecox](https://www.youtube.com/watch?v=Jmws_bNRG6Q)** by _Anthony Padilla_. If you are aware of Smosh and their whole story of them between early/mid-2010s to around 2023(ish), then this video may be one you'd be anticipating for a good while. The interview talked a lot about their friendship, and I do think I got some interesting lessons and life outlooks out of it.
 
 - **["12 points go to the united kingdom"](https://www.youtube.com/watch?v=-8rr3Ehel0c)**. The most unexpected thing during Eurovision 2022.
+
+- **[Single Point of Failure](https://youtu.be/y4GB_NDU43Q?si=7OgS7F4oO2GIJfu3)** by _Tom Scott_. Black Mirror-esque fictional story about the one day Google didn't check users' passwords. He has a few of these (all of them are quite well told) but this one is probably my favourite of those.
+
+- **[The interviewer not noticing that they were talking to Mike Shinoda from Linkin Park](https://www.youtube.com/watch?v=phzaGR8XWO8)**.
