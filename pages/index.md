@@ -8,15 +8,20 @@ last_updated: 2023-07-05
 ## Updates
 
 <ul class="listing">
-    <li class="listing-item">
-      <time>[2023-06-21]</time>
-      I was one of the 5 CS PhD students who have been selected for School of Computing's Teaching Fellowship Scheme for the upcoming school year, based on past tutoring performances.
-    </li>
-    <br/>
-    <li class="listing-item">
-      <time>[2023-04-25]</time>
-      My first-author paper titled <b>"Training-Free Neural Active Learning With Initialization-Robustness Guarantees"</b> has been accepted to ICML 2023.
-    </li>
+  <li class="listing-item">
+    <time>[2024-01-17]</time>
+    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has been accepted as a spotlight presentation at ICLR 2024.
+  </li>
+  <br/>
+  <li class="listing-item">
+    <time>[2023-06-21]</time>
+    I was one of the 5 CS PhD students who have been selected for School of Computing's Teaching Fellowship Scheme for the upcoming school year, based on past tutoring performances.
+  </li>
+  <br/>
+  <li class="listing-item">
+    <time>[2023-04-25]</time>
+    My first-author paper titled <b>"Training-Free Neural Active Learning With Initialization-Robustness Guarantees"</b> has been accepted to ICML 2023.
+  </li>
 </ul>
 
 <br/>

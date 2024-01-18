@@ -27,6 +27,10 @@ STEM videos.
 
 - **[The Most Common Cognitive Bias](https://www.youtube.com/watch?v=vKA4w2O61Xo)** by _Veritasium_. It's not about any specific scientific topic, but it does teach a good lesson for anyone wanting to do science. Probably my favourite Veritasium video despite of how simple the premise is.
 
+- **[The Biggest Project in Modern Mathematics](https://www.youtube.com/watch?v=_bJeKUosqo)**. A video about the Langlands problem.
+
+- **[A video on Lebesgue integration](https://www.youtube.com/watch?v=LDNDTOVnKJk)** by _vcubingx_.
+
 ## Videos about Thailand
 
 Some videos that are about my home country that I approve of. I pick ones that are in English for the list.
@@ -64,6 +68,10 @@ Videos that still teach you something.
 - **[The Challenge that Changed this Japanese Man's Life Forever](https://www.youtube.com/watch?v=qMex9K2HCuY)**. About a guy eating Sukiya for many years.
 
 - **[The TikTokification of Music](https://youtu.be/mS4r5tDxASE?si=ScGEJkW9rsdOeFp_)**.
+
+- **[dOn'T SeLL YoUr TimE fOr mOnEy!!](https://youtu.be/xbAJxFiK_qw)** by _How Money Works_. The TL;DR for this is aiming to get passive income isn't always the best way to make money. I also do think that out of all the finance-related channels out there, this is definitely up there for me.
+
+- **[xkcd's "Map Projections", animated](https://www.youtube.com/watch?v=7O2CBgWshiM)**.
 
 ## Music
 
@@ -129,6 +137,8 @@ These are videos that are in a vlog style, featuring people living in or travell
 
 - **[Trying a Nobi Nobi Seat on the Sunrise Express](https://www.youtube.com/watch?v=A1JH9URsPT8)**. A pretty clean vlog from a traveller on a Japanese sleeper train.
 
+- **[Harbin: A Chinese city with a Russian feel](https://www.youtube.com/watch?v=fHFNA2JTvk0)**. The place looks interesting, I don't have much else to say about it.
+
 ## Funny Videos
 
 These are funny videos.
@@ -152,6 +162,12 @@ These are funny videos.
 - **[My Heart Will Go On - Recorder By Candlelight by Matt Mulholland](https://www.youtube.com/watch?v=X2WH8mHJnhM)**. The classic.
 
 - **[How to Pick Up a Duck](https://www.youtube.com/watch?v=RhtiDYLbfF4)**.
+
+- **[Fake Professor on the First Day PRANK](https://www.youtube.com/watch?v=wqks_R90ykI)**. Classic prank video.
+
+- **[Feyenoord goalkeeper thinks outside the box to leave FC Twente incensed](https://www.youtube.com/watch?v=vAD6bxoojfw)**. Incredible bit of clever foul play.
+
+- **[My favourite gag from Family Guy](https://www.youtube.com/watch?v=4hpbK7V146A)**. I won't spoil which one it is, you'll have to watch it for yourself.
 
 ## Shorts
 
@@ -189,6 +205,8 @@ These are (mostly comedy) clips that are less than a minute long. I won't provid
 
 - **[Fire Alarm Duet](https://youtu.be/HucUZaBN1l4)**.
 
+- **[Two-headed teacher](https://www.youtube.com/shorts/I9ojAhQdxkc)**.
+
 ## Miscellaneous
 
 Other videos that doesn't fit the categories above.
@@ -206,3 +224,5 @@ Other videos that doesn't fit the categories above.
 - **[Single Point of Failure](https://youtu.be/y4GB_NDU43Q?si=7OgS7F4oO2GIJfu3)** by _Tom Scott_. Black Mirror-esque fictional story about the one day Google didn't check users' passwords. He has a few of these (all of them are quite well told) but this one is probably my favourite of those.
 
 - **[The interviewer not noticing that they were talking to Mike Shinoda from Linkin Park](https://www.youtube.com/watch?v=phzaGR8XWO8)**.
+
+- **[Penguins Movie](https://www.youtube.com/watch?v=VPxNlNtqwuI)**. Just remember that this whole thing is a beer commercial.
