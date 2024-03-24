@@ -21,7 +21,7 @@ PINNACLE: PINN Adaptive ColLocation and Experimental points selection.
 <br>
 Gregory Kang Ruey Lau*, <b>Apivich Hemachandra*</b>, See-Kiong Ng and Bryan Kian Hsiang Low.
 <br>
-<i>ICML 2024 Spotlight Presentation.</i> Acceptance rate: 5%.
+<i>ICLR 2024 Spotlight Presentation.</i> Acceptance rate: 5%.
 <br>
 
 <details> 
@@ -36,6 +36,8 @@ Physics-Informed Neural Networks (PINNs), which incorporate PDEs as soft constra
 </details>
 
 </li>
+
+<br>
 
 <li class="listing-item">
 
