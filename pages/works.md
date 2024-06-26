@@ -27,8 +27,10 @@ Gregory Kang Ruey Lau*, <b>Apivich Hemachandra*</b>, See-Kiong Ng and Bryan Kian
 <details> 
 <summary>
 <a class="color-button">abstract (click to show)</a>
-<!-- <a class="color-button" href="http://arxiv.org/pdf/2306.04454">paper (arXiv)</a> -->
-<!-- <a class="color-button" href="https://github.com/apivich-h/init-robust-al">code (GitHub)</a> -->
+<a class="color-button" href="/docs/paper/iclr24.pdf">pdf</a>
+<a class="color-button" href="/docs/poster/iclr24.pdf">poster</a>
+<a class="color-button" href="https://arxiv.org/abs/2404.07662">arXiv</a>
+<a class="color-button" href="https://github.com/apivich-h/pinnacle">code (GitHub)</a>
 </summary>
 <small>
 Physics-Informed Neural Networks (PINNs), which incorporate PDEs as soft constraints, train with a composite loss function that contains multiple training point types: different types of collocation points chosen during training to enforce each PDE and initial/boundary conditions, and experimental points which are usually costly to obtain via experiments or simulations. Training PINNs using this loss function is challenging as it typically requires selecting large numbers of points of different types, each with different training dynamics. Unlike past works that focused on the selection of either collocation or experimental points, this work introduces PINN Adaptive ColLocation and Experimental points selection (PINNACLE), the first algorithm that jointly optimizes the selection of all training point types, while automatically adjusting the proportion of collocation point types as training progresses. PINNACLE uses information on the interactions among training point types, which had not been considered before, based on an analysis of PINN training dynamics via the Neural Tangent Kernel (NTK). We theoretically show that the criterion used by PINNACLE is related to the PINN generalization error, and empirically demonstrate that PINNACLE is able to outperform existing point selection methods for forward, inverse, and transfer learning problems.
@@ -36,7 +38,7 @@ Physics-Informed Neural Networks (PINNs), which incorporate PDEs as soft constra
 </details>
 
 </li>
-
+<br>
 <li class="listing-item">
 
 Training-Free Neural Active Learning With Initialization-Robustness Guarantees.
@@ -49,7 +51,9 @@ Training-Free Neural Active Learning With Initialization-Robustness Guarantees.
 <details> 
 <summary>
 <a class="color-button">abstract (click to show)</a>
-<a class="color-button" href="http://arxiv.org/pdf/2306.04454">paper (arXiv)</a>
+<a class="color-button" href="/docs/paper/icml23.pdf">pdf</a>
+<a class="color-button" href="/docs/poster/icml23.pdf">poster</a>
+<a class="color-button" href="http://arxiv.org/abs/2306.04454">arXiv</a>
 <a class="color-button" href="https://github.com/apivich-h/init-robust-al">code (GitHub)</a>
 </summary>
 <small>
