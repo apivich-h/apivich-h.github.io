@@ -42,7 +42,7 @@ For more details about my current progress see <a href="works">my academic works
 
 Hello. I am Apivich Hemachandra[^1], although I also go by the name of Kaotoo[^2] [^3].
 
-I am a third-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on topics related to neural active learning for various machine learning applications.
+I am a fourth-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on various topics in data-centric AI, active learning and physics-informed machine learning. My work generally fits the general theme of: "given everything I already know, how can I learn better while needing less data?".
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^4]. I have also worked on different computer science-related projects with professors and researchers in Thailand. Some are research projects related to ML and algorithms, while some are projects I have done with large firms in Thailand.
 
@@ -57,7 +57,7 @@ ___
 <details> 
 <summary><small>(Click to expand)</small></summary>
 <br/>
-I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my A-Levels, before moving to Bangkok to complete my undergraduate degree.
+I was born in Bangkok, however was raised in Chiang Mai. I lived in Chiang Mai until I turned 18 when I completed my high school, before moving to Bangkok/Nakhon Pathom to complete my undergraduate degree.
 <br/><br/>
 When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, guitarist and vocalist, and have been playing varying amounts of music since high school.
 <br/><br/>
