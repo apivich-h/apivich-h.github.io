@@ -18,16 +18,6 @@ The height of each histogram roughly represents how much I listen to the artist 
 
 The plot is shown on the right (or at least so on desktop). You can click on the chart to enlarge it.
 
-Here are some things I found about myself:
-
-- I listen to way too much Coldplay and Keane. While there are some times when they dip a bit in terms of how much I listen to them, I still listen to them significantly enough all this time. I should get new music.
-
-- You can really see when I started to get into Paramore and Radiohead, being two of the bands that entered my music library in 2019 and then continued to stay there. Also you can start to see that at around 2023, there seems to be a larger shift in what artists I listen to (or at least start to listen to according to the charts).
-
-- My music taste isn't _that_ diverse, mainly shown by the fact that the data is since 2017 but only a handful of (mostly quite mainstream) artists seem to have significant numbers.
-
-I don't think the insights are that interesting to other people, but they definitely are for me and maybe for other people who knows how my music taste is like.
-
 ## How monotone is my music taste?
 
 Another thing I do suspect about myself is that I tend to listen to very few artists over and over again. This is the sense of the word _monotone_ I will use - that I just stick with listening to a few artists with little variety. I wanted to visualise that statistic about my listening habit.
@@ -35,8 +25,6 @@ Another thing I do suspect about myself is that I tend to listen to very few art
 For the plot, I use `plotly`, which allows for various interactive plots. Specifically, I used a stacked bar chart where I highlight the top 5 artists I listened to over each 4 month period. Each bar just shows how many times I listen to those artists as a proportion of all music plays I did over that period, with the top 5 artists being highlighted in the chart[^4].
 
 {% include ext/music_data/chart.html %}
-
-Based on the plot, I can see that (as of 2023) my music choices are becoming less diverse. During pandemic time (2020-2021ish) I started to explore more music a bit so was stuck less with the same artists. However, since around 2021 I have just found a few artists and stuck them on repeat. This also seems to be around when I entered grad school, so I'm not sure if there's anything to do with that or not (would be a reach to say otherwise to be honest).
 
 ---
 

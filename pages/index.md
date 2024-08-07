@@ -75,31 +75,6 @@ I enjoy watching football (or soccer as some may call it), and am a fan of Notti
 
 <br/>
 
-___
-
-<br/>
-
-## <a name="social"></a> Twitter
-
-<!-- <a class="twitter-timeline" data-lang="en" data-width="50%" data-dnt="true" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-<dl id="" class="alignleft" style="width: 100%">
-
-<dl id="" class="alignleft" style="width: 47%">
-
-<dt><a class="twitter-timeline" data-lang="en" data-width="100%" data-height="500px" data-dnt="true" text-align="left" href="https://twitter.com/apivich_h?ref_src=twsrc%5Etfw">Tweets by apivich_h</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></dt>
-</dl>
-
-<!-- <dl id="" class="alignleft" style="width: 47%">
-
-<b>Latest videos from RandomMathsInc</b>
-
-<dt><iframe width="100%" height="450px" src="https://www.youtube.com/embed/videoseries?list=PLBzCYlA4J3e5MbwqA8L8AfMF2C-k6mfnf" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></dt>
-</dl> -->
-
-</dl>
-
-<br/>
 
 ---
 

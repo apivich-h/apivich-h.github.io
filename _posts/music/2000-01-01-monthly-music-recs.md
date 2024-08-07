@@ -13,7 +13,87 @@ Hi. Welcome to the page where I recommend a song I got obsessed with during the 
 
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
-4. I will prioritise songs that were released that month. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+
+---
+
+## July 2024 - _Femininomenon_ by Chappell Roan
+
+I bought into the hype fully.
+
+Chappell is incredible. Sure, maybe Spotify did try to push her to all of the listeners. But dammit she deserves it. The whole album is incredible, and a strong contender for one of my AOTY spots this year. The whole album is a bop -- point to any song and you can find something good about it. The lyrics, the bridge, every song is just unique and so, so good.
+
+But, as usual, _Femininomenon_ is my favourite for being such a strong opener. From the slower buildup, to the bridge, and even the short talking bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
+
+## June 2024 - _Nothing Matters_ by The Last Dinner Party
+
+At last, I feel I have caught up with the pop music of 2024.
+
+I have been listening to more music released in 2024, and a few albums have been quite good. The girl in red album, the Clairo album, the Faye Webster album, the Charli XCX record, etc. But The Last Dinner Party is just some really fresh rock sound from a newer band. And it's good. I don't know what about them, but it gives some very renaissance-y vibe that I enjoy. The whole album is great though, and you all should give it a listen.
+
+Other shoutouts:
+
+- _You Need Me Now?_ by girl in red featuring Sabrina Carpenter
+
+- the _girl, so confusing_ version with lorde, by Charli XCX
+
+- _But Not Kiss_ by Faye Webster
+
+These are pretty much some of the 2024 albums that I enjoyed thus far (note -- left out Chappell Roan here because selected as song of the month in July instead).
+
+## May 2024 - _Terrible Love_ by The National
+
+Definitely walking with spiders for this one.
+
+I have heard the Birdy cover of this song for a while now (which is also incredible), but the original version is just something else. In fact, the whole album _High Violet_ is a great listen. Surprised it took me so long to go through the album. Nay -- I'm surprised I have not been as into The National as I should have been. Their discography has such a good vibe, and I'm a bit sad I haven't been listening to them earlier.
+
+Other shoutouts:
+
+- _Supercut_ by Lorde
+
+- _Perth_ by Bon Iver
+
+## April 2024 - _Sad To Breathe_ by The Japanese House
+
+This is an album that was released in 2023, but I suppose it's not too late to discover it. I have been a bit into the indie music, and The Japanese House has been an obsession this month. I think the whole album is quite good. I can't really point to what I like about the song, but something just feels right. Maybe it's the lyrics, maybe it's the slight change of tempo in the song. But regardless, it's my pick this month.
+
+Other shoutouts:
+
+- _Run Away With Me_ by Carly Rae Jepsen
+
+---
+
+## March 2024 - _Adult Diversion_ by Alvvays
+
+This one is an interesting one for me.
+
+The album sort of comes out of nowhere, one of those I got recommended by my Spotify. I'm quite glad tho, really do find the album a fun listen. I did pick the opening track (I have something for strong openers of albums), but other songs like _Archie, Marry Me_ or _The Agency Group_ are also some strong singles from the band. Maybe shoegaze will become a thing for me this year.
+
+Other shoutouts:
+
+- _Anywhere_ by Passenger
+
+- _Queen of Peace_ by Florence + The Machine
+
+- _brutal_ by Olivia Rodrigo
+
+I also realise that it's been three months, and I haven't really came across much new music that really wows me yet. Hmmm, maybe I need to pay attention to the new releases a bit more.
+
+---
+
+## February 2024 - _Autobahn_ by Kraftwerk
+
+\*Car engine starts.\* _Au-to-bahn. Au-to-bahn. Au-to-bahn. Au-to-bahn..._
+
+I didn't expect an 70s electronic band from Germany to be on this list at the start of the year. I'm especially not someone who listens to electronic much, but something about Kraftwerk is just different. For a 70s album, they definitely do not sound aged. It's a 20 minute long track, but it really does build the atmosphere well. Highly recommended.
+
+Other shoutouts:
+
+- _Burning Down The House_, a Talking Heads cover by Paramore
+
+- _สนิทใจ_ by Palmy
+
+- _The Family Madrigal_ by Stephanie Beatriz (from _Encanto_ soundtrack)
 
 ---
 
@@ -21,9 +101,15 @@ Hi. Welcome to the page where I recommend a song I got obsessed with during the 
 
 I am so sad I discovered her music so late into 2023 (pretty much the last month of 2023). But I am making it up for it in 2024.
 
-I don't really listen to anything remotely jazz. It is not that Laufey is necessarily jazz, but I do also think that she is able to really combine some interesting jazz elements into more modern pop music. And I do find that a good change from the other songs that I do listen to.
+I don't really listen to anything remotely jazz. It is not that Laufey is necessarily jazz, but I do also think that she is able to really combine some interesting jazz elements into more modern pop music. And I do find that a good change from the other songs that I do listen to. Not to mention that she's an amazing vocalist as well, probably one of the best in the modern days.
 
 The whole album _Bewitched_ is a great one, but _Lovesick_ hits me especially. The song lyrics would fit with most other love songs from normal pop music, but the music that accompanies it is more unusual compared to other pop music. Not to mention that Laufey's voice is absolutely incredible.
+
+Other shoutouts:
+
+- _Athens, France_ by Black Country, New Road. Aside from the fact that the band doesn't really get geography, the track itself is a masterpiece instrumentally and also lyrically.
+
+- _Surfin' Bird_ by The Trashmen. Yes, it was because of Family Guy.
 
 ---
 
