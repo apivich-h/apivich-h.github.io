@@ -4,13 +4,14 @@ title: Plotting My Music Listening Data
 last_updated: 2023-04-14
 category: music
 ---
+
+{% include image.html url="/images/blog/music_data/pop.png" caption="Music chart" width="25%" align="right" enlarge=1 %}
+
 I got bored enough to download all my music streaming data and plotting the data out[^1]. I started to use a certain music streaming platform[^2] regularly to listen to my music since around 2018 (previously I would go on a few places that didn't record my listening data in as much of a detail), so much of the data analysed are since then.
 
 Because people may be expecting my blog to be somewhat educational (I don't know why you would though), I will also describe briefly how each of the charts are made. If you are interested in data visualisation (like I somewhat am), these may inspire you.
 
 ## Who did I listen to in the past?
-
-{% include image.html url="/images/blog/music_data/pop.png" caption="Music chart" width="25%" align="right" enlarge=1 %}
 
 I used a wonderful package called `joypy` (named after the band Joy Division who are partially known for <a href="https://en.wikipedia.org/wiki/Unknown_Pleasures">their famous album cover</a>), which specialises in making stacked histogram plots.
 
