@@ -9,6 +9,11 @@ last_updated: 2024-08-08
 
 <ul class="listing">
   <li class="listing-item">
+    <time>[2024-07-26]</time>
+    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has won the best paper award at the ICML 2024 AI4Science Workshop.
+  </li>
+  <br/>
+  <li class="listing-item">
     <time>[2024-01-17]</time>
     My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has been accepted as a spotlight presentation at ICLR 2024.
   </li>
