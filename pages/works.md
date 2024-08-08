@@ -2,7 +2,7 @@
 layout: page
 title: Academic Works
 permalink: /works/
-last_updated: 2023-04-25
+last_updated: 2024-08-08
 ---
 
 This page contains a list of my publications and other projects I have done. **_To see my curriculum vitae/resume, see <a href="/cv/cv.pdf">here</a>._**

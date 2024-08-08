@@ -25,6 +25,8 @@ Chappell is incredible. Sure, maybe Spotify did try to push her to all of the li
 
 But, as usual, _Femininomenon_ is my favourite for being such a strong opener. From the slower buildup, to the bridge, and even the short talking bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
 
+---
+
 ## June 2024 - _Nothing Matters_ by The Last Dinner Party
 
 At last, I feel I have caught up with the pop music of 2024.
@@ -41,6 +43,8 @@ Other shoutouts:
 
 These are pretty much some of the 2024 albums that I enjoyed thus far (note -- left out Chappell Roan here because selected as song of the month in July instead).
 
+---
+
 ## May 2024 - _Terrible Love_ by The National
 
 Definitely walking with spiders for this one.
@@ -52,6 +56,8 @@ Other shoutouts:
 - _Supercut_ by Lorde
 
 - _Perth_ by Bon Iver
+
+---
 
 ## April 2024 - _Sad To Breathe_ by The Japanese House
 
