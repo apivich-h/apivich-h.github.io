@@ -31,6 +31,20 @@ STEM videos.
 
 - **[A video on Lebesgue integration](https://www.youtube.com/watch?v=LDNDTOVnKJk)** by _vcubingx_.
 
+- **[a base-neutral system for naming numbering systems](https://www.youtube.com/watch?v=7OEF3JD-jYo)**.
+
+- **[A video about arrays in C being weird](https://www.youtube.com/watch?v=lFRp0tZKosc)**.
+
+- **[The Topological Problem with Voting](https://www.youtube.com/watch?v=v5ev-RAg7Xs)**. Increble video to link topology with game theory.
+
+- **[Computer architecture explained with Minecraft](https://www.youtube.com/watch?v=dV_lf1kyV9M)**.
+
+- **[I Made an AI with just Redstone!](https://www.youtube.com/watch?v=DQ0lCm0J3PM)**. The design process here is quite insane as well.
+
+- **[Place Your Bet: How far will a dumbbell squirt soap?](https://www.youtube.com/watch?v=Jzh1zIGmfok)**. A fun game for everyone.
+
+- **[The image you can't submit to journals anymore](https://www.youtube.com/watch?v=yCdwm2vo09I)**. An incredible video which first touches on the controversial image used in benchmarking computer vision algorithms, to talking about a larger problem of women in CS. The YouTube channel themselves are also incredible, many good videos touching on controversies and scandals within academia and research.
+
 ## Videos about Thailand
 
 Some videos that are about my home country that I approve of. I pick ones that are in English for the list.
@@ -73,6 +87,12 @@ Videos that still teach you something.
 
 - **[xkcd's "Map Projections", animated](https://www.youtube.com/watch?v=7O2CBgWshiM)**.
 
+- **[Why Are There Two Koreas?](https://www.youtube.com/watch?v=Mukhy2Tpqc4)**.
+
+- **[I Made a Graph of Wikipedia... This Is What I Found](https://www.youtube.com/watch?v=JheGL6uSF-4)**.
+
+- **[Last Broadcasts of Countries](https://www.youtube.com/watch?v=KQUGh-nXhGc)**. A nice bit of radio history. A few of these recording the last things broadcasted before an invasion, or before surrendering to a foreign power. It really tells something about the spirits or the toughts of the people then.
+
 ## Music
 
 Videos that are based on music.
@@ -99,11 +119,27 @@ Videos that are based on music.
 
 - **[Lucy Dacus' _Night Shift_, performed by boygenius](https://youtu.be/QuRuSP7hhU0)**. Lucy Dacus is one of the members of boygenius, and seeing one of her songs being performed (hesitant to say cover here) is indeed very interesting.
 
+- **[boygenius live at Brooklyn Steel](https://www.youtube.com/watch?v=faJSZGg3xgY)**. Just the boys playing through their EP. Such a good performance.
+
 - **[_Gangnam Style_ but with Newton's Pendulum](https://youtu.be/YB7KUGdP7wI)**.
 
 - **[_All I Wanted_ by Paramore, live](https://www.youtube.com/watch?v=m2YAbi0nHnQ)**. Hayley finally did it, and it was caught on video.
 
 - **[_Postdoc Me Now_, a parody of Queen's _Don't Stop Me Now_](https://www.youtube.com/watch?v=whreNeJGCWk)**. One of the most impressive part of this is getting quite a number of grad studnets who are also very good vocalists.
+
+- **[Oxford Symphony Orchestra at a music festival](https://www.youtube.com/watch?v=swO7hF8hNbY)**. Looks like a fun day out.
+
+- **[Impressive musicians staying in time](https://www.youtube.com/shorts/RQJADZpE5Ns)**.
+
+- **[Why Kanye West's STEM PLAYER is Bad for the Future of Music](https://www.youtube.com/watch?v=-4FKiUdk3_Q)** by _Mic the Snare_. Not really music video but it is related to music. The channel is actually quite good as well -- highly recommend the Deep Discogs Dive series.
+
+- **[A parody of Billy Joel's _We Didn't Start The Fire_](https://www.youtube.com/watch?v=NGz-aer6pc8)**. Somehow did it better than Fall Out Boys.
+
+- **[Another parody of _We Didn't Start The Fire_, but for video games](https://www.youtube.com/watch?v=oHFIX-E5k7w)**.
+
+- **[A cover of _Wild Mountain Thyme_ performed by Laufey, dodie. and Jacob Collier](https://www.youtube.com/watch?v=Lz1LEYxFQ5Q)**. Three of the most beautiful voices currently in the industry.
+
+- **[My Nan Your Nan](https://www.youtube.com/watch?v=zeOlHPgaVhQ)**. A song by the Taskmaster UK duo, I didn't know whether to put it here or under funny videos.
 
 ## TV Shows and TV-Styles videos
 
@@ -120,6 +156,10 @@ These are series that probably could have been (or actually are) on traditional 
 - **[Madeline Gets Her Appendix Removed](https://www.youtube.com/watch?v=lo472Cpxhw8)**. You forgot this cartoon exist, didn't you? It's a very sweet cartoon - they don't make cartoons like these anymore.
 
 - **[Breaking the News: Tom Scott and Matt Gray bonehead the budget](https://www.youtube.com/watch?v=t2tYvANA8to)** by _Tom Scott_. Another Tom Scott classic.
+
+- **[Superbowl LVIII but with Spongebob](https://www.youtube.com/watch?v=PuYNuxBiEKw)**. Would have tuned in if I knew such a live coverage existed.
+
+- **[Ikea Heights](https://www.youtube.com/watch?v=edgU_JXqVoY)**. A short series filmed entirely in Ikea.
 
 ## Vlog-like Videos
 
@@ -138,6 +178,8 @@ These are videos that are in a vlog style, featuring people living in or travell
 - **[Trying a Nobi Nobi Seat on the Sunrise Express](https://www.youtube.com/watch?v=A1JH9URsPT8)**. A pretty clean vlog from a traveller on a Japanese sleeper train.
 
 - **[Harbin: A Chinese city with a Russian feel](https://www.youtube.com/watch?v=fHFNA2JTvk0)**. The place looks interesting, I don't have much else to say about it.
+
+- **[Popeyes Cheddar Biscuit Butterfly Shrimp - Food Review](https://www.youtube.com/watch?v=5d5NJgO38AE)** by _The Report of The Week_. The one where he says that line.
 
 ## Funny Videos
 
@@ -226,3 +268,7 @@ Other videos that doesn't fit the categories above.
 - **[The interviewer not noticing that they were talking to Mike Shinoda from Linkin Park](https://www.youtube.com/watch?v=phzaGR8XWO8)**.
 
 - **[Penguins Movie](https://www.youtube.com/watch?v=VPxNlNtqwuI)**. Just remember that this whole thing is a beer commercial.
+
+- **[Incredible ice hockey performance by an emergency goalkeeper](https://www.youtube.com/watch?v=tG-IGNvfrg8)**.
+
+- **[A self-lvelling pool table](https://www.youtube.com/watch?v=N-aE5oszXyQ)**.
