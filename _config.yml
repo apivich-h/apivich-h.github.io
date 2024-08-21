@@ -35,7 +35,3 @@ plugins:
 
 whitelist:
   - jekyll-redirect-from
-
-highlight_categories:
-  - blog
-  - travel

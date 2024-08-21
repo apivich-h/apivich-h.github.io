@@ -129,8 +129,6 @@ Videos that are based on music.
 
 - **[Oxford Symphony Orchestra at a music festival](https://www.youtube.com/watch?v=swO7hF8hNbY)**. Looks like a fun day out.
 
-- **[Impressive musicians staying in time](https://www.youtube.com/shorts/RQJADZpE5Ns)**.
-
 - **[Why Kanye West's STEM PLAYER is Bad for the Future of Music](https://www.youtube.com/watch?v=-4FKiUdk3_Q)** by _Mic the Snare_. Not really music video but it is related to music. The channel is actually quite good as well -- highly recommend the Deep Discogs Dive series.
 
 - **[A parody of Billy Joel's _We Didn't Start The Fire_](https://www.youtube.com/watch?v=NGz-aer6pc8)**. Somehow did it better than Fall Out Boys.
@@ -248,6 +246,8 @@ These are (mostly comedy) clips that are less than a minute long. I won't provid
 - **[Fire Alarm Duet](https://youtu.be/HucUZaBN1l4)**.
 
 - **[Two-headed teacher](https://www.youtube.com/shorts/I9ojAhQdxkc)**.
+
+- **[Impressive musicians staying in time](https://www.youtube.com/shorts/RQJADZpE5Ns)**.
 
 ## Miscellaneous
 

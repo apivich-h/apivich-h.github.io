@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2024-01-20
+last_updated: 2024-08-28
 category: music
 ---
 
-Hi. Welcome to the page where I recommend a song I got obsessed with during the month, all listed in reverse chronological order. I'll also add a few lines about the song (and possibly the artist themselves) as well just to make it a nice read. A few rules about it:
+Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a song I got obsessed with during the month, all listed in reverse chronological order. I'll also add a few lines about the song (and possibly the artist themselves) as well just to make it a nice read. A few rules about the MMR:
 
 1. It must be a song I really liked from that particular month. This may mean I discovered it in that month, or having some heavy rotations during the month.
 
@@ -17,13 +17,27 @@ Hi. Welcome to the page where I recommend a song I got obsessed with during the 
 
 ---
 
+## August 2024 - _Steamroller_ by Phoebe Bridgers
+
+After listening to her for a few years at this point, I am finally beginning my entrance into the Phoebe Bridgers rabbit hole. There are a few old Phoebe Bridgers performances online where she performs some of the older (sometimes unreleased) songs. And boy, all of them are _sad_. A few worth mentioning are Waiting Room, Georgia (in particular my favourite version that was more rock than the album version), and Steamroller. The latter is not even on Spotify (it originally was but it was sadly removed) so you'll have to go listen to it from other unofficial sources. But one thing that Steamroller (and to be honest her other early tracks) had very heartfelt and somewhat direct lyrics. She just puts all her emotions into words, and I kind of respect that.
+
+Other shoutout:
+
+- _Promise_ by Laufey. Many months ago I featured a different track, _Lovesick_, from the same album _Bewitched_. _Lovesick_ was the the song about someone falling in love, and dreaming of what it all could be. _Promise_, on the other hand, is sort of the opposite. It's probably one of the saddest Laufey songs out there (I might even say it is the saddest). What do I like about the song? Is it the beautifully crafted lyrics of hers? Is it her angelic voice? Is it just how soft and gentle the instrumentation is to fit around the track? I don't know, but y'all should give it a listen.
+
+It's a slightly long writeup for the other shoutout this month because it was really a coin toss between which song I was going to feature this month. Ended up with _Steamroller_ to spice this list up a bit.
+
+---
+
 ## July 2024 - _Femininomenon_ by Chappell Roan
 
 I bought into the hype fully.
 
-Chappell is incredible. Sure, maybe Spotify did try to push her to all of the listeners. But dammit she deserves it. The whole album is incredible, and a strong contender for one of my AOTY spots this year. The whole album is a bop -- point to any song and you can find something good about it. The lyrics, the bridge, every song is just unique and so, so good.
+Chappell is incredible. Sure, maybe Spotify did try to push her to all of the listeners. But dammit she deserves it. The whole album is incredible, and a strong contender for one of my AOTY spots this year. Chappell's songs are a bop -- point to any of them and you can find something good about it. The lyrics, the bridge, every song is just unique and so, so good.
 
-But, as usual, _Femininomenon_ is my favourite for being such a strong opener. From the slower buildup, to the bridge, and even the short talking bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
+But, as usual, _Femininomenon_ is my favourite for being such a strong opener. From the slower buildup, to the bridge, and even the short talking bit to hype the listeners a bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
+
+I have been away for a bit, so I really don't have any other good shoutouts this month. Just go listen to more Chappell Roan if you haven't already.
 
 ---
 
@@ -35,13 +49,13 @@ I have been listening to more music released in 2024, and a few albums have been
 
 Other shoutouts:
 
-- _You Need Me Now?_ by girl in red featuring Sabrina Carpenter
+- _You Need Me Now?_ by girl in red featuring Sabrina Carpenter.
 
-- the _girl, so confusing_ version with lorde, by Charli XCX
+- the _girl, so confusing_ version with lorde, by Charli XCX.
 
-- _But Not Kiss_ by Faye Webster
+- _But Not Kiss_ by Faye Webster.
 
-These are pretty much some of the 2024 albums that I enjoyed thus far (note -- left out Chappell Roan here because selected as song of the month in July instead).
+These are pretty much some of the 2024 albums that I enjoyed thus far (note -- the shoutout originally featured Chappell Roan but was removed because I selected one of her songs for July's MMR instead).
 
 ---
 
@@ -53,9 +67,9 @@ I have heard the Birdy cover of this song for a while now (which is also incredi
 
 Other shoutouts:
 
-- _Supercut_ by Lorde
+- _Supercut_ by Lorde.
 
-- _Perth_ by Bon Iver
+- _Perth_ by Bon Iver.
 
 ---
 
@@ -65,7 +79,7 @@ This is an album that was released in 2023, but I suppose it's not too late to d
 
 Other shoutouts:
 
-- _Run Away With Me_ by Carly Rae Jepsen
+- _Run Away With Me_ by Carly Rae Jepsen.
 
 ---
 
@@ -77,11 +91,11 @@ The album sort of comes out of nowhere, one of those I got recommended by my Spo
 
 Other shoutouts:
 
-- _Anywhere_ by Passenger
+- _Anywhere_ by Passenger.
 
-- _Queen of Peace_ by Florence + The Machine
+- _Queen of Peace_ by Florence + The Machine.
 
-- _brutal_ by Olivia Rodrigo
+- _brutal_ by Olivia Rodrigo.
 
 I also realise that it's been three months, and I haven't really came across much new music that really wows me yet. Hmmm, maybe I need to pay attention to the new releases a bit more.
 
@@ -95,11 +109,11 @@ I didn't expect an 70s electronic band from Germany to be on this list at the st
 
 Other shoutouts:
 
-- _Burning Down The House_, a Talking Heads cover by Paramore
+- _Burning Down The House_, a Talking Heads cover by Paramore.
 
-- _สนิทใจ_ by Palmy
+- _สนิทใจ_ by Palmy.
 
-- _The Family Madrigal_ by Stephanie Beatriz (from _Encanto_ soundtrack)
+- _The Family Madrigal_ by Stephanie Beatriz (from _Encanto_ soundtrack).
 
 ---
 
@@ -107,7 +121,7 @@ Other shoutouts:
 
 I am so sad I discovered her music so late into 2023 (pretty much the last month of 2023). But I am making it up for it in 2024.
 
-I don't really listen to anything remotely jazz. It is not that Laufey is necessarily jazz, but I do also think that she is able to really combine some interesting jazz elements into more modern pop music. And I do find that a good change from the other songs that I do listen to. Not to mention that she's an amazing vocalist as well, probably one of the best in the modern days.
+I don't really listen to anything remotely jazz. It is not that Laufey is necessarily jazz (frankly her style of music wouldn't be the first thing I think of when someone says jazz), but I do also think that she is able to really combine some interesting jazz elements into more modern pop music. And I do find that a good change from the other songs that I do listen to. Not to mention that she's an amazing vocalist as well, probably one of the best in the modern days.
 
 The whole album _Bewitched_ is a great one, but _Lovesick_ hits me especially. The song lyrics would fit with most other love songs from normal pop music, but the music that accompanies it is more unusual compared to other pop music. Not to mention that Laufey's voice is absolutely incredible.
 
@@ -121,10 +135,10 @@ Other shoutouts:
 
 ## December 2023 - _Knees Deep_ by The Beths
 
-Opening the list strong with this one. This is the reason I had to start this list on my blog.
+Opening the list strong with this one. This is the reason I had to start the MMR on my blog.
 
 The Beths are a New Zealand-based pop rock/indie band, and I don't even remember how I came across them in the first place, but I recently went to a record store and saw their debut album _Future Me Hates Me_ on vinyl on a discount. I remembered listening to their latest album and the song _Expert In A Dying Field_ and really liking it, so I naturally bought the LP.
 
 And god it was incredible. I listened to the LP before, but listening to it again was incredible. The songs on it were great, with _Little Death_ and _Happy Unhappy_ being the two that stood out in particular. The two having similar themes of being about some feeling that you get after liking someone. These along with the rest of the tracks make for a very strong introduction to The Beths for me.
 
-However, through their discography, I found _Knees Deep_ to be the song that I come back to the most. The song started with an upbeat guitar riff, and an extremely catchy and happy-sounding hook. Once again, the song itself does not dissapoint. The song also has an accompanying music video which genuinely puts a smile on my face (especially seeing each of the band members bungee-jumping one by one).
+However, through their discography, I found _Knees Deep_ to be the song that I come back to the most. The song started with an upbeat guitar riff, and an extremely catchy and happy-sounding hook. Once again, the song itself does not disappoint. The song also has an accompanying music video which genuinely puts a smile on my face (especially seeing each of the band members bungee-jumping one by one).

@@ -36,15 +36,17 @@ The following posts have got a date[^1] attached to them.
 
 <br>
 
-## Selected Posts By Category
+---
 
-The following are posts from some selected categories.
+## All Posts
 
-{% assign sorted_cats = site.highlight_categories | sort %}
+The following are a list of all text posts on my site sorted by category. Most of these are writings about my experince in school or in life in general. It is an excuse for me to do more writing outside of just academic papers.
+
+{% assign sorted_cats = site.categories | sort %}
 <ul class="listing">
-{% for category_name in sorted_cats %}
-    <!-- {% capture category_name %}{{ category | first }}{% endcapture %} -->
-
+{% for category in sorted_cats %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    
     <li class="listing-seperator">{{ category_name | capitalize }}</li>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] reversed %}
@@ -54,14 +56,6 @@ The following are posts from some selected categories.
     {% endfor %}
 {% endfor %}
 </ul>
-
-<br>
-
-For the list of all posts (including other non-academic ones not listed here), see <a href="/posts/categories">here</a>.
-
-<br>
-
----
 
 <br>
 

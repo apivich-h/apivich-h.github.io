@@ -9,7 +9,7 @@ last_updated: 2020-11-30
 
 ### Related Links
 
-<a class="color-button" href="/projects/thesis-u/thesis-u.pdf">full text (pdf)</a>
+<a class="color-button" href="/docs/thesis-u/thesis-u.pdf">full text (pdf)</a>
 
 ### Abstract 
 
