@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Year Update
-date: 2022-12-31
+date: 2024-08-20
 is_dated: true
 description: I have now been in grad school for 3 years. This is how it went.
 category: blog

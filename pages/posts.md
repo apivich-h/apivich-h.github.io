@@ -38,6 +38,8 @@ The following posts have got a date[^1] attached to them.
 
 ---
 
+<br>
+
 ## All Posts
 
 The following are a list of all text posts on my site sorted by category. Most of these are writings about my experince in school or in life in general. It is an excuse for me to do more writing outside of just academic papers.
