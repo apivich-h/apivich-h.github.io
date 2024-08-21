@@ -271,4 +271,4 @@ Other videos that doesn't fit the categories above.
 
 - **[Incredible ice hockey performance by an emergency goalkeeper](https://www.youtube.com/watch?v=tG-IGNvfrg8)**.
 
-- **[A self-lvelling pool table](https://www.youtube.com/watch?v=N-aE5oszXyQ)**.
+- **[A self-levelling pool table](https://www.youtube.com/watch?v=N-aE5oszXyQ)**.
