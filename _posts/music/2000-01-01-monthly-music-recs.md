@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2024-08-28
+last_updated: 2024-08-31
 category: music
 ---
 
@@ -23,9 +23,9 @@ After listening to her for a few years at this point, I am finally beginning my 
 
 Other shoutout:
 
-- _Promise_ by Laufey. Many months ago I featured a different track, _Lovesick_, from the same album _Bewitched_. _Lovesick_ was the the song about someone falling in love, and dreaming of what it all could be. _Promise_, on the other hand, is sort of the opposite. It's probably one of the saddest Laufey songs out there (I might even say it is the saddest). What do I like about the song? Is it the beautifully crafted lyrics of hers? Is it her angelic voice? Is it just how soft and gentle the instrumentation is to fit around the track? I don't know, but y'all should give it a listen.
+- _Promise_ by Laufey. Less than a year ago I featured a different track of hers, _Lovesick_, from the same album _Bewitched_, so I am only putting this track as an honourable mention. _Lovesick_ was the the song about someone falling in love, and dreaming of what it all could be. _Promise_, on the other hand, is sort of the opposite. It's probably one of the saddest Laufey songs out there (I might even say it is the saddest). What do I like about the song? Is it the beautifully crafted lyrics of hers? Is it her angelic voice? Is it just how soft and gentle the instrumentation is to fit around the track? I don't know, but y'all should give it a listen.
 
-It's a slightly long writeup for the other shoutout this month because it was really a coin toss between which song I was going to feature this month. Ended up with _Steamroller_ to spice this list up a bit.
+- _Voyager_ by Birdy. I have already featured her album _Young Heart_ as my AOTY in 2022, and I still have the album on repeat. The reason I wanted to feature the song here is because I went to a Birdy concert earlier in the month, and it was a great experience. _Voyager_ is already one of my favourite track of here, and so I am very glad I got to hear the track played live (among her other tracks obviously). Since then I have been having more Birdy songs on repeat again.
 
 ---
 
@@ -35,7 +35,7 @@ I bought into the hype fully.
 
 Chappell is incredible. Sure, maybe Spotify did try to push her to all of the listeners. But dammit she deserves it. The whole album is incredible, and a strong contender for one of my AOTY spots this year. Chappell's songs are a bop -- point to any of them and you can find something good about it. The lyrics, the bridge, every song is just unique and so, so good.
 
-But, as usual, _Femininomenon_ is my favourite for being such a strong opener. From the slower buildup, to the bridge, and even the short talking bit to hype the listeners a bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
+But, being a fan of good album openers, _Femininomenon_ is my favourite for being such a strong one. From the slower buildup, to the bridge, and even the short talking bit to hype the listeners a bit. It has a catchy hook and a real fun one to just sing along to. I can really see why Chappell is such an icon.
 
 I have been away for a bit, so I really don't have any other good shoutouts this month. Just go listen to more Chappell Roan if you haven't already.
 
@@ -45,7 +45,7 @@ I have been away for a bit, so I really don't have any other good shoutouts this
 
 At last, I feel I have caught up with the pop music of 2024.
 
-I have been listening to more music released in 2024, and a few albums have been quite good. The girl in red album, the Clairo album, the Faye Webster album, the Charli XCX record, etc. But The Last Dinner Party is just some really fresh rock sound from a newer band. And it's good. I don't know what about them, but it gives some very renaissance-y vibe that I enjoy. The whole album is great though, and you all should give it a listen.
+I have been listening to more music released in 2024, and a few albums have been quite good. The girl in red album, the Clairo album, the Faye Webster album, the Charli XCX record, etc. But The Last Dinner Party is just some really fresh rock sound from a newer band. And it's good. I don't know what about them, but it gives some very renaissance-y vibe that I enjoy. The whole album is great though (_Feminine Urge_ and _Sinner_ being some of the other tracks I enjoy), and you all should give it a listen.
 
 Other shoutouts:
 
