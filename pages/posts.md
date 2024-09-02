@@ -44,6 +44,8 @@ The following posts have got a date[^1] attached to them.
 
 The following are a list of all text posts on my site sorted by category. Most of these are writings about my experince in school or in life in general. It is an excuse for me to do more writing outside of just academic papers.
 
+"P" refers to posted data, and "U" refers to last updated data.
+
 {% assign sorted_cats = site.categories | sort %}
 <ul class="listing">
 {% for category in sorted_cats %}
@@ -53,6 +55,11 @@ The following are a list of all text posts on my site sorted by category. Most o
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] reversed %}
         <li class="listing-item">
+          {% if post.is_dated %}
+          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">[P: {{ post.date | date:"%Y-%m-%d" }}]</time>
+          {% else %}
+          <time datetime="{{ post.date | date:"%Y-%m-%d" }}">[U: {{ post.last_updated | date:"%Y-%m-%d" }}]</time>
+          {% endif %}
           <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
         </li>
     {% endfor %}
