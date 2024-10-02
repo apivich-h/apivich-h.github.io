@@ -17,11 +17,27 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## September 2024 - _Lifelong Song_ by Men I Trust
+
+Random pick, but Men I Trust really does slap. I have been checking out tracks with these vibes a bit more, and it's quite a fun and chill listen really. _Lifelong Song_ is a shoutout for me, mainly because of _the lick_. If you know, you know.
+
+Other shoutouts:
+
+- _While You Were Sleeping_ by Laufey. I am so tempted to put this as the recommendation this month since I have been putting her music on heavy repeat since I went to see her live. But I am going to refrain myself a bit. _While You Were Sleeping_ is the song that Laufey have been opening her shows with, and it really does bring a new energy to the song now that I hear it on tape. Now that I have you guys here though, [she recently covered Phoebe Bridger's _Savior Complex_](https://youtu.be/_v_cwLmeuY4) and it is the best cover I have heard this month.
+
+- _recently_ by Liana Flores. Spotify music recommendation really doing its thing again with this one. Soft acoustic song that I was introduced to this month.
+
+- _I Love You, I'm Sorry_ by Gracie Abrams. I am surprised that I enjoy her music. I don't think it will be in my top albums this year, but it's definitely one where I'll put on now and then, and I'm not sure why.
+
+- _Ptolemaea_ by Ethel Cain. I don't want to say too much about the song but it's incredible. However I do recommend you all to check the whole album out rather than just the one song -- it is incredible haunting but definitely worth a listen.
+
+---
+
 ## August 2024 - _Steamroller_ by Phoebe Bridgers
 
 After listening to her for a few years at this point, I am finally beginning my entrance into the Phoebe Bridgers rabbit hole. There are a few old Phoebe Bridgers performances online where she performs some of the older (sometimes unreleased) songs. And boy, all of them are _sad_. A few worth mentioning are Waiting Room, Georgia (in particular my favourite version that was more rock than the album version), and Steamroller. The latter is not even on Spotify (it originally was but it was sadly removed) so you'll have to go listen to it from other unofficial sources. But one thing that Steamroller (and to be honest her other early tracks) had very heartfelt and somewhat direct lyrics. She just puts all her emotions into words, and I kind of respect that.
 
-Other shoutout:
+Other shoutouts:
 
 - _Promise_ by Laufey. Less than a year ago I featured a different track of hers, _Lovesick_, from the same album _Bewitched_, so I am only putting this track as an honourable mention. _Lovesick_ was the the song about someone falling in love, and dreaming of what it all could be. _Promise_, on the other hand, is sort of the opposite. It's probably one of the saddest Laufey songs out there (I might even say it is the saddest). What do I like about the song? Is it the beautifully crafted lyrics of hers? Is it her angelic voice? Is it just how soft and gentle the instrumentation is to fit around the track? I don't know, but y'all should give it a listen.
 
