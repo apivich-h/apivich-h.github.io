@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interesting Videos on YouTube
-last_updated: 2024-08-08
+last_updated: 2024-11-23
 category: lists
 ---
 
@@ -44,6 +44,10 @@ STEM videos.
 - **[Place Your Bet: How far will a dumbbell squirt soap?](https://www.youtube.com/watch?v=Jzh1zIGmfok)**. A fun game for everyone.
 
 - **[The image you can't submit to journals anymore](https://www.youtube.com/watch?v=yCdwm2vo09I)**. An incredible video which first touches on the controversial image used in benchmarking computer vision algorithms, to talking about a larger problem of women in CS. The YouTube channel themselves are also incredible, many good videos touching on controversies and scandals within academia and research.
+
+- **[Uploading a video through a fishing line](https://youtu.be/zUqPqg2jjro)**. A good bit of engineering work.
+
+- Someone made **[subpixel art](https://youtu.be/SlS3FOmKUbE)** and it's a damn cool concept I never thought of.
 
 ## Videos about Thailand
 
@@ -95,7 +99,7 @@ Videos that still teach you something.
 
 ## Music
 
-Videos that are based on music.
+Videos that are based on music. Some special performances of songs, unique covers, parodies, music sketches, or just intersting ways for a song to be played live.
 
 - **[The Killers - _Somebody Told Me_](https://www.youtube.com/watch?v=sdNYBvNXBLs)**. A legit link to the song with no memes whatsoever.
 
@@ -117,7 +121,9 @@ Videos that are based on music.
 
 - **[A heavier rendition of _Georgia_ by Phoebe Bridgers](https://www.youtube.com/watch?v=So3M1zFnUasc)**. There are two officially (?) released versions of _Georgia_, but I may just prefer this one over the other two.
 
-- **[Lucy Dacus' _Night Shift_, performed by boygenius](https://youtu.be/QuRuSP7hhU0)**. Lucy Dacus is one of the members of boygenius, and seeing one of her songs being performed (hesitant to say cover here) is indeed very interesting.
+- **[Lucy Dacus' _Night Shift_, performed by boygenius](https://youtu.be/QuRuSP7hhU0)**. Lucy Dacus is one of the members of boygenius, and seeing one of her songs being performed (hesitant to say cover here) is indeed very interesting. Even more interesting that it's Phoebe Bridgers doing vocals. There are also videos of Lucy Dacus singing _Good News_ and Julien Baker singing _Motion Sickness_, so you should also go watch those.
+
+- Since we're talking about Lucy Dacus, [here is her performing Nonbeliever](https://youtu.be/dcWtRRMpveE).
 
 - **[boygenius live at Brooklyn Steel](https://www.youtube.com/watch?v=faJSZGg3xgY)**. Just the boys playing through their EP. Such a good performance.
 
@@ -137,7 +143,27 @@ Videos that are based on music.
 
 - **[A cover of _Wild Mountain Thyme_ performed by Laufey, dodie. and Jacob Collier](https://www.youtube.com/watch?v=Lz1LEYxFQ5Q)**. Three of the most beautiful voices currently in the industry.
 
+- **[Laufey covering Phoebe Bridgers' _Savior Complex_](https://www.youtube.com/watch?v=_v_cwLmeuY4)**. Laufey is amazing, everything from _Punisher_ is amazing. Combining the two is absolute magical. This might just be my absolute favourite cover performance ever.
+
 - **[My Nan Your Nan](https://www.youtube.com/watch?v=zeOlHPgaVhQ)**. A song by the Taskmaster UK duo, I didn't know whether to put it here or under funny videos.
+
+- **[_Roxanne_ but it's just rocks](https://youtu.be/ZPjSV-lnqvg)**. Self-explanatory.
+
+- **[Blue Man Group hearing _Welcome To The Black Parade_ for the first time](https://youtu.be/P9DIm2L7gWQ)**. Drumeo has a few of these videos where a famous drummer tries to play the drums for a song they never head, but this one might be my favourite from the series.
+
+- **[Solid saxophone by Leo P](https://youtu.be/krLYZmPRtnc)**.
+
+- **[Olivia Rodrigo playing _deja vu_ with Billy Joel](https://youtu.be/VmvQXHoCoDM)**. Those who know the song will understand why this is a big deal especially for Olivia.
+
+- **[An interesting song fitting together too well with a certain music video](https://youtu.be/ydomVQKz47o)**.
+
+- **[An interesting cover of _Cinderlla_ by Tattoo Colour](https://youtu.be/2NyX3Ts2YcU)**. These guys might be my favourite Thai band at least at the moment.
+
+- Since we mentioned them, [here is Tattoo Colour performing with the Thailand Philharmonic Orchestra](https://www.youtube.com/watch?v=cRPvEXbuxbs).
+
+- **[Blossoms and Rick Astley covering 360 by Charli XCX](https://youtu.be/0Nbq573IUbI)**.
+
+- **[Arcade Fire impromptu performance of _Wake Up_](https://youtu.be/G8QYnxIjHWg)**.
 
 ## TV Shows and TV-Styles videos
 
@@ -179,6 +205,8 @@ These are videos that are in a vlog style, featuring people living in or travell
 
 - **[Popeyes Cheddar Biscuit Butterfly Shrimp - Food Review](https://www.youtube.com/watch?v=5d5NJgO38AE)** by _The Report of The Week_. The one where he says that line.
 
+- **[A video with a very 2010s vibe but with _HOT TO GO_ as the background music](https://youtu.be/3ktEd-6_GKc)**.
+
 ## Funny Videos
 
 These are funny videos.
@@ -205,9 +233,17 @@ These are funny videos.
 
 - **[Fake Professor on the First Day PRANK](https://www.youtube.com/watch?v=wqks_R90ykI)**. Classic prank video.
 
-- **[Feyenoord goalkeeper thinks outside the box to leave FC Twente incensed](https://www.youtube.com/watch?v=vAD6bxoojfw)**. Incredible bit of clever foul play.
-
 - **[My favourite gag from Family Guy](https://www.youtube.com/watch?v=4hpbK7V146A)**. I won't spoil which one it is, you'll have to watch it for yourself.
+
+- **[Chaotic moment from Modern Family](https://youtu.be/ajb-YbY3-rw)**. Again, won't spoil which one.
+
+- **[Kelly Clarkson learning to pronounce Laufey's name](https://youtu.be/wqPvHNZeLGY)**. She also finds out how to pronounce Björk's name.
+
+- **[Prop Switch](https://youtu.be/jc7EMYIG0_Y)** by Studio C. A skit with a very good twist.
+
+- **[getting Past Dutch Immigration](https://youtu.be/D8Gfsuf5_v8)**.
+
+- **[Is KSI's new song actually that bad??](https://www.youtube.com/watch?v=lPbAPDRNZzI)**
 
 ## Shorts
 
@@ -249,13 +285,35 @@ These are (mostly comedy) clips that are less than a minute long. I won't provid
 
 - **[Impressive musicians staying in time](https://www.youtube.com/shorts/RQJADZpE5Ns)**.
 
+- **[ระเบิดเวลา](https://youtu.be/qpbXRPAeUp0)**.
+
+- **[Who is causing these massive hurricanes?](https://youtube.com/shorts/f9YJQEQr4_o)**. Actually an informative video.
+
+- 1MinuteTalkShow has one of the most unique shorts concept I have seen, and [this is an example of one of them](https://youtube.com/shorts/V5jSaY15hmA). If you want more, [here is another example](https://youtube.com/shorts/KXGu3utXWJM).
+
+- **[I have a gadget for every situation](https://youtube.com/shorts/-Edgb_Elej4)**.
+
+- **[A realisation](https://www.youtube.com/shorts/bitRw9ySB_4)**. This short floored me.
+
+## Sports
+
+Quality sports moments.
+
+- **[Feyenoord goalkeeper thinks outside the box to leave FC Twente incensed](https://www.youtube.com/watch?v=vAD6bxoojfw)**. Incredible bit of clever foul play.
+
+- **[Nottingham Forest return to the Premier League](https://www.youtube.com/watch?v=Z7cfrnTro94)**. Probably the biggest moment for Nottingham Forest since the turn of the century.
+
+- **[Incredible ice hockey performance by an emergency goalkeeper](https://www.youtube.com/watch?v=tG-IGNvfrg8)**.
+
+- **[Pronunciation of every Premier League footballer's name](https://www.youtube.com/watch?v=7wmAtyDCru0)**. There are some goldmines in there, check the video's comments for those timestamps.
+
+- **[Why A Team From Tahiti Plays In The French Cup](https://www.youtube.com/watch?v=s3VxD98lAQA)**. The short answer is due to them being a French overseas territory, but the whole logistics behind it is still an interesting watch.
+
 ## Miscellaneous
 
 Other videos that doesn't fit the categories above.
 
 - **[Doraemon Final Ending](https://www.youtube.com/watch?v=hB-wGxOFGkw)**. Fan-made ending, but still a good one nonetheless.
-
-- **[Nottingham Forest return to the Premier League](https://www.youtube.com/watch?v=Z7cfrnTro94)**. Probably the biggest moment for Nottingham Forest since the turn of the century.
 
 - **[The Greatest Shot In Television](https://www.youtube.com/watch?v=2WoDQBhJCVQ)**.
 
@@ -269,6 +327,16 @@ Other videos that doesn't fit the categories above.
 
 - **[Penguins Movie](https://www.youtube.com/watch?v=VPxNlNtqwuI)**. Just remember that this whole thing is a beer commercial.
 
-- **[Incredible ice hockey performance by an emergency goalkeeper](https://www.youtube.com/watch?v=tG-IGNvfrg8)**.
-
 - **[A self-levelling pool table](https://www.youtube.com/watch?v=N-aE5oszXyQ)**.
+
+- **[Mock EAS broadcast for a scenario where the sun disappeared](https://youtu.be/5f0mqgfEXbQ?si=eePVz9zzWIFE4pLL)**.
+
+- **[Croatian firefighters while watching a World Cup match](https://youtu.be/9M7GFyBrf0M)**.
+
+- **[The suicide episode of Family Guy](https://youtu.be/HrkYUP_LQn0)**. The episode has no cutaways or anything, just a well-written episode on a heavy topic.
+
+- **[Kids give parenting advice to first-time dad](https://youtu.be/CGl_dP8MItc)**.
+
+- **[A senator on brainrot](https://youtu.be/tJi0QwGlTTk)**. I understood maybe half of that speech.
+
+- **[The Incel to Trans Pipeline and Inside Mari](https://www.youtube.com/watch?v=IAA1XtDOuH8)**. A video about a manga sprnikled with some interesting social commentary.

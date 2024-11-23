@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2024-08-31
+last_updated: 2024-11-22
 category: music
 ---
 
@@ -14,6 +14,40 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+
+---
+
+## November 2024 - _Fox Cub / Apocalypse / Special / The Zookeeper's Boy_ by Mew
+
+Yes, I picked four songs. Fight me.
+
+I have been listening to some Mew recently (they have some pure vibes tracks which is great), and once again it stems from checking out artists that Birdy covered in her debut album (see The National from a few months ago). In particular, _And The Glass Handed Kites_ is an interesting album. It has a good alt rock sound to it, with great instrumentation.
+
+The album also has a nice bit of transitioning going on between the four pieces. In a listen, it almost feels like different pieces of a single long song. It feels hard to separate them, so I'm just gonna feature all of them.
+
+Other shoutouts:
+
+- _Everything In Its Right Place_ by Radiohead.
+
+- _ฟ้า_ by Tattoo Colour.
+
+---
+
+## October 2024 - _obsessed_ by Olivia Rodrigo
+
+I'm so obsessed with your tracks (balalalalala).
+
+Could you tell I was at the GUTS tour earlier? I went to the show being familiar with a good amount of her two albums, but I really didnt expect the show to be so good.
+
+Other shoutouts:
+
+- _feelslikeimfallinginlove_ by Coldplay. For the past two Coldplay albums I have done this thing where I avoid all promo and singles until the album release date (was very tough too especially with all of my fellow Coldlplay enthusiasts around). And oh boy, the album was definitely worth that wait.
+
+- _Come Fly With Me_ by Norah Jones.
+
+- _Comforting Sounds_ by Mew.
+
+- _Gagarin_ by Public Service Broadcast.
 
 ---
 
@@ -47,7 +81,7 @@ Other shoutouts:
 
 ## July 2024 - _Femininomenon_ by Chappell Roan
 
-I bought into the hype fully.
+I bought into the hype.
 
 Chappell is incredible. Sure, maybe Spotify did try to push her to all of the listeners. But dammit she deserves it. The whole album is incredible, and a strong contender for one of my AOTY spots this year. Chappell's songs are a bop -- point to any of them and you can find something good about it. The lyrics, the bridge, every song is just unique and so, so good.
 
