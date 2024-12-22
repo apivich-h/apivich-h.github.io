@@ -165,6 +165,10 @@ Videos that are based on music. Some special performances of songs, unique cover
 
 - **[Arcade Fire impromptu performance of _Wake Up_](https://youtu.be/G8QYnxIjHWg)**.
 
+- **[The Killers pausing their show to livestream England going to the EURO 2024 final, then proceeding to play Mr Brightside right after](https://youtu.be/J5lo7PA2z0E)**. The Killers really understand the British crowd here. A shame England would eventually proceed to lose the final match.
+
+- **[Foo Fighters playing _My Hero_ with Shane Hawkins on drums](https://youtu.be/P2KnD7sfpoA)**. Shane is the son of Taylor Hawkins, the late drummer of Foo Fighters. This was shortly after Taylor has passed, and you can tell how emotional everyone were.
+
 ## TV Shows and TV-Styles videos
 
 These are series that probably could have been (or actually are) on traditional TV but is available to watch in its entirety on YouTube, or other videos that just has the TV feel.
@@ -340,3 +344,5 @@ Other videos that doesn't fit the categories above.
 - **[A senator on brainrot](https://youtu.be/tJi0QwGlTTk)**. I understood maybe half of that speech.
 
 - **[The Incel to Trans Pipeline and Inside Mari](https://www.youtube.com/watch?v=IAA1XtDOuH8)**. A video about a manga sprnikled with some interesting social commentary.
+
+- For fans of the TV show _Community_, [here is a compilation of Jeff and Annie moments along with Sara Bareilles' _Gravity_](https://youtu.be/SsBvqDwVqwc). This was the original video that spawned that moment in that one episode in Season 2 of the show.
