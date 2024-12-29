@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2024-11-22
+last_updated: 2024-12-29
 category: music
 ---
 
@@ -17,6 +17,22 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## December 2024 - _Image_ by Magdalena Bay
+
+This has got to be up there as one of best albums in 2024, and definitely an album I discovered too late into the year.
+
+I have seen many people naming _Imaginal Disk_ as their AOTY in 2024 and I can totally see why this would be the case. It's an incredibly well written electropop album and I have gone back to it again and again even in the short time I have heard of it. The instrumentation itself is very fun and has a lot of things you can pick up on even in the subsequent listens. _Image_ in particular is one of my favourites from the album -- from the slight change of tempo at the intro, to the catchy chorus, and the sounds that makes you feel like zooming along some futuristic cityscape. It's an amazing record overall, and I am so glad I caught it even so late on.
+
+Other shoutouts:
+
+- _Thank You_ by Clairo. I heard this song again this month at a clothing store, but the album itself has already been one that I enjoyed from the year. It's another album that I have been enjoying more towards the tail end of the year, and really demonstrates that Clairo can write anything and it'll be great.
+
+- _Cardinal_ by Kacey Musgraves. I have heard of her for a while now but only have checked out her music. Her soft voice is great though and it's a great folk vibe.
+
+- _Alley Rose_ by Conan Gray. An artist that I could have seen in Jakarta but I skipped on. His album is great, but _Alley Rose_ is a great one to belt out while in the shower. Trust me on that one.
+
+It's a bit of a theme this month where all the songs are from 2024 albums that I haven't been so obsessed with throughout the year.
+
 ## November 2024 - _Fox Cub / Apocalypse / Special / The Zookeeper's Boy_ by Mew
 
 Yes, I picked four songs. Fight me.
@@ -27,9 +43,11 @@ The album also has a nice bit of transitioning going on between the four pieces.
 
 Other shoutouts:
 
-- _Everything In Its Right Place_ by Radiohead.
+- _Everything In Its Right Place_ by Radiohead. This is mainly because I saw Thom Yorke live earlier in the month. It was him alone, but was still incredible show nonetheless.
 
 - _ฟ้า_ by Tattoo Colour.
+
+- _Unclear_ by Kodaline. Back with another usual artist.
 
 ---
 
@@ -63,7 +81,7 @@ Other shoutouts:
 
 - _I Love You, I'm Sorry_ by Gracie Abrams. I am surprised that I enjoy her music. I don't think it will be in my top albums this year, but it's definitely one where I'll put on now and then, and I'm not sure why.
 
-- _Ptolemaea_ by Ethel Cain. I don't want to say too much about the song but it's incredible. However I do recommend you all to check the whole album out rather than just the one song -- it is incredible haunting but definitely worth a listen.
+- _Ptolemaea_ by Ethel Cain. I don't want to say too much about the song except for that it's incredible (and that there's one particular bit in the track that hits very hard). However I do recommend you all to check the whole album out rather than just the one song -- it is incredible haunting but definitely worth a listen.
 
 ---
 
