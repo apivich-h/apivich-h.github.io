@@ -25,7 +25,9 @@ PIED: Physics-Informed Experimental Design For Inverse Problems.
 <br>
 <b>Apivich Hemachandra*</b>, Gregory Kang Ruey Lau*, See-Kiong Ng and Bryan Kian Hsiang Low.
 <br>
-<i>ICML 2024 AI4Science Workshop.</i> 
+<i>ICLR 2025.</i> Acceptance rate: 32.1%.
+<br>
+<i>Also presented at the ICML 2024 AI4Science Workshop.</i> 
 <br>
 
 <details> 
@@ -47,7 +49,7 @@ Gregory Kang Ruey Lau*, <b>Apivich Hemachandra*</b>, See-Kiong Ng and Bryan Kian
 <br>
 <i>ICLR 2024 Spotlight Presentation.</i> Acceptance rate: 5%.
 <br>
-<i>Also received Best Paper Award at ICML 2024 AI4Science Workshop.</i> 
+<i>Also received Best Paper Award at the ICML 2024 AI4Science Workshop.</i> 
 <br>
 
 <details> 

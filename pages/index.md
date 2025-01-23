@@ -8,7 +8,12 @@ last_updated: 2025-01-16
 ## Updates
 
 <ul class="listing">
-<li class="listing-item">
+  <li class="listing-item">
+    <time>[2025-01-23]</time>
+    My co-first author paper titled <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> has been accepted to ICLR 2025.
+  </li>
+  <br/>
+  <li class="listing-item">
     <time>[2025-01-08]</time>
     I received the Research Achievement Award for Semester 1 AY 2024/2025from NUS School of Computing.
   </li>
@@ -20,7 +25,7 @@ last_updated: 2025-01-16
   <br/>
   <li class="listing-item">
     <time>[2024-01-17]</time>
-    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has been accepted as a spotlight presentation at ICLR 2024.
+    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has been accepted as a spotlight presentation to ICLR 2024.
   </li>
   <br/>
   <li class="listing-item">
