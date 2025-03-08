@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2024-12-29
+last_updated: 2025-02-01
 category: music
 ---
 
@@ -9,7 +9,7 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 1. It must be a song I really liked from that particular month. This may mean I discovered it in that month, or having some heavy rotations during the month.
 
-2. After featuring a song from a certain artist, I can't feature another of their song for another 12 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I _really_ like their song in that month.
+2. After featuring a song from a certain artist, I can't feature another of their song for another ~~12 months~~ 6 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. ~~The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I really like their song in that month.~~ Ended up shortening this period because 12 months is a bit too long that I may already get back on a cycle to really listening to someone again. And life is too short for such constraints anyway. 
 
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
@@ -17,11 +17,43 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## February 2025 - _Besties_ by Black Country, New Road
+
+I heard this song on the last few days of January but it has grown on me quite a bit throughout this month, and it's already one of my favourite new releases from this year I've heard so far. Yes it's quite different from their first two albums, but so what? It's still a a very fun song even if it's a bit more "polished" than their other stuff. The vibe is a lot happier especially compared to Ants From Up There, but I can still see the grand sounds and the bands just enjoying themselves all the same. Really looking forward to their album after hearing this single.
+
+Other shoutouts:
+
+- _Some Type of Skin_ by Aurora. Saw her live this month, and it was phenomenal.
+
+- _Flea_ by St Vincent. I can see why she won a Grammy this year.
+
+- _Real Life_ by The Marias.
+
+- _Tick Tock_ by Tom Misch.
+
+- _I Only Said_ by My Bloody Valentine.
+
+- _Here's Where The Story Ends_ by The Sundays.
+
+Quite a diverse list of songs I discovered this week. Here's to more months of music discovery this year.
+
+## January 2025 - _Belinda Says_ by Alvvays
+
+I have been listening to _Blue Rev_ a lot in January. It's definitely an album that has grown on me since I first listened to it. The album is just so tight instrumentally, and _Belinda Says_ itself is just such a burst of emotions. The guitar effects, the little key shift towards the end, the emotions from the vocals all blend together incredibly well. It has not been that long since I last had Alvvays on this list, but yeah, I have really been into the song this month so that has got to be my pick.
+
+Other shoutouts:
+
+- _Holy, Holy_ by Geordie Greep. Okay yeah, I haven't really gotten into much Black Midi. But after listening to enough BCNR and hearing about them online, I gave their music a go. It's a really chaotic sound, but somehow it really hits you melodically in an interesting way. Geordie's work is no different. The instrumentation is incredible with this one. The guy's melodies are so catchy, I can still hear the brass from _Holy, Holy_ in my head. The lyrics are a bit questionable but yeah, it's definitely a fun song.
+
+- _Pulldrone_ by Ethel Cain. I didn't expect to like the album so much, but something about its eerieness gets to me. The vibes makes it an uncomfortable listen, but in a good way. I didn't expect her to depart so much from her debut album (even if that's already quite off the mainstream sounds), but it's still quite an interesting listen.
+
+- _Drone:Nodrone_ by The Cure. Now this one I slept on. So many people highly rated this album in their year end lists, but I didn't think much of it until I really gave it a listen. Wow. This was _not_ what I was expecting from The Cure, based on the hits I have heard. I should really listen to their discography a bit more now.
+
 ## December 2024 - _Image_ by Magdalena Bay
 
 This has got to be up there as one of best albums in 2024, and definitely an album I discovered too late into the year.
 
-I have seen many people naming _Imaginal Disk_ as their AOTY in 2024 and I can totally see why this would be the case. It's an incredibly well written electropop album and I have gone back to it again and again even in the short time I have heard of it. The instrumentation itself is very fun and has a lot of things you can pick up on even in the subsequent listens. _Image_ in particular is one of my favourites from the album -- from the slight change of tempo at the intro, to the catchy chorus, and the sounds that makes you feel like zooming along some futuristic cityscape. It's an amazing record overall, and I am so glad I caught it even so late on.
+I have seen many people naming _Imaginal Disk_ as their AOTY in 2024 and I can totally see why this would be the case. It's an incredibly well written electropop album and I have gone back to it again and again even in the short time I have heard of it. The instrumentation itself is very fun and has a lot of things you can pick up on even in the subsequent listens. _Image_ in particular is one of my favourites from the album -- from the slight change of tempo at the intro, to the catchy chorus, and the sounds that makes you feel like zooming along some futuristic cityscape. It's an amazing record overall, and I am so glad (yet a bit sad) I only caught it even so late on.
 
 Other shoutouts:
 
@@ -38,7 +70,6 @@ It's a bit of a theme this month where all the songs are from 2024 albums that I
 Yes, I picked four songs. Fight me.
 
 I have been listening to some Mew recently (they have some pure vibes tracks which is great), and once again it stems from checking out artists that Birdy covered in her debut album (see The National from a few months ago). In particular, _And The Glass Handed Kites_ is an interesting album. It has a good alt rock sound to it, with great instrumentation.
-
 The album also has a nice bit of transitioning going on between the four pieces. In a listen, it almost feels like different pieces of a single long song. It feels hard to separate them, so I'm just gonna feature all of them.
 
 Other shoutouts:
