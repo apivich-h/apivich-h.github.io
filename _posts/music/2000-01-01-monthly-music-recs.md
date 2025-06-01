@@ -9,13 +9,51 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 1. It must be a song I really liked from that particular month. This may mean I discovered it in that month, or having some heavy rotations during the month.
 
-2. After featuring a song from a certain artist, I can't feature another of their song for another ~~12 months~~ 6 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. ~~The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I really like their song in that month.~~ Ended up shortening this period because 12 months is a bit too long that I may already get back on a cycle to really listening to someone again. And life is too short for such constraints anyway. 
+2. After featuring a song from a certain artist, I can't feature another of their song for another ~~12 months~~ 6 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. ~~The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I really like their song in that month.~~ Ended up shortening this period because 12 months is a bit too long that I may already get back on a cycle to really listening to someone again. And life is too short for such constraints anyway.
 
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
 
 ---
+
+## May 2025 - _A Lot's Gonna Change_ by Weyes Blood
+
+Not much to say but the fact that the entirety of _Titanic Rising_ is an incredible one, and one that I feel gives a really good vibe to what her style is about. I find her like a less rock version of The Last Dinner Party, and I don't know what exactly draws me to this genre so much. Maybe it's the diversion from the modern pop, or maybe it's just the want for some older ounds with a new spin.
+
+The opener _A Lot's Gonna Change_ is a meaningful track about growing up and trying to cope with that. And I find this quite a relatable track in a lot of ways. Not to mention that it's also a banger.
+
+Other shoutouts:
+
+- _Passionate Goodbye_ by Psy. For reasons I cannot say, I have been getting into Psy lately even if about ten years too late. Outside of _Gangnam Style_, it turns out he has some other bangers also.
+
+- _Lazarus_ by Porcupine Tree. An older one but popped up on my playlist again recently.
+
+## April 2025 - _Close to You_ by Gracie Abrams
+
+First off, going to give a shoutout to _Forever Howlong_ by Black Country, New Road which is a new album released this month. It's my AoTY so far this year, but alas, I have already shouted out _Bestie_ earlier in the year, so I'm gonna go for the artist I got quite hyped about this month.
+
+But anyway, Gracie Abrams. She's a bit of a controversial singer for a number of reasons. I personally don't think her music is bad, and if anything I find her latest album an alright pop album. It might not have been AoTY material but it's definitely a relaxing listen and quite fun at points.
+
+Other shoutouts:
+
+- _Ankles_ by Lucy Dacus. Her album is, in complete honesty, a bit flat compared to some of her previous works, but still a good work nonetheless. _Ankles_ was the lead single, and seems like an easy pick, but it really is my favourite track from the album.
+
+## March 2025 - _Real Life_ by The Marias
+
+Other shoutouts:
+
+- _John L_ by black midi.
+
+- _Lovesick_ by Alice Phoebe Lou.
+
+- _Everything is Embarassing_ by Sky Ferreira.
+
+- _สัญญาหน้าฝน_ by Carabao.
+
+- ~~_A Lot's Gonna Change_ by Weyes Blood.~~
+
+- _How Bad Do U Want Me_ by Lady Gaga.
 
 ## February 2025 - _Besties_ by Black Country, New Road
 
@@ -27,7 +65,7 @@ Other shoutouts:
 
 - _Flea_ by St Vincent. I can see why she won a Grammy this year.
 
-- _Real Life_ by The Marias.
+- ~~_Real Life_ by The Marias.~~
 
 - _Tick Tock_ by Tom Misch.
 
@@ -48,6 +86,8 @@ Other shoutouts:
 - _Pulldrone_ by Ethel Cain. I didn't expect to like the album so much, but something about its eerieness gets to me. The vibes makes it an uncomfortable listen, but in a good way. I didn't expect her to depart so much from her debut album (even if that's already quite off the mainstream sounds), but it's still quite an interesting listen.
 
 - _Drone:Nodrone_ by The Cure. Now this one I slept on. So many people highly rated this album in their year end lists, but I didn't think much of it until I really gave it a listen. Wow. This was _not_ what I was expecting from The Cure, based on the hits I have heard. I should really listen to their discography a bit more now.
+
+- ~~_Besties_ by Black Country, New Road~~
 
 ## December 2024 - _Image_ by Magdalena Bay
 
@@ -154,7 +194,9 @@ Other shoutouts:
 
 - _But Not Kiss_ by Faye Webster.
 
-These are pretty much some of the 2024 albums that I enjoyed thus far (note -- the shoutout originally featured Chappell Roan but was removed because I selected one of her songs for July's MMR instead).
+- ~~_Femininomenon_ by Chappell Roan~~
+
+These are pretty much some of the 2024 albums that I enjoyed thus far.
 
 ---
 
