@@ -9,11 +9,6 @@ last_updated: 2025-07-05
 
 <ul class="listing">
   <li class="listing-item">
-    <time>[2025-07-17]</time>
-    I am on a month-long visit with Desi Ivanova at Department of Statistics, Oxford University.
-  </li>
-  <br/>
-  <li class="listing-item">
     <time>[2025-07-08]</time>
     I present <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> at the AI4X Conference 2025 in Singapore.
   </li>
