@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2025-02-01
+last_updated: 2025-10-23
 category: music
 ---
 
@@ -17,6 +17,92 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## October 2025 - _Ankles_ by Lucy Dacus
+
+This song has been released for a while now but I recently gotten more into it. I feel Lucy has a particular style in her lyricism and _Ankles_ is another one of those that she paints a scene well with the lyrics. Not to mention an overall vibe of the album that seems a bit more stripped down also. It's a good song, and it's a good listen for me.
+
+Other shoutouts:
+
+- _This is the Killer Speaking_ by The Last Dinner Party. Cannot believe they released two qualtiy albums in two consecutive years.
+
+- _Goodnight_ by Florence Road.
+
+- _I Should Live In Salt_ by The National.
+
+- _Love Me Different_ by Hayley Williams. Another good album released this year.
+
+---
+
+## September 2025 - _Straight Line Was A Lie_ by The Beths
+
+That's another one that was released recently. And I love it. The Beths really cannot miss, and this album is another example of them coming up with an incredibly tight album.
+
+Other shoutouts:
+
+- _Call Me What You Like_ by Keane. Keane's first EP is so different from their preceding works but still a fun listen anyway. If anything, it reminds me of Coldplay's _Blue Room EP_.
+
+- _Relationships_ by Haim.
+
+- _Someone Was Listening_ by dodie.
+
+- _Calling After Me_ by Wallows.
+
+---
+
+## August 2025 - _The Subway_ by Chappell Roan
+
+I don't think I have ever heard anyone singing about wanting to move to Saskatchuan before. I didn't think it would have worked. But Chappell did it, and it worked out very well musically. Potentially my song of the year. What an icon. Truly our favourite artist's favourite artist.
+
+Other shoutouts:
+
+Musically, August is exciting since several albums I have been anticipating were released this month. So here are some of the tracks from those albums from this month.
+
+- ~~_Straight Line Was A Lie_ by The Beths.~~
+
+- _Tough Luck_ by Laufey.
+
+- _Vodka Cranberry_ by Conan Gray.
+
+---
+
+## July 2025 - _Acquiesce_ by Oasis
+
+Who would have thought the Gallagher brothers wouldn't fight for a year? It is an incredible reminder that what we all need in this tough times is each other.
+
+Okay but seriously, it's a banger of a tune and a great testament to how timeless Oasis is, that even a B-side can still make an entire stadium sing. Incredibly glad the band is back together, and hyped to watch them live (hopefully).
+
+Other shoutouts:
+
+- _I Thought I Saw Your Face Today_ by She & Him. Yes, it's the duo that Zooey Deschanel is in.
+
+- _Cross Your Mind_ by Shelly. Yes, it's the band that Clario is in.
+
+- _Piledriver Waltz_ by Arctic Monkeys. Yes, it's the band that Alex Turner is in.
+
+Wow, certainly a theme there.
+
+---
+
+## June 2025 - _Bloom Baby Bloom_ by Wolf Alice
+
+June has been a bit of a busier month due to everything deciding to happen in terms of my own scheduling and also in terms of how chaotic everything has gotten (*cough* Middle East *cough*). But that doesn't stop me from listening to _some_ music. I mean nowhere near as much as my usual amounts, but still a good amount nonetheless.
+
+Out of the new releases I listened to this month (I haven't listened to all of them), the single by Wolf Alice is definitely the one I am anticipating for the most. The song is incredibly catchy with a good piano riff, and a its powerful vocals as usual. One of the albums I am really looking forward to this year.
+
+Other shoutouts:
+
+- _Metal_ by The Beths. The whole vibe is great, but it's Liz and her lyrics once again that really does it for me. This is their fourth album and it will probably still slap as hard as their previous ones.
+
+- _Enchanted_ by Taylor Swift. She got her master recordings back this month so her original version have been back on my rotations a bit. It is sort of clear to hear how her voice fit much better back then compared to how it is now.
+
+- _Heavy_ by Orla Gartland. It's just a decent song.
+
+- _My Little Corner of the World_ by Yo La Tengo.
+
+It's still June but I am already waiting for the August album releases (particularly from The Beths and Laufey who I really got hooked on last year). Do expect a few of the usual artists to appear here with some of their new albums.
+
+---
+
 ## May 2025 - _A Lot's Gonna Change_ by Weyes Blood
 
 Not much to say but the fact that the entirety of _Titanic Rising_ is an incredible one, and one that I feel gives a really good vibe to what her style is about. I find her like a less rock version of The Last Dinner Party, and I don't know what exactly draws me to this genre so much. Maybe it's the diversion from the modern pop, or maybe it's just the want for some older ounds with a new spin.
@@ -29,6 +115,8 @@ Other shoutouts:
 
 - _Lazarus_ by Porcupine Tree. An older one but popped up on my playlist again recently.
 
+---
+
 ## April 2025 - _Close to You_ by Gracie Abrams
 
 First off, going to give a shoutout to _Forever Howlong_ by Black Country, New Road which is a new album released this month. It's my AoTY so far this year, but alas, I have already shouted out _Bestie_ earlier in the year, so I'm gonna go for the artist I got quite hyped about this month.
@@ -39,7 +127,11 @@ Other shoutouts:
 
 - _Ankles_ by Lucy Dacus. Her album is, in complete honesty, a bit flat compared to some of her previous works, but still a good work nonetheless. _Ankles_ was the lead single, and seems like an easy pick, but it really is my favourite track from the album.
 
+---
+
 ## March 2025 - _Real Life_ by The Marias
+
+The song is quite groovy. To be fair also, the whole album is quite groovy. Another album I really missed out on in 2024.
 
 Other shoutouts:
 
@@ -54,6 +146,8 @@ Other shoutouts:
 - ~~_A Lot's Gonna Change_ by Weyes Blood.~~
 
 - _How Bad Do U Want Me_ by Lady Gaga.
+
+---
 
 ## February 2025 - _Besties_ by Black Country, New Road
 
@@ -75,6 +169,8 @@ Other shoutouts:
 
 Quite a diverse list of songs I discovered this week. Here's to more months of music discovery this year.
 
+---
+
 ## January 2025 - _Belinda Says_ by Alvvays
 
 I have been listening to _Blue Rev_ a lot in January. It's definitely an album that has grown on me since I first listened to it. The album is just so tight instrumentally, and _Belinda Says_ itself is just such a burst of emotions. The guitar effects, the little key shift towards the end, the emotions from the vocals all blend together incredibly well. It has not been that long since I last had Alvvays on this list, but yeah, I have really been into the song this month so that has got to be my pick.
@@ -88,6 +184,8 @@ Other shoutouts:
 - _Drone:Nodrone_ by The Cure. Now this one I slept on. So many people highly rated this album in their year end lists, but I didn't think much of it until I really gave it a listen. Wow. This was _not_ what I was expecting from The Cure, based on the hits I have heard. I should really listen to their discography a bit more now.
 
 - ~~_Besties_ by Black Country, New Road~~
+
+---
 
 ## December 2024 - _Image_ by Magdalena Bay
 
@@ -104,6 +202,8 @@ Other shoutouts:
 - _Alley Rose_ by Conan Gray. An artist that I could have seen in Jakarta but I skipped on. His album is great, but _Alley Rose_ is a great one to belt out while in the shower. Trust me on that one.
 
 It's a bit of a theme this month where all the songs are from 2024 albums that I haven't been so obsessed with throughout the year.
+
+---
 
 ## November 2024 - _Fox Cub / Apocalypse / Special / The Zookeeper's Boy_ by Mew
 

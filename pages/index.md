@@ -5,46 +5,18 @@ permalink: /
 last_updated: 2025-07-05
 ---
 
-## Updates
+## Recent Updates
 
 <ul class="listing">
+{% for entry in site.data.notices limit:5 %}
   <li class="listing-item">
-    <time>[2025-07-08]</time>
-    I present <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> at the AI4X Conference 2025 in Singapore.
+    <time>[{{ entry.time }}]</time>
+    {{ entry.text }}
   </li>
   <br/>
-  <li class="listing-item">
-    <time>[2025-01-23]</time>
-    My co-first author paper titled <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> has been accepted to ICLR 2025.
-  </li>
-  <br/>
-  <li class="listing-item">
-    <time>[2025-01-08]</time>
-    I received the Research Achievement Award for Semester 1 AY 2024/2025 from NUS School of Computing.
-  </li>
-  <br/>
-  <li class="listing-item">
-    <time>[2024-07-26]</time>
-    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has won the best paper award at the ICML 2024 AI4Science Workshop.
-  </li>
-  <br/>
-  <li class="listing-item">
-    <time>[2024-01-17]</time>
-    My co-first author paper titled <b>"PINNACLE: PINN Adaptive ColLocation and Experimental points selection"</b> has been accepted as a spotlight presentation to ICLR 2024.
-  </li>
-  <br/>
-  <li class="listing-item">
-    <time>[2023-06-21]</time>
-    I was one of the 5 CS PhD students who have been selected for School of Computing's Teaching Fellowship Scheme for the upcoming school year, based on past tutoring performances.
-  </li>
-  <br/>
-  <li class="listing-item">
-    <time>[2023-04-25]</time>
-    My first-author paper titled <b>"Training-Free Neural Active Learning With Initialization-Robustness Guarantees"</b> has been accepted to ICML 2023.
-  </li>
+{% endfor %}
 </ul>
-
-<br/>
+For archive of all past updates, see <a href="updates">here</a>.
 
 For more details about my current progress see <a href="works">my academic works</a> and <a href="/cv/cv.pdf">my CV</a>.
 

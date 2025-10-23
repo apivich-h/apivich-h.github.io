@@ -44,7 +44,7 @@ The following posts have got a date[^1] attached to them.
 
 The following are a list of all text posts on my site sorted by category. Most of these are writings about my experince in school or in life in general. It is an excuse for me to do more writing outside of just academic papers.
 
-"P" refers to posted data, and "U" refers to last updated data.
+"P" refers to posted date, and "U" refers to last updated date (for posts that I continually update).
 
 {% assign sorted_cats = site.categories | sort %}
 <ul class="listing">
