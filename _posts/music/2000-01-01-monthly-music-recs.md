@@ -19,7 +19,7 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ## October 2025 - _Ankles_ by Lucy Dacus
 
-This song has been released for a while now but I recently gotten more into it. I feel Lucy has a particular style in her lyricism and _Ankles_ is another one of those that she paints a scene well with the lyrics. Not to mention an overall vibe of the album that seems a bit more stripped down also. It's a good song, and it's a good listen for me.
+This song has been released for a while now but I recently gotten more into it. I feel Lucy has a particular style in her lyricism and _Ankles_ is another one of those that she paints a scene well with the lyrics. Not to mention an overall vibe of the album that seems a bit more stripped down also, and I am starting to get it more. _Ankles_ is a good song -- definitely a good listen for me.
 
 Other shoutouts:
 
@@ -30,6 +30,8 @@ Other shoutouts:
 - _I Should Live In Salt_ by The National.
 
 - _Love Me Different_ by Hayley Williams. Another good album released this year.
+
+- _Moving On_ by Kodaline. They announced that they're breaking up after the next album, and I cannot tell you how devastated I am about it. But it is okay. Excited to hear what they'll be releasing later though.
 
 ---
 
@@ -125,7 +127,7 @@ But anyway, Gracie Abrams. She's a bit of a controversial singer for a number of
 
 Other shoutouts:
 
-- _Ankles_ by Lucy Dacus. Her album is, in complete honesty, a bit flat compared to some of her previous works, but still a good work nonetheless. _Ankles_ was the lead single, and seems like an easy pick, but it really is my favourite track from the album.
+- ~~_Ankles_ by Lucy Dacus~~. Her album is, in complete honesty, a bit flat compared to some of her previous works, but still a good work nonetheless. _Ankles_ was the lead single, and seems like an easy pick, but it really is my favourite track from the album.
 
 ---
 
