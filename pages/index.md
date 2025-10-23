@@ -2,12 +2,22 @@
 layout: page
 title: Hello!
 permalink: /
-last_updated: 2025-01-16
+last_updated: 2025-07-05
 ---
 
 ## Updates
 
 <ul class="listing">
+  <li class="listing-item">
+    <time>[2025-07-17]</time>
+    I am on a month-long visit with Desi Ivanova at Department of Statistics, Oxford University.
+  </li>
+  <br/>
+  <li class="listing-item">
+    <time>[2025-07-08]</time>
+    I present <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> at the AI4X Conference 2025 in Singapore.
+  </li>
+  <br/>
   <li class="listing-item">
     <time>[2025-01-23]</time>
     My co-first author paper titled <b>"PIED: Physics-Informed Experimental Design for Inverse Problems"</b> has been accepted to ICLR 2025.
@@ -15,7 +25,7 @@ last_updated: 2025-01-16
   <br/>
   <li class="listing-item">
     <time>[2025-01-08]</time>
-    I received the Research Achievement Award for Semester 1 AY 2024/2025from NUS School of Computing.
+    I received the Research Achievement Award for Semester 1 AY 2024/2025 from NUS School of Computing.
   </li>
   <br/>
   <li class="listing-item">
@@ -57,7 +67,7 @@ For more details about my current progress see <a href="works">my academic works
 
 Hello. I am Apivich Hemachandra (in Thai: อภิวิชญ์ ​เหมะจันทร), although I also go by my nickname[^1] "Kaotoo" (in Thai: ข้าวตู).
 
-I am a fourth-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on (1) **data-efficient physics-informed machine learning**, and (2) **improving efficiency of multi-GPU training of large models** using ML techniques. If either of these topics interest you, feel free to reach out for a discussion!
+I am a fifth-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on (1) **data-efficient physics-informed machine learning**, and (2) **improving efficiency of multi-GPU training of large models** using ML techniques. If either of these topics interest you, feel free to reach out for a discussion!
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^2]. I have also worked on different computer science-related projects with researchers in Thailand and in collaboration with large local firms.
 
