@@ -9,11 +9,29 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 1. It must be a song I really liked from that particular month. This may mean I discovered it in that month, or having some heavy rotations during the month.
 
-2. After featuring a song from a certain artist, I can't feature another of their song for another ~~12 months~~ 6 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. ~~The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I really like their song in that month.~~ Ended up shortening this period because 12 months is a bit too long that I may already get back on a cycle to really listening to someone again. And life is too short for such constraints anyway.
+2. After featuring a song from a certain artist, I can't feature another of their song for another ~~12 months~~ 6 months. Out of all the rules this will be the one that I will enforce on myself as a hard constraint. ~~The 12 months is an arbitrary number which might change at some point, but will try to at least make it a point to not repeat artists unless I really like their song in that month.~~ Ended up shortening this period because 12 months is a bit too long that I may already get back on a cycle to really listening to someone again. And life is too short for such arbitrary constraints anyway.
 
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+
+---
+
+## November 2025 - _Comforting Sounds_ by Mew
+
+I saw Mew live this month, and it was incredible. _Comforting Sounds_, however, was something else. Going from quiet singing with isolated guitar, continuing with the buildup with the other instruments joining in, to the final release of bliss at the very end. It's a song that just continues to build and build, and the payoff is incredible.
+
+I have featured the track in this list before (and Mew in general), but yeah, it really is that good. Highly recommend everyone to give the masterpiece a listen all the way through.
+
+Other shoutouts:
+
+- _Please Don't Move to Melbourne_ by Ball Park Music. Can you tell I went to the Oasis concert recently?
+
+- _Snow Brigade_ by Mew. Gutted they didn't play this one live, but gonna shout it out here anyway.
+
+- _Sublime_ by Sarah Kinsley. Incredible album I discovered this month.
+
+- _Go West_ by Pet Shop Boys.
 
 ---
 
@@ -37,7 +55,7 @@ Other shoutouts:
 
 ## September 2025 - _Straight Line Was A Lie_ by The Beths
 
-That's another one that was released recently. And I love it. The Beths really cannot miss, and this album is another example of them coming up with an incredibly tight album.
+That's another one that was released recently. And I love it. The Beths really cannot miss, and this album is another example of them coming up with an incredibly tight album. Gonna be my album of the year at this rate.
 
 Other shoutouts:
 
