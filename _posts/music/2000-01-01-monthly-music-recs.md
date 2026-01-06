@@ -17,6 +17,18 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## December 2025 - _Man I Need_ by Olivia Dean
+
+I think I have already found out about _The Art of Loving_ a bit earlier in the year, but I have relistened to it a bit in the last few months of 2025 and the album really holds up. The whole vibe is quite happy and Olivia's vocals are great. Truly one of the AoTYs this year.
+
+Other shoutouts: Two songs from two very good live shows I saw.
+
+- _Take Me Out_ by Franz Ferdinand. Favourite show in 2025. It's a bit of nostalgia and that I finally get to see them live after almost a decade, and the fact that they're a very solid live band.
+
+- _Besties_ by Black Country, New Road. They left Kanye out of their live show, but I stil loved seeing the band do their thing live. _Besties_ is such a happy sounding song that I have previously gone on about in this list, but it legitimately might be my favourite track in 2025.
+
+---
+
 ## November 2025 - _Comforting Sounds_ by Mew
 
 I saw Mew live this month, and it was incredible. _Comforting Sounds_, however, was something else. Going from quiet singing with isolated guitar, continuing with the buildup with the other instruments joining in, to the final release of bliss at the very end. It's a song that just continues to build and build, and the payoff is incredible.
