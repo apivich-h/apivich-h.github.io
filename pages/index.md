@@ -30,11 +30,11 @@ For more details about my current progress see <a href="works">my academic works
 
 ## About Myself
 
-{% include image.html url="/images/profile.jpg" caption="Me lying on the road for no reason <br> (10 points if you know where this is)" width="300px" align="right" %}
+{% include image.html url="/images/profile.jpg" caption="Photo of myself (10 points if you know where this is)" width="320px" align="right" %}
 
 Hello. I am Apivich Hemachandra (in Thai: อภิวิชญ์ ​เหมะจันทร), although I also go by my nickname[^1] "Kaotoo" (in Thai: ข้าวตู).
 
-I am a fifth-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on (1) **data-efficient physics-informed machine learning**, and (2) **improving efficiency of multi-GPU training of large models** using ML techniques. If either of these topics interest you, feel free to reach out for a discussion!
+I am a fifth-year PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>. I am currently working on (1) **data-efficient physics-informed machine learning**, and (2) **improving resource efficiency for training large language models** by tuning various training components (e.g., parallelisation of training on multiple GPUs, model architecture, training data) with **Bayesian optimisation**. If either of these topics interest you, feel free to reach out for a discussion!
 
 Prior to this, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Nakhon Pathom, Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^2]. I have also worked on different computer science-related projects with researchers in Thailand and in collaboration with large local firms.
 
