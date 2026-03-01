@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2025-10-23
+last_updated: 2026-02-28
 category: music
 ---
 
@@ -14,6 +14,40 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+
+---
+
+## February 2026 - _True Blue_ by boygenius
+
+I saw Lucy Dacus earlier this month and I couldn't get the song out of my head. It reminds me of being on a long car ride with a friend, with the windows rolled down, through a desert. I don't know how else to describe it, but it feels a very free-ing song that is to be blasted on the headphones. Growing to be one of my favourites from boygenius.
+
+Other shoutouts:
+
+- _Perfect Places_ by Lorde. Melodrama is such a masterpiece and this song was a perfect way to close it.
+
+- _Playing Classics_ by Water From Your Eyes. Incredibly addictive piano riff that plays throughout the song. I was humming along to it too many times throughout the month.
+
+- _Sailor Song_ by Gigi Perez.
+
+- _Strangers_ by Ethel Cain.
+
+---
+
+## January 2026 - _Au Pays Du Cocaine_ by Geese
+
+I finally get Geese. Their albums are amazing, and a very refreshing sound. _Getting Killed_ is definitely one of those that people did hype up a bit, and I get it now. May be seeing them at some point this year, and I'm sure I'll be even more into them after hearing them live.
+
+Other shoutouts:
+
+- _Don't Delete The Kisses_ by Wolf Alice. I saw them live earlier in the month and they were amazing. I can go on a bit about how _Visions of a Life_ and _Blue Weekend_ are two very incredible albums, and actually somewhat diverse across the run of the album. But all their stuff are great honestly. Would also shoutout _No Hard Feelings_ as well -- quite glad I managed to tell Ellie how much I liked that song in person.
+
+- _To Ease You_ by Men I Trust. Another show I enjoyed in January. Incredibly tight musically, and a great jam band.
+
+- _Figure It Out_ by Florence Road. One EP that I heard a bit too late in 2025. Very fun to listen to, and waiting to see if they'll blow up this year. Would love it if they did.
+
+- _back to friends_ by sombr. Another one that I missed out on in 2025. Didn't expect to enjoy the album as much as I did, but glad that I had a listen. This song is a real bop.
+
+- _yes baby_ by Madison Beer.
 
 ---
 
