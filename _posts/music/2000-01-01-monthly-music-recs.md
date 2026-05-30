@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monthly Music Recommendations
-last_updated: 2026-02-28
+last_updated: 2026-05-22
 category: music
 ---
 
@@ -14,6 +14,50 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 3. A softer rule related to the one previous -- I will (try to) not feature songs from artists that were picked as my latest AOTY (see [here](/posts/music/aoty)), and discourage ones that were AOTY at some point before as well.
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
+
+---
+
+## May 2026 - _Cruel World_ by Holly Humberstone
+
+This song (and Holly herself) somewhat came out of nowhere for me, beyond a few mentions on my favourite pop subreddit and being recommended on my Spotify. But I can hear her appeal. This song in particular is quite dreamy, her vocals are sweet and great to listen to, and the whole mood really nails the vibe of being in love with someone and wanting to spend time with them. Incredible bop in my bedroom and in the shower for me.
+
+Her latest album may quietly end up in my shoutouts for my favourite albums of the year, so look forward to that in my AoTY post. I have several songs from the album on repeat currently (_White Noise_ being another one of those). I hope too see the album on year-end lists. I'm so obsessed with it.
+
+Other shoutouts:
+
+- _Progress_ by Public Service Broadcasting. At this point, I will recommend any song that I heard (or will be hearing) live that month.
+
+- _wannabeher_ by Muna. Another song from a new album. Muna is an icon and this song is another showcase of that.
+
+---
+
+## April 2026 - _Madwoman_ by Laufey
+
+It is indeed interesting how Laufey can constantly come up with innovative ways to go about her sound. Her vocals are always on point anyway, but the mix of the bossanova(?) into more pop is kinda her thing at this point, and in this case she again does it quite well. She definitely is leaning more into pop, as evident by her latest album (I am neutral about this move, but cannot deny that her uniqueness is still there). Incredibly addictive song, and this is even before mentioning the music video that is a masterpiece.
+
+Other shoutouts:
+
+- _bmbmbm_ by Black Midi.
+
+- _Your Silent Face_ by New Order.
+
+- _Strange Overtones_ by David Byrne. This is the guy from The Talking Heads, and somehow he's still going. I sort of respect that.
+
+---
+
+## March 2026 - _I'll Change For You_ by Mitski
+
+Mitski's album is probably my favourite so far this year. I don't know what it is about her -- maybe her soft voice, or the music that very comfortable to listen to. But regardless, Mitski is amazing beyond words, and I love her cats. Check her album out.
+
+Other shoutouts:
+
+- _Illegal_ by PinkPantheress. I still regret that I didn't watch her live back at Laneway, but it is what it is sometimes. Her music is a really fun listen to, and I am glad she did blow up after Alysa did the whole ice skate routine.
+
+- _WHERE IS MY HUSBAND!_ by Raye. The song is so fire especially with the brass and backup vocals.
+
+- _Melodie Is A Wound_ by Stereolab. Another incredible band for you all to check out.
+
+- That cover of Justin Bieber's _Baby_ done by Geese. If you haven't listened to it, go find it on YouTube.
 
 ---
 
@@ -35,7 +79,7 @@ Other shoutouts:
 
 ## January 2026 - _Au Pays Du Cocaine_ by Geese
 
-I finally get Geese. Their albums are amazing, and a very refreshing sound. _Getting Killed_ is definitely one of those that people did hype up a bit, and I get it now. May be seeing them at some point this year, and I'm sure I'll be even more into them after hearing them live.
+I finally get Geese. Their albums are amazing, and a very refreshing sound. _Getting Killed_ is definitely one of those that people did hype up a bit, and I get it now. Am a bit disappointed I didn't jump on the hype train earlier, since they have really been an up and coming band for a while now (even since 3D Country). May be seeing them at some point this year (update: I did), and I'm sure I'll be even more into them after hearing them live.
 
 Other shoutouts:
 
@@ -73,7 +117,7 @@ Other shoutouts:
 
 - _Please Don't Move to Melbourne_ by Ball Park Music. Can you tell I went to the Oasis concert recently?
 
-- _Snow Brigade_ by Mew. Gutted they didn't play this one live, but gonna shout it out here anyway.
+- _Snow Brigade_ by Mew. Gutted they didn't play this one live when I saw them, but gonna shout it out here anyway.
 
 - _Sublime_ by Sarah Kinsley. Incredible album I discovered this month.
 
