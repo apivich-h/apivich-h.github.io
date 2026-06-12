@@ -11,7 +11,7 @@ last_updated: 2020-11-30
 
 <a class="color-button" href="/docs/thesis-u/thesis-u.pdf">full text (pdf)</a>
 
-### Abstract 
+### Abstract
 
 We tackle the problem of data diversification from multiple angles. We first explore the problem of text diversification and how sampled subsets of sentences from different sampling techniques can affect the machine translation model obtained. We show that we are able to get notable increase in translation quality in some cases of our sampling.
 
