@@ -132,11 +132,12 @@ Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations
 <br>
 Zhiliang Chen, Alfred Wei Lun Leong, Shao Yong Ong, <b>Apivich Hemachandra</b>, Gregory Kang Ruey Lau, Chuan-Sheng Foo, Zhengyuan Liu, Nancy F. Chen and Bryan Kian Hsiang Low.
 <br>
-<i>ICML 2026 DEMO Workshop.</i>
+<i>ICML 2026 DEMO Workshop (Oral Presentation).</i>
 <br>
 <details> 
 <summary>
 <a class="color-button">abstract (click to show)</a>
+<a class="color-button" href="/docs/paper/icml26-demo_jobs.pdf">pdf</a>
 </summary>
 <small>
 Fine-tuning an LLM to maximize performance on a downstream task requires finding the optimal data and model configuration. This is a black-box optimization problem that Bayesian optimization (BO) addresses by sequentially evaluating training configurations and using observed performance feedback to adaptively guide the search towards better configurations. However, directly applying BO to the joint data-model space suffers from two fundamental challenges: the prohibitive cost of full LLM training at each iteration, and the large number of BO iterations required for effective exploration due to the high problem dimensionality. This paper introduces JoBS, a BO-based approach that co-optimizes data and model configurations without requiring a full training run at every iteration. JoBS allocates an initial portion of the optimization budget to learn a scaling-law-inspired performance predictor that estimates fully trained LLM performance from only a small number of training steps. The remaining budget is then used to run BO with this predictor, eliminating the need for full training runs and enabling JoBS to explore significantly more data and model configurations within the same budget. We analyze JoBS' average regret and derive the optimal budget allocation between predictor learning and BO iterations. Empirically, JoBS outperforms independent data and model optimization methods and existing multi-fidelity BO baselines across a diverse set of downstream tasks.
