@@ -17,11 +17,25 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 ---
 
+## June 2026 - _stupid song_ by Olivia Rodrigo
+
+I know everyone has been going on about her new album quite a bit, but the hype is quite deserved because it is a great album. It's a good blend of classic indie/alt rock and pop. You can very clearly hear her influences in the album (through the music style, or even by literally having the lead singer of The Cure on one of the tracks). It's quite hard to pick my favourite song out of the album (I'll continue to talk about it when I eventually discuss my AoTY), but _stupid song_ gets my shout for the month for being the one I have had on repeat the most so far.
+
+Other shoutouts:
+
+- _waiting for you_ by natalie jinju. In this house we gatekeep no artists. Last month I kept going on about Public Service Broadcasting with my irl friends, and this month it will be natalie jinju. Her voice is great, and it does scratch the jazzy bit of my music listening.
+
+- _Madwoman_ by Laufey. Every so often I go back to the routine of listening an artist I have been obsessed with in the past. This month it is one of Laufey's single from earlier this year. Incredible bop though, paired with a very iconic music video.
+
+There are also songs from Carly Rae Jepsen, Sara Bareilles and Phoebe Bridgers that came out this month for their new album (and Kodaline like the month before that), but I have committed myself to avoiding those until their full albums drop. So you are going to have to wait for a few months to see if it ends up in my monthly music recs.
+
+---
+
 ## May 2026 - _Cruel World_ by Holly Humberstone
 
 This song (and Holly herself) somewhat came out of nowhere for me, beyond a few mentions on my favourite pop subreddit and being recommended on my Spotify. But I can hear her appeal. This song in particular is quite dreamy, her vocals are sweet and great to listen to, and the whole mood really nails the vibe of being in love with someone and wanting to spend time with them. Incredible bop in my bedroom and in the shower for me.
 
-Her latest album may quietly end up in my shoutouts for my favourite albums of the year, so look forward to that in my AoTY post. I have several songs from the album on repeat currently (_White Noise_ being another one of those). I hope too see the album on year-end lists. I'm so obsessed with it.
+It has been a few years since I listened to an album for the first time and immediately got hooked to it. Her latest album may quietly end up in my shoutouts for my favourite albums of the year, so look forward to that in my AoTY post. I have several songs from the album on repeat currently (_White Noise_ being another one of those). I hope too see the album on year-end lists. I'm so obsessed with it.
 
 Other shoutouts:
 
