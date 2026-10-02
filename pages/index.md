@@ -38,7 +38,7 @@ I am currently a Postdoctorate Associate at Singapore-MIT Alliance for Research 
 
 My general research interest is on data-efficient ML, especially on active learning (AL) and black-box optimisation (BBO). In particular, I am interested in two directions:
 
-1. How **AL and BBO can be used to improve the efficiency of NN training**, particularly through the lens of training data, NN architecture, prior knowledge, and compute. These training components may also have inter-dependencies, making the optimal choice for them more difficult to determine. Because it's expensive to try out many potential NN training setup (especially LLMs), we need to be a bit clever with what training setup we may want to try out.
+1. How **AL and BBO can be used to improve the efficiency of NN training**, particularly through the lens of training data, NN architecture, prior knowledge, and compute. These training components may also have inter-dependencies, making the optimal choice for them more difficult to determine. Because it's expensive to try out many potential NN training setup (especially LLMs), we need to be a bit clever with what training setup we may want to try running.
 
 2. How **we can evolve AL and BBO to be more efficient** through the use of existing prior knowledge and/or LLMs. This is particularly relevant in scientific domains, where we may have additional information which can be used to reduce how many experiments/simulations we need for AL or BBO. Because of the different form the prior knowledge can take up, and with the different choices we can make during experimentation/simulation, we may want to use cleverer systems to make these decisions for us rather than doing it manually.
 
@@ -51,7 +51,7 @@ Prior to my PhD, I completed my Bachelor's degree from Mahidol University Intern
 <!-- <details>  -->
 <!-- <summary><small>(Click to expand)</small></summary> -->
 <!-- <br/> -->
-I was born in Bangkok, however spent pretty much all of my childhood in Chiang Mai. I lived in Chiang Mai until I completed high school, before moving to Bangkok/Nakhon Pathom to complete my undergraduate degree. I have only been in Singapore since the start of my PhD (in 2021).
+I was born in Bangkok, however spent pretty much all of my childhood in Chiang Mai, right up until the end of high school. I then spent four years in Bangkok/Nakhon Pathom to complete my undergraduate degree. I have only been in Singapore since the start of my PhD (in 2021).
 <!-- <br/><br/> -->
 
 When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, bassist and vocalist, and have been playing varying amounts of music since high school. My music taste isn't that varied (generally alternative, indie or some genres of pop), but I do discuss them somewhere on this website (you'll have to find it yourself though). If you meet me in person, feel free to discuss music or recent live gigs you've been to with me.
