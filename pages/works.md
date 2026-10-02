@@ -20,6 +20,26 @@ Note: asterisks* denotes equal contributions.
 <ol class="listing">
 
 <li class="listing-item">
+Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations
+<br>
+Zhiliang Chen*, Alfred Wei Lun Leong*, Shao Yong Ong, <b>Apivich Hemachandra</b>, Gregory Kang Ruey Lau, Chuan-Sheng Foo, Zhengyuan Liu, Nancy F. Chen and Bryan Kian Hsiang Low.
+<br>
+<i>NeurIPS 2026.</i>
+<br>
+<i>Also an oral presentation at the ICML 2026 DEMO Workshop.</i>
+<br>
+<details> 
+<summary>
+<a class="color-button">abstract (click to show)</a>
+<a class="color-button" href="/docs/paper/icml26-demo_jobs.pdf">pdf</a>
+</summary>
+<small>
+Fine-tuning an LLM to maximize performance on a downstream task requires finding the optimal data and model configuration. This is a black-box optimization problem that Bayesian optimization (BO) addresses by sequentially evaluating training configurations and using observed performance feedback to adaptively guide the search towards better configurations. However, directly applying BO to the joint data-model space suffers from two fundamental challenges: the prohibitive cost of full LLM training at each iteration, and the large number of BO iterations required for effective exploration due to the high problem dimensionality. This paper introduces JoBS, a BO-based approach that co-optimizes data and model configurations without requiring a full training run at every iteration. JoBS allocates an initial portion of the optimization budget to learn a scaling-law-inspired performance predictor that estimates fully trained LLM performance from only a small number of training steps. The remaining budget is then used to run BO with this predictor, eliminating the need for full training runs and enabling JoBS to explore significantly more data and model configurations within the same budget. We analyze JoBS' average regret and derive the optimal budget allocation between predictor learning and BO iterations. Empirically, JoBS outperforms independent data and model optimization methods and existing multi-fidelity BO baselines across a diverse set of downstream tasks.
+</small>
+</details>
+</li>
+<br>
+<li class="listing-item">
 
 PIED: Physics-Informed Experimental Design For Inverse Problems.
 <br>
@@ -50,7 +70,7 @@ Gregory Kang Ruey Lau*, <b>Apivich Hemachandra*</b>, See-Kiong Ng and Bryan Kian
 <br>
 <i>ICLR 2024 Spotlight Presentation.</i> Acceptance rate: 5%.
 <br>
-<i>Also received Best Paper Award at the ICML 2024 AI4Science Workshop.</i> 
+<i>Also received Best Paper Award at the ICML 2024 AI4Science Workshop.</i>
 <br>
 
 <details> 
@@ -122,25 +142,6 @@ Bayesian Optimization with Early Trial Termination for Speeding Up Parallel Neur
 </summary>
 <small>
 Training of large neural networks (NNs) is often done in parallel on multiple GPUs. While existing parallel training frameworks easily allow NN training using multi-dimensional parallelism, the challenge remains in finding the optimal hyperparameters, such as the best balance between the sizes of various parallelism dimensions, which would result in the highest training throughput. Due to the large number of possible parallelism configurations (PCs) for a given training scenario, an exhaustive search over them is prohibitively costly. Existing PC optimization methods either require running training trials on a large number of PCs, each of which is costly, or rely on an approximate cost model which may be inaccurate and hardware-specific. To overcome these issues, this paper presents OPPA that can boost the efficiency of Bayesian optimization for optimizing the PC by novelly exploiting (a) the domain knowledge of parallel NN training via parallelism-informed prior beliefs that are general in catering to a variety of NN training scenarios, and (b) early termination of trials involving suboptimal PCs. Despite incorporating these nontrivial efficiency tricks, OPPA is still theoretically guaranteed to achieve sublinear regret. We empirically show that OPPA finds optimal PCs more efficiently than existing methods for parallel training of NNs with varying architectures, training frameworks, and multi-GPU hardware setups.
-</small>
-</details>
-</li>
-<br>
-
-<li class="listing-item">
-Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations
-<br>
-Zhiliang Chen, Alfred Wei Lun Leong, Shao Yong Ong, <b>Apivich Hemachandra</b>, Gregory Kang Ruey Lau, Chuan-Sheng Foo, Zhengyuan Liu, Nancy F. Chen and Bryan Kian Hsiang Low.
-<br>
-<i>ICML 2026 DEMO Workshop (Oral Presentation).</i>
-<br>
-<details> 
-<summary>
-<a class="color-button">abstract (click to show)</a>
-<a class="color-button" href="/docs/paper/icml26-demo_jobs.pdf">pdf</a>
-</summary>
-<small>
-Fine-tuning an LLM to maximize performance on a downstream task requires finding the optimal data and model configuration. This is a black-box optimization problem that Bayesian optimization (BO) addresses by sequentially evaluating training configurations and using observed performance feedback to adaptively guide the search towards better configurations. However, directly applying BO to the joint data-model space suffers from two fundamental challenges: the prohibitive cost of full LLM training at each iteration, and the large number of BO iterations required for effective exploration due to the high problem dimensionality. This paper introduces JoBS, a BO-based approach that co-optimizes data and model configurations without requiring a full training run at every iteration. JoBS allocates an initial portion of the optimization budget to learn a scaling-law-inspired performance predictor that estimates fully trained LLM performance from only a small number of training steps. The remaining budget is then used to run BO with this predictor, eliminating the need for full training runs and enabling JoBS to explore significantly more data and model configurations within the same budget. We analyze JoBS' average regret and derive the optimal budget allocation between predictor learning and BO iterations. Empirically, JoBS outperforms independent data and model optimization methods and existing multi-fidelity BO baselines across a diverse set of downstream tasks.
 </small>
 </details>
 </li>
