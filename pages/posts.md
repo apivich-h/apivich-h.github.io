@@ -10,7 +10,7 @@ On this page I collate some of the posts I have published to the website.
 
 ## Posts with Dates
 
-The following posts have got a date[^1] attached to them.
+The following posts have got a date attached to them. They are generally life updates.
 
 <ul class="listing">
 <!-- <li class="listing-seperator">Posts with Dates</li> -->
@@ -44,7 +44,7 @@ The following posts have got a date[^1] attached to them.
 
 The following are a list of all text posts on my site sorted by category. Most of these are writings about my experince in school or in life in general. It is an excuse for me to do more writing outside of just academic papers.
 
-"P" refers to posted date, and "U" refers to last updated date (for posts that I continually update).
+"P" refers to posted date (for posts that I keep as record and do not continually update), and "U" refers to last updated date (for posts that I continually update).
 
 {% assign sorted_cats = site.categories | sort %}
 <ul class="listing">
@@ -65,7 +65,3 @@ The following are a list of all text posts on my site sorted by category. Most o
     {% endfor %}
 {% endfor %}
 </ul>
-
-<br>
-
-[^1]: As in _day, month and year_ date and not _I have an appointment with someone_ kind of date.

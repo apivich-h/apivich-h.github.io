@@ -164,25 +164,17 @@ Optimization of LLM training and inference configurations, such as hyperparamete
 </small>
 </details>
 </li>
-<br>
 
-</ol>
+<br/>
 
-<br>
+___
 
-# Undergraduate Senior Thesis
+<br/>
 
-The title of my undergraduate thesis (or final-year project for those who call it that) is **"Data Diversification in Different Domains"**. You can visit <a href="/projects/thesis-u">this page</a> for further details.
+# Older Projects
 
-<br>
+- The title of my undergraduate thesis (or final-year project for those who call it that) is **"Data Diversification in Different Domains"**. You can visit <a href="/projects/thesis-u">this page</a> for further details.
 
-# Industry-Related Projects
+- I have also worked on projects with PTTEP, a Thai company who deals with extraction of petroleum, while working as a data analyst around 2020. The projects I work on involves automation of tasks currently done by human, and will often require skills and knowledge from machine learning, statistics, mathematics and even physics.
 
-I, with a few others, are working on projects with PTTEP, a Thai company who deals with extraction of petroleum. The projects I work on involves automation of tasks currently done by human, and will often require skills and knowledge from machine learning, statistics, mathematics and even physics. 
-<!-- To make sure I do not break any non-disclosure agreements, I will not be describing the details of the projects here. -->
-
-<br>
-
-# Other Projects
-
-For other projects I have done in the past (mostly pre-2020 during my undergraduate), see <a href="/projects-old">here</a>.
+- For other miscellanous projects I have done in the past (mostly pre-2020 during my undergraduate), see <a href="/projects-old">here</a>.
