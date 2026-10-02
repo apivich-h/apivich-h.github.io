@@ -165,6 +165,8 @@ Optimization of LLM training and inference configurations, such as hyperparamete
 </details>
 </li>
 
+</ol>
+
 <br/>
 
 ___
