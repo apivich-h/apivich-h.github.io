@@ -15,6 +15,22 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
 
+**Jump to:** [2026](#2026) [2025](#2025) [2024](#2024) [2023](#2023)
+
+---
+
+## October 2026 - _Teardrop_ by Massive Attack {#2026}
+
+idk what this is but it's not lupus.
+
+Other shoutouts:
+
+- _Who Will Save You Now_ by Kodaline. The new album finally dropped, and I have mixed opinions on it to be honest. The opener is one of my highlights tho.
+
+- _Lasso the Moon_ by Ashe. The album is quite good actually, and the first few tracks are very fun. I recommend it.
+
+- _Molly_ by Emei.
+
 ---
 
 ## September 2026 - _Chain Reaction_ by Matilda Mann
@@ -23,13 +39,13 @@ I'm always pleased when I find a (relatively) smaller artist with a banger album
 
 Other shoutouts:
 
-- _iPod Touch_ by Ninajirachi. Not my usual type of music, but the album is incredible. It kept building up, it bops really hard, and it _just kept going_. Non-stop bopping album for me.
+- _iPod Touch_ by Ninajirachi. Not my usual type of music, but the album is incredible. It builds, it bops really hard, and then it _just kept going_. Non-stop bopping album for me.
 
 - _Back in Love_ by Suki Waterhouse.
 
 - _Andromeda_ by Weyes Blood. She recently did a really good show for BBC Proms, and I now realise how good her vocals are live.
 
-- _Parachute_ by Hayley Williams.
+- _Parachute_ by Hayley Williams. idk who hurt her but the song's good.
 
 Another extra section of shout-outs for songs from albums that dropped on 18 September. Why did so many big drops come out on this day? Likely because it was a week after the 25th anniversary of a certain event, and a week before Taylor Swift dropped a deluxe version of her ~~very mid~~ album. These include:
 
@@ -163,7 +179,7 @@ Other shoutouts:
 
 ---
 
-## December 2025 - _Man I Need_ by Olivia Dean
+## December 2025 - _Man I Need_ by Olivia Dean {#2025}
 
 I think I have already found out about _The Art of Loving_ a bit earlier in the year, but I have relistened to it a bit in the last few months of 2025 and the album really holds up. The whole vibe is quite happy and Olivia's vocals are great. Truly one of the AoTYs this year.
 
@@ -365,7 +381,7 @@ Other shoutouts:
 
 ---
 
-## December 2024 - _Image_ by Magdalena Bay
+## December 2024 - _Image_ by Magdalena Bay {#2024}
 
 This has got to be up there as one of best albums in 2024, and definitely an album I discovered too late into the year.
 
@@ -552,7 +568,7 @@ Other shoutouts:
 
 ---
 
-## December 2023 - _Knees Deep_ by The Beths
+## December 2023 - _Knees Deep_ by The Beths {#2023}
 
 Opening the list strong with this one. This is the reason I had to start the MMR on my blog.
 

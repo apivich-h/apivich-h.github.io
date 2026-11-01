@@ -32,7 +32,7 @@ For more details about my current progress see <a href="works">my academic works
 
 {% include image.html url="/images/profile.jpg" caption="Photo of myself (10 points if you know where this is)" width="320px" align="right" %}
 
-Hello. I am Apivich Hemachandra (in Thai: อภิวิชญ์ ​เหมะจันทร), although I also go by my nickname[^1] "Kaotoo" (in Thai: ข้าวตู).
+Hello! I am Apivich Hemachandra (in Thai: อภิวิชญ์ ​เหมะจันทร), although I also go by my nickname[^1] "Kaotoo" (in Thai: ข้าวตู).
 
 I am currently a Postdoctorate Associate at Singapore-MIT Alliance for Research and Technology (SMART), under the M3S IRG. Previously, I was a PhD student at the School of Computing at National University of Singapore (NUS), under the supervision of <a href="https://www.comp.nus.edu.sg/~ngsk/">See-Kiong Ng</a> and <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low Kian Hsiang</a>.
 
@@ -44,9 +44,9 @@ My general research interest is on data-efficient ML, especially on active learn
 
 Prior to my PhD, I completed my Bachelor's degree from Mahidol University International College (MUIC) in Thailand. I majored in Physics, however I also completed minors in Computer Science and Mathematics. My Bachelor's Thesis was related to <a href="/projects/thesis-u">data diversification and submodular maximisation</a>[^2]. I have also worked on different computer science-related projects with researchers in Thailand and in collaboration with local firms as a data analyst.
 
-### Personal Life
-
 {% include image.html url="/images/homepic.JPG" caption="A view of Chiang Mai from a rooftop" width="pw" align="top" enlarge=1 %}
+
+### Personal Life
 
 <!-- <details>  -->
 <!-- <summary><small>(Click to expand)</small></summary> -->
@@ -54,7 +54,7 @@ Prior to my PhD, I completed my Bachelor's degree from Mahidol University Intern
 I was born in Bangkok, however spent pretty much all of my childhood in Chiang Mai, right up until the end of high school. I then spent four years in Bangkok/Nakhon Pathom to complete my undergraduate degree. I have only been in Singapore since the start of my PhD (in 2021).
 <!-- <br/><br/> -->
 
-When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, bassist and vocalist, and have been playing varying amounts of music since high school. My music taste isn't that varied (generally alternative, indie or some genres of pop), but I do discuss them somewhere on this website (you'll have to find it yourself though). If you meet me in person, feel free to discuss music or recent live gigs you've been to with me.
+When I am not busy doing work, I enjoy playing and listening to music. I am a mediocre drummer, bassist and vocalist, and have been playing varying amounts of music since high school. My music taste isn't that varied (generally alternative, indie, or some sub-genres of pop -- see [here](/posts/music/monthly-music-recs) and [here](/posts/music/aoty) for what I've been listening to), but I do clock quite a large number of hours on my streaming apps. If you meet me in person, feel free to discuss music or recent live gigs you've been to with me.
 <!-- <br/><br/> -->
 
 I enjoy watching football (or soccer as some may call it), and am a fan of Nottingham Forest (who <s>will hopefully be</s> <i>are now</i> in the Premier League <s>soon</s>).
