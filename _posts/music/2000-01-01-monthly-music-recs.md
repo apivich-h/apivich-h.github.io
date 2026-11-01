@@ -15,11 +15,13 @@ Hi. Welcome to the page Monthly Music Recommendations (MMR), where I recommend a
 
 4. I will prioritise songs that were released more recently. Ultimately I will still prefer songs I like, but may give some bias towards more recent songs a bit more.
 
-**Jump to:** [2026](#2026) [2025](#2025) [2024](#2024) [2023](#2023)
+**Jump to:** [2026](#year-2026) [2025](#year-2025) [2024](#year-2024) [2023](#year-2023)
 
 ---
 
-## October 2026 - _Teardrop_ by Massive Attack {#2026}
+<a id="year-2026"></a>
+
+## October 2026 - _Teardrop_ by Massive Attack
 
 idk what this is but it's not lupus.
 
@@ -179,7 +181,9 @@ Other shoutouts:
 
 ---
 
-## December 2025 - _Man I Need_ by Olivia Dean {#2025}
+<a id="year-2025"></a>
+
+## December 2025 - _Man I Need_ by Olivia Dean
 
 I think I have already found out about _The Art of Loving_ a bit earlier in the year, but I have relistened to it a bit in the last few months of 2025 and the album really holds up. The whole vibe is quite happy and Olivia's vocals are great. Truly one of the AoTYs this year.
 
@@ -381,7 +385,9 @@ Other shoutouts:
 
 ---
 
-## December 2024 - _Image_ by Magdalena Bay {#2024}
+<a id="year-2024"></a>
+
+## December 2024 - _Image_ by Magdalena Bay
 
 This has got to be up there as one of best albums in 2024, and definitely an album I discovered too late into the year.
 
@@ -568,7 +574,9 @@ Other shoutouts:
 
 ---
 
-## December 2023 - _Knees Deep_ by The Beths {#2023}
+<a id="year-2023"></a>
+
+## December 2023 - _Knees Deep_ by The Beths
 
 Opening the list strong with this one. This is the reason I had to start the MMR on my blog.
 
